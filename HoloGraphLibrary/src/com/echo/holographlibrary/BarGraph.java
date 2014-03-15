@@ -23,16 +23,23 @@
 
 package com.echo.holographlibrary;
 
+import java.util.ArrayList;
+
 import android.content.Context;
-import android.graphics.*;
+import android.graphics.Bitmap;
 import android.graphics.Bitmap.Config;
+import android.graphics.Canvas;
+import android.graphics.Color;
+import android.graphics.Paint;
+import android.graphics.Path;
+import android.graphics.Point;
+import android.graphics.Rect;
+import android.graphics.RectF;
+import android.graphics.Region;
 import android.graphics.drawable.NinePatchDrawable;
 import android.util.AttributeSet;
 import android.view.MotionEvent;
 import android.view.View;
-import org.jetbrains.annotations.NotNull;
-
-import java.util.ArrayList;
 
 public class BarGraph extends View {
 
@@ -168,7 +175,10 @@ public class BarGraph extends View {
     }
 
     @Override
-    public boolean onTouchEvent(@NotNull MotionEvent event) {
+    public boolean onTouchEvent( MotionEvent event) {
+    	if(event == null){
+    		return false;
+    	}
 
         Point point = new Point();
         point.x = (int) event.getX();

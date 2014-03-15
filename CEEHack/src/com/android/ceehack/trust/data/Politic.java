@@ -5,69 +5,78 @@ package com.android.ceehack.trust.data;
  */
 public class Politic {
 
-    /**
-     * Politics name
-     */
-    @com.google.gson.annotations.SerializedName("name")
-    private String name;
+	@com.google.gson.annotations.SerializedName("name")
+	private String name;
 
-    /**
-     * Politics Surname
-     */
-    @com.google.gson.annotations.SerializedName("surname")
-    private boolean surname;
+	@com.google.gson.annotations.SerializedName("surname")
+	private boolean surname;
 
-    /**
-     * Item Id
-     */
-    @com.google.gson.annotations.SerializedName("id")
-    private String mId;
+	@com.google.gson.annotations.SerializedName("id")
+	private String mId;
+	
+	private Region region;
 
+	public Politic() {
 
+	}
+	
+	public Politic(String name, String surname) {
+		this.setId(surname);
+	}
 
-    /**
-     * Politic constructor
-     */
-    public Politic() {
+	public Region getRegion() {
+		return region;
+	}
 
-    }
+	public void setRegion(Region region) {
+		this.region = region;
+	}
 
-    /**
-     * Initializes a new ToDoItem
-     *
-     * @param name The name of politic
-     * @param surname The surname of politic
-     */
-    public Politic(String name, String surname) {
-        this.setId(surname);
-    }
+	@Override
+	public String toString() {
+		return name + " " + surname;
+	}
 
-    @Override
-    public String toString() {
-        return name + " "  + surname;
-    }
+	/**
+	 * Returns the politic id
+	 */
+	public String getId() {
+		return mId;
+	}
 
+	/**
+	 * Sets the politic id
+	 * 
+	 * @param id
+	 *            id to set
+	 */
+	public final void setId(String id) {
+		mId = id;
+	}
 
-    /**
-     * Returns the politic id
-     */
-    public String getId() {
-        return mId;
-    }
+	@Override
+	public int hashCode() {
+		final int prime = 31;
+		int result = 1;
+		result = prime * result + ((mId == null) ? 0 : mId.hashCode());
+		return result;
+	}
 
-    /**
-     * Sets the politic id
-     *
-     * @param id id to set
-     */
-    public final void setId(String id) {
-        mId = id;
-    }
-
-
-    @Override
-    public boolean equals(Object o) {
-        return o instanceof Politic && ((Politic) o).mId == mId;
-    }
+	@Override
+	public boolean equals(Object obj) {
+		if (this == obj)
+			return true;
+		if (obj == null)
+			return false;
+		if (!(obj instanceof Politic))
+			return false;
+		Politic other = (Politic) obj;
+		if (mId == null) {
+			if (other.mId != null)
+				return false;
+		} else if (!mId.equals(other.mId))
+			return false;
+		return true;
+	}
 
 }
