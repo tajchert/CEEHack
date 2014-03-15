@@ -6,7 +6,7 @@
     <string name="title_section1">Polityk</string>
     <string name="title_section2">Partia</string>
     <string name="title_activity_activity_party">ActivityParty</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="party_obietnice">Obietnice wyborcze</string>
     <string name="title_activity_main_activity_test">MainActivityTest</string>
     <string name="title_activity_main_selector">MainSelectorActivity</string>
 
