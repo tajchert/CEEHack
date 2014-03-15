@@ -10,40 +10,77 @@ var importer = (function() {
             error: function() { log.error('Request failed!'); }
         });
     };
-    
-    function getPolititians(party, callback) {
-        var politicians = [],
-            append      = null, 
-            request     = null,
+    function _ajaxAccu(url, callback) {
+        var accu        = [],
+            _append     = null, 
+            _request    = null,
             page        = 1,
-            LIMIT       = 100;
+            LIMIT       = 200;
         
-        append = function (data) {
-            var politicians_on_this_page = data.objects.map(function(el) {
-                var person = el.Dataobject.data;
-                return {
-                    nazwisko: person['ludzie.nazwa'],
-                    id: person.id
-                };
-            });
-            console.log('Got '+politicians_on_this_page.length+' items.');
+        _append = function (data) {
+            var part = data.objects;
+            console.log('Got '+part.length+' items.');
             
-            politicians = politicians.concat(politicians_on_this_page);
+            accu = accu.concat(part);
             
-            if(politicians_on_this_page.length == LIMIT) {
+            if(part.length == LIMIT) {
                 page += 1;
-                request();
+                _request();
             } else {
-                callback(politicians);
+                callback(accu);
             }
         }
         
-        request = function () {
-            _ajax('http://mojepanstwo.pl/dane/sejm_kluby/'+party+'.json?limit='+LIMIT+'&page='+page, append);
+        _request = function () {
+            _ajax(url+'?limit='+LIMIT+'&page='+page, _append);
         }
         
-        request();
+        _request();
+    };
+    
+    function getPolititians(party, callback) {
+        _ajaxAccu('http://mojepanstwo.pl/dane/sejm_kluby/'+party+'.json', 
+                  function(data) {
+                      callback(data.map(function(el) {
+                          var person = el.Dataobject.data;
+                          return {
+                              nazwisko: person['ludzie.nazwa'],
+                              id: person.id
+                          };
+                      }));
+                  });
     };    
+    
+    function getVotings(callback) {
+        _ajaxAccu('http://mojepanstwo.pl/dane/sejm_glosowania.json', 
+                  function(data) {
+                      callback(data.map(function(el) {
+                          var voting = el.Dataobject.data;
+                          return {
+                              tytul: voting.tytul,
+                              id:    voting.id
+                          };
+                      }));
+                  });
+    };    
+    
+    function getPartyVotes(party, voting, callback) {
+        _ajax('http://mojepanstwo.pl/dane/sejm_glosowania/'+voting+'.json', 
+              function (data) {
+                  var all_votes   = data._layers.wynikiKlubowe, 
+                      party_votes = all_votes.filter(function (element) {
+                                      return ""+element.klub_id == party;
+                                  })[0];
+                  
+                  callback({
+                      total:     party_votes.l, 
+                      absent:    party_votes.n,
+                      abstended: party_votes.w,
+                      "for":     party_votes.z,
+                      against:   party_votes.p
+                  });
+              });
+    };
     
     function getVotes(person, callback) {
         var vote_name = {
@@ -58,7 +95,7 @@ var importer = (function() {
                 var votes = data.objects.map(function (obj) {
                     var glosowanie = obj.Dataobject.data;
                     return {
-                        what: glosowanie['sejm_glosowania.tytul'],
+                        what: glosowanie['sejm_glosowania.id'],
                         how:  vote_name[glosowanie['glos_id']]
                     };
                 });
@@ -71,6 +108,13 @@ var importer = (function() {
     
     return {
         getPolititians: getPolititians,
-        getVotes: getVotes
+        getVotes: getVotes,
+        getVotings: getVotings,
+        getPartyVotes: getPartyVotes
     };
 })();
+
+//importer.getPolititians(1, function (politicians){console.log('politicians', politicians)});
+//importer.getVotes(406, function (votes) { console.log(votes.map(function(el){return el.how})); });
+//importer.getVotings(function (votings) { console.log('votings', votings); });
+importer.getPartyVotes(1, 4364, function (votes) { console.log('party votes', votes); });
