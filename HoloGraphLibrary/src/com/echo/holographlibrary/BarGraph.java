@@ -122,7 +122,7 @@ public class BarGraph extends View {
             p.setAlpha(50);
             p.setAntiAlias(true);
 
-            canvas.drawLine(0, getHeight() - bottomPadding + 10, getWidth(), getHeight() - bottomPadding + 10, p);
+            //canvas.drawLine(0, getHeight() - bottomPadding + 10, getWidth(), getHeight() - bottomPadding + 10, p);
 
             float barWidth = (getWidth() - (padding * 2) * points.size()) / points.size();
 
@@ -144,7 +144,8 @@ public class BarGraph extends View {
 
                 this.p.setColor(p.getColor());
                 this.p.setAlpha(255);
-                canvas.drawRect(r, this.p);
+                //canvas.drawRect(r, this.p);
+                canvas.drawRoundRect(new RectF(r.left, r.top, r.right, r.bottom), 10, 10, this.p);
                 this.p.setTextSize(20);
                 canvas.drawText(p.getName(), (int) (((r.left + r.right) / 2) - (this.p.measureText(p.getName()) / 2)), getHeight() - 5, this.p);
                 if (showBarText) {
@@ -179,24 +180,27 @@ public class BarGraph extends View {
     	if(event == null){
     		return false;
     	}
-
+    	
         Point point = new Point();
         point.x = (int) event.getX();
         point.y = (int) event.getY();
 
         int count = 0;
         for (Bar bar : points) {
-            Region r = new Region();
-            r.setPath(bar.getPath(), bar.getRegion());
-            if (r.contains(point.x, point.y) && event.getAction() == MotionEvent.ACTION_DOWN) {
-                indexSelected = count;
-            } else if (event.getAction() == MotionEvent.ACTION_UP) {
-                if (r.contains(point.x, point.y) && listener != null) {
-                    listener.onClick(indexSelected);
-                }
-                indexSelected = -1;
-            }
-            count++;
+        	if(bar!=null && bar.getPath() != null && bar.getRegion() != null){
+	        	
+	            Region r = new Region();
+	            r.setPath(bar.getPath(), bar.getRegion());
+	            if (r.contains(point.x, point.y) && event.getAction() == MotionEvent.ACTION_DOWN) {
+	                indexSelected = count;
+	            } else if (event.getAction() == MotionEvent.ACTION_UP) {
+	                if (r.contains(point.x, point.y) && listener != null) {
+	                    listener.onClick(indexSelected);
+	                }
+	                indexSelected = -1;
+	            }
+	            count++;
+        	}
         }
 
         if (event.getAction() == MotionEvent.ACTION_DOWN || event.getAction() == MotionEvent.ACTION_UP) {

@@ -20,15 +20,16 @@
         <activity
             android:name="com.android.ceehack.trust.ActivityParty"
             android:label="@string/title_activity_activity_party" >
+            
+        </activity>
+        <activity
+            android:name="com.android.ceehack.trust.ui.MainSelectorActivity"
+            android:label="@string/title_activity_main_selector" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
-        </activity>
-        <activity
-            android:name="com.android.ceehack.trust.ui.MainSelectorActivity"
-            android:label="@string/title_activity_main_selector" >
         </activity>
     </application>
 

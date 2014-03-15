@@ -3,9 +3,12 @@ package com.android.ceehack.trust;
 import com.android.ceehack.trust.cardfragments.CardsGraphFragment;
 
 import android.app.ActionBar.LayoutParams;
+import android.app.ActionBar;
 import android.app.Activity;
 import android.app.Fragment;
 import android.app.FragmentTransaction;
+import android.graphics.Color;
+import android.graphics.drawable.ColorDrawable;
 import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.Menu;
@@ -13,6 +16,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.EditText;
 import android.widget.FrameLayout;
+import android.widget.LinearLayout;
 
 public class ActivityParty extends Activity {
 	private static final int CONTENT_VIEW_ID = 10101010;
@@ -29,6 +33,12 @@ public class ActivityParty extends Activity {
             FragmentTransaction ft = getFragmentManager().beginTransaction();
             ft.add(CONTENT_VIEW_ID, charFragment).commit();
         }
+        
+        ActionBar actionBar = getActionBar();
+        
+		actionBar.setDisplayShowHomeEnabled(true);
+		actionBar.setHomeButtonEnabled(true);
+		actionBar.setDisplayHomeAsUpEnabled(true); 
     }
 
     public static class DebugExampleTwoFragment extends Fragment {
