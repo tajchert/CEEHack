@@ -16,6 +16,11 @@
         <activity
             android:name="com.android.ceehack.trust.ActivityMain"
             android:label="@string/app_name" >
+            
+        </activity>
+        <activity
+            android:name="com.android.ceehack.trust.ActivityParty"
+            android:label="@string/title_activity_activity_party" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
