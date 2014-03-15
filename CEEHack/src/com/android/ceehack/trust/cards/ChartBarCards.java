@@ -48,11 +48,11 @@ public class ChartBarCards extends Card {
 		ArrayList<Bar> points = new ArrayList<Bar>();
 		Bar d = new Bar();
 		d.setColor(Color.parseColor("#99CC00"));
-		d.setName("Test1");
+		d.setName("");
 		d.setValue(10);
 		Bar d2 = new Bar();
 		d2.setColor(Color.parseColor("#FFBB33"));
-		d2.setName("Test2");
+		d2.setName("");
 		d2.setValue(20);
 		points.add(d);
 		points.add(d2);

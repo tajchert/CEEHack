@@ -7,11 +7,15 @@ import it.gmariotti.cardslib.library.view.CardListView;
 
 import java.util.ArrayList;
 
+import android.app.ActionBar;
 import android.app.Fragment;
+import android.graphics.Color;
+import android.graphics.drawable.ColorDrawable;
 import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.LinearLayout;
 
 import com.android.ceehack.trust.R;
 import com.android.ceehack.trust.cards.ChartBarCards;
@@ -22,16 +26,22 @@ public class CardsGraphFragment extends Fragment {
 	public CardsGraphFragment() {
 	}
 	@Override
-	public View onCreateView(LayoutInflater inflater, ViewGroup container,
-			Bundle savedInstanceState) {
+	public View onCreateView(LayoutInflater inflater, ViewGroup container,Bundle savedInstanceState) {
 		return inflater.inflate(R.layout.cards_fragment_chart, container,
 				false);
+		
 	}
 
 	@Override
 	public void onActivityCreated(Bundle savedInstanceState) {
 		super.onActivityCreated(savedInstanceState);
+		ActionBar actionBar = getActivity().getActionBar();
+		actionBar.setBackgroundDrawable(new ColorDrawable(Color
+				.rgb(7, 152, 227)));
 
+		//LinearLayout ly = (LinearLayout) getActivity().findViewById(R.id.mainLay);
+		//ly.setBackgroundColor(Color.rgb(0, 88, 133));
+        
 		initCards();
 	}
 
