@@ -47,7 +47,7 @@ public class BarGraph extends View {
     private Paint p = new Paint();
     private Path path = new Path();
     private Rect r;
-    private boolean showBarText = true;
+    private boolean showBarText = false;
     private int indexSelected = -1;
     private OnBarClickedListener listener;
     private Bitmap fullImage;

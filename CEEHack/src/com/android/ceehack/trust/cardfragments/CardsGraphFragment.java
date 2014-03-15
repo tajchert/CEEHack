@@ -14,7 +14,8 @@ import android.view.View;
 import android.view.ViewGroup;
 
 import com.android.ceehack.trust.R;
-import com.android.ceehack.trust.cards.ChartCard;
+import com.android.ceehack.trust.cards.ChartBarCards;
+import com.android.ceehack.trust.cards.ChartPieCard;
 
 
 public class CardsGraphFragment extends Fragment {
@@ -37,12 +38,12 @@ public class CardsGraphFragment extends Fragment {
 	private void initCards() {
 
 		// Init an array of Cards
-		ArrayList<Card> cardsGrades = new ArrayList<Card>();
+		ArrayList<Card> cardsChart = new ArrayList<Card>();
 		for (int i = 0; i < 5; i++) {
 			Card card = init_chart_card();
-			cardsGrades.add(card);
+			cardsChart.add(card);
 		}
-		CardArrayAdapter mCardArrayAdapterGrades = new CardArrayAdapter(getActivity(), cardsGrades);
+		CardArrayAdapter mCardArrayAdapterGrades = new CardArrayAdapter(getActivity(), cardsChart);
 
 		CardListView listView = (CardListView) getActivity().findViewById(R.id.card_list);
 		if (listView != null) {
@@ -51,8 +52,10 @@ public class CardsGraphFragment extends Fragment {
 	}
 
 	private Card init_chart_card() {
-		ChartCard card = new ChartCard(getActivity());
-
+		//ChartPieCard card = new ChartPieCard(getActivity());
+		
+		ChartBarCards card = new ChartBarCards(getActivity());
+		
 		CardExpand expand = new CardExpand(getActivity());
 		card.addCardExpand(expand);
 		card.setBackgroundResource(getResources().getDrawable(R.drawable.card_back));

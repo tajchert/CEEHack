@@ -8,5 +8,6 @@
     <string name="title_activity_activity_party">ActivityParty</string>
     <string name="hello_world">Hello world!</string>
     <string name="title_activity_main_activity_test">MainActivityTest</string>
+    <string name="title_activity_main_selector">MainSelectorActivity</string>
 
 </resources>
