@@ -36,6 +36,10 @@
             android:label="@string/title_activity_activity_detail"
             android:parentActivityName="com.android.ceehack.trust.ActivityParty" >
         </activity>
+        <activity
+            android:name="com.android.ceehack.trust.ui.ActivityPartySelector"
+            android:label="@string/title_activity_activity_party_selector" >
+        </activity>
     </application>
 
 </manifest>

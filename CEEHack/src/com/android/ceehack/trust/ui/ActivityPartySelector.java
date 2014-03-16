@@ -17,11 +17,10 @@ import android.widget.ArrayAdapter;
 import android.widget.LinearLayout;
 import android.widget.ListView;
 
-import com.android.ceehack.trust.ActivityDetail;
 import com.android.ceehack.trust.ActivityParty;
 import com.android.ceehack.trust.R;
 
-public class MainSelectorActivity extends Activity {
+public class ActivityPartySelector extends Activity {
 	private ListView mainListView;
 	private ArrayAdapter<String> listAdapter;
 
@@ -38,27 +37,25 @@ public class MainSelectorActivity extends Activity {
 
 		// Find the ListView resource.
 		mainListView = (ListView) findViewById(R.id.mainListView);
-		String[] planets = new String[] { "Sejm", "Senat",
-				"Parlament Europejski" };
+		String[] planets = new String[] { "Platforma Obywatelska", "Prawo i Sprawiedliwość" };
 		ArrayList<String> planetList = new ArrayList<String>();
 		planetList.addAll(Arrays.asList(planets));
 		listAdapter = new ArrayAdapter<String>(this,
 				R.layout.list_view_row_main_page, planetList);
 		mainListView.setOnItemClickListener(new OnItemClickListener() {
 			@Override
-			public void onItemClick(AdapterView<?> adapter, View v,
-					int position, long arg3) {
+			public void onItemClick(AdapterView<?> adapter, View v, int position, long arg3) {
 				String value = (String) adapter.getItemAtPosition(position);
 				switch (position) {
 				case 0:
-					Intent myIntentDetail = new Intent(MainSelectorActivity.this, ActivityPartySelector.class);
+					Intent myIntentParty = new Intent(ActivityPartySelector.this, ActivityParty.class);
 					//myIntent.putExtra("key", value); //Optional parameters
-					MainSelectorActivity.this.startActivity(myIntentDetail);
+					ActivityPartySelector.this.startActivity(myIntentParty);
 					break;
 				case 1:
-					Intent myIntentParty = new Intent(MainSelectorActivity.this, ActivityPartySelector.class);
+					myIntentParty = new Intent(ActivityPartySelector.this, ActivityParty.class);
 					//myIntent.putExtra("key", value); //Optional parameters
-					MainSelectorActivity.this.startActivity(myIntentParty);
+					ActivityPartySelector.this.startActivity(myIntentParty);
 					break;
 				case 2:
 					break;

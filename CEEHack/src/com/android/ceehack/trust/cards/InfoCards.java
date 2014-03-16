@@ -1,10 +1,8 @@
 package com.android.ceehack.trust.cards;
 
 import it.gmariotti.cardslib.library.internal.Card;
-import it.gmariotti.cardslib.library.internal.Card.OnCardClickListener;
 
 import java.text.SimpleDateFormat;
-import java.util.Set;
 
 import android.content.Context;
 import android.content.Intent;
@@ -13,11 +11,9 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.TextView;
-import android.widget.Toast;
 
-import com.android.ceehack.trust.ActivityParty;
+import com.android.ceehack.trust.ActivityDetail;
 import com.android.ceehack.trust.R;
-import com.android.ceehack.trust.ui.MainSelectorActivity;
 
 public class InfoCards extends Card {
 	private SimpleDateFormat sdf = new SimpleDateFormat("dd.MM.yyyy",
@@ -45,7 +41,7 @@ public class InfoCards extends Card {
 		setOnClickListener(new OnCardClickListener() {
             @Override
             public void onClick(Card card, View view) {
-            	Intent myIntentParty = new Intent(context, ActivityParty.class);
+            	Intent myIntentParty = new Intent(context, ActivityDetail.class);
         		//myIntent.putExtra("key", value); //Optional parameters
             	context.startActivity(myIntentParty);
             }
