@@ -14,5 +14,7 @@
     <string name="proof">Dowód</string>
     <string name="title_activity_activity_detail">ActivityDetail</string>
     <string name="hello_world">Hello world!</string>
-
+    <string name="tmp_title_chart">Głosowania nad ustawami związanymi z obietnicą</string>
+    <string name="tmp_content_chart">Drogi Marszałku, Wysoka Izbo. PKB rośnie. Różnorakie i realizacji obecnej sytuacji. Takowe informacje są tajne, nie możemy zdradzać iż wdrożenie nowych, lepszych rozwiązań spełnia.</string>
+    
 </resources>
