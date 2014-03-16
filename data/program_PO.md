@@ -156,6 +156,38 @@ W	ramach	reformy	polskiej	armii	wprowadzili-• śmy	nowe	rozwiązania	dotycząc
 
 Wydłużyliśmy możliwy okres szkolenia• żołnie-rza	zawodowego	z	1,5	roku	do	3	lat.
 
+Przebudujemy	 system	 dowodzenia	 wojskiem • w	celu	poprawy	jego	funkcjonalności.
+
+Poprawimy funkcjonowanie systemów infor-•matycznych	 na	 wszystkich	 szczeblach	 dowo-dzenia	oraz	ich	wsparcia.
+
+Kontynuując	racjonalizację	zatrudnienia	w	resor-• cie	obrony	narodowej,	ustabilizujemy sytuacjękadrową żołnierzy i pracowników cywilnych.
+
+Wydłużymy	aktywność	wojskową	żołnierzy.
+
+Na	koniec	2011	roku	osiągniemy	proporcję	60% • jednostek	operacyjnych	do	40%	jednostek	za-bezpieczających,	 co	 oznacza	 więcej wojsk donatychmiastowego użycia.
+
+Ułatwimy korpusowi szeregowych zawodo-•wych możliwość awansu oraz przygotowaniasię do podjęcia pracy po zakończeniu służbywojskowej.	 Wojsko	 nie	 powinno	 produkować nowych	bezrobotnych,	tylko	efektywnie	wyko-rzystywać	swój	potencjał.
+
+Utrzymamy	 na	 poziomie	 powyżej	 25%	 udział • wydatków	majątkowych,	a	więc	idących	na	mo-dernizację armii,	w	budżecie	MON,	gwarantu-jąc	armii	stały	dopływ	nowoczesnego	sprzętu.
+
+Przygotujemy	tzw.	mapę	drogową • zakończeniapolskiej misji w Afganistanie.	Zrealizujemy	ją zgodnie	z	naszym	interesem	narodowym	oraz w	porozumieniu	z	sojusznikami	i	rządem	afgań-skim,	 tak	 by	 bezpiecznie	 przekazać	 kontrolo-waną	 przez	 Wojsko	 Polskie	 prowincję	 w	 ręce lokalnych	władz.
+
+W	 ramach	 Unii	 Europejskiej	 będziemy	 wspie-• rać	 w	 działaniach	 na	 rzecz	 rozwoju WspólnejPolityki Bezpieczeństwa i Obrony UE	Wysokie-go	 Przedstawiciela.	 Szczególny	 nacisk	 chcemy położyć	na	realizację	inicjatywy	Polski	i	jej	part-nerów	 z	 Trójkąta	 Weimarskiego	 dotyczącej podniesienia sprawności UE w zakresie reago-wania kryzysowego.
+
+Będziemy	prowadzić	dalszą	promocję	polskich • wojskowych	oraz	pracowników	cywilnych	jako kandydatów	na	stanowiska	służące	interesowi Polski	–	w	obu	organizacjach.
+
+Symbolicznym	 potwierdzeniem	 rosnącej	 roli • Polski	jest	piastowanie	przez	naszych	rodaków kluczowych	stanowisk	w	unijnych	strukturach: Jerzy Buzek	przewodniczy	Parlamentowi	Euro-pejskiemu,	za	budżet	na	lata	2014–2020	odpo-wiada	Janusz Lewandowski. 
+
+Flagowe	przedsięwzięcie	rządu	stanowiło • Part-nerstwo Wschodnie. Niezaprzeczalną	polską	ra-cją	stanu,	podzielaną	przez	wszystkie	polskie	siły polityczne,	jest	zbliżenie	oraz	postępująca	i	stop-niowa	 integracja	 państw	 sąsiedztwa	 (krajów Europy	 Wschodniej	 i	 Kaukazu	 Południowego) z	Unią	Europejską.	Jako	pierwsi	podjęliśmy	w	tej mierze	skuteczne	działania	na	forum	Unii,	słusz-nie	wychodząc	z	założenia,	że	inicjatywa	ta	może się	udać	tylko	przy	wsparciu	jej	przez	naszych innych	partnerów.	Symboliczne	gesty	w	tej	de-likatnej	materii	nie	wystarczą,	trzeba	mieć	po-mysł	na	prowadzenie	skutecznej	polityki. 
+
+Przygotowaliśmy Polskę do półrocznej Pre-•zydencji w Radzie UE.	 W	 programie	 polskiej Prezydencji	zaproponowaliśmy	Unii	konkretne rozwiązania.	Skoncentrowaliśmy	się	w	znacznej mierze	na	sprawach	gospodarczych.
+
+W	 ramach	 Prezydencji	 przygotowaliśmy	 m.in. • nowe	 unijne	 prawo	 regulujące	 transakcje	 on-line	(tzw.	28	Reżim	Prawny	–	Europejskie	Pra-wo	 Umów).	 Wsparliśmy	 też	 działania	 Komisji Europejskiej	 dotyczące	 likwidacji	 niepotrzeb-nych	 barier	 rynkowych.	 Nasz rząd zdołał też wypracować pierwszy w historii mandat ne-gocjacyjny dla całej UE do rozmów gazowychz Turkmenistanem i Azerbejdżanem. 
+
+Wierzymy,	że	odpowiedzią	na	dzisiejszy	kryzys • gospodarczy	i	niepewne	środowisko	międzyna-rodowe	jest	„nie	mniej,	a	więcej	Europy”,	dlate-go	wspieramy	wzmacnianie	unijnych	instytucji wspólnotowych,	a	także	ściślejszą	koordynację polityk	 gospodarczych	 prowadzonych	 przez poszczególne	 państwa	 członkowskie,	 a	 także dokończenie	budowy	jednolitego	rynku.	W	ra-mach	Prezydencji	przygotowujemy unijne roz-porządzenia i dyrektywy, które wzmacniajązarządzanie gospodarcze w Unii,	a	ich	celem jest	trwałe	zabezpieczenie	Europy	przed	kolej-nymi	kryzysami	(tzw.	Sześciopak).
+
+W	 Unii	 Europejskiej	 kluczowe	 decyzje	 podej-• mowane	są	przez	państwa	członkowskie.	Nie-mniej	 jednak	 skuteczny	 jest	 tylko	 ten,	 kto do	 promocji	 swoich	 racji	 używa	 całego	 do-stępnego	 instrumentarium.	 Poważnie	 trak-tujemy	 wszystkie	 unijne	 gremia	 decyzyjne.W	Parlamencie	Europejskim,	który	powoli	sta-je	 się	 równorzędnym	 partnerem	 w	 procesie podejmowania	 decyzji,	 pracujemy	 w	 ramach największej	i	najbardziej	wpływowej	chadeckiej rodziny	 politycznej.	 Wypracowaliśmy dobrekontakty z Komisją Europejską,	wzmocniliśmy także	 naszą	 obecność	 w	 rodzącej	 się	 unijnej dyplomacji.	 Nasz	 dyplomata	 Maciej	 Popowski jest	 jednym	 z	 czterech	 najważniejszych	 rangą urzędników	 zarządzających	 Europejską	 Służbą Działań	Zewnętrznych.	Dzięki	działaniom	nasze-go	rządu,	w	systemie	międzynarodowym	Polska jest	postrzegana	jako	autor	rozwiązań,	kraj,	któ-ry	nie	czeka	na	stanowisko	innych,	lecz	zapew-nia	tak	potrzebne	inicjatywy.
+
 
 
 
