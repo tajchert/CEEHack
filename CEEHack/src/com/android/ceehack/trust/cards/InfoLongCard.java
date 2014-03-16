@@ -60,7 +60,8 @@ public class InfoLongCard extends Card {
 		text = (TextView) view.findViewById(R.id.textViewContentLong);
 		date.setText(dateContent);
 		if(content.length()> 150){
-			content = content.substring(0, 150);
+			content = content.substring(0, 150) +"...";
+			
 		}
 		
 		if (content != null) {

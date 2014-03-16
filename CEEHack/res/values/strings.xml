@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">DOVT</string>
+    <string name="app_name">TinD</string>
     <string name="action_settings">Settings</string>
     <string name="title_section1">Polityk</string>
     <string name="title_section2">Partia</string>
-    <string name="title_activity_activity_party">ActivityParty</string>
+    <string name="title_activity_activity_party">PO</string>
     <string name="party_obietnice">Obietnice wyborcze</string>
     <string name="title_activity_main_activity_test">MainActivityTest</string>
-    <string name="title_activity_main_selector">MainSelectorActivity</string>
+    <string name="title_activity_main_selector">TinD</string>
     <string name="isFulfilled">Wypełniono obietnicę?</string>
     <string name="addproof">Dodaj dowód</string>
     <string name="proof">Dowód</string>
@@ -16,6 +16,6 @@
     <string name="hello_world">Hello world!</string>
     <string name="tmp_title_chart">Głosowania nad ustawami związanymi z obietnicą</string>
     <string name="tmp_content_chart">Drogi Marszałku, Wysoka Izbo. PKB rośnie. Różnorakie i realizacji obecnej sytuacji. Takowe informacje są tajne, nie możemy zdradzać iż wdrożenie nowych, lepszych rozwiązań spełnia.</string>
-    <string name="title_activity_activity_party_selector">ActivityPartySelector</string>
+    <string name="title_activity_activity_party_selector">Partie polityczne</string>
 
 </resources>

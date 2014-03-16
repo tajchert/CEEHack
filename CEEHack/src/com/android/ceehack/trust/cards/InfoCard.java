@@ -58,8 +58,8 @@ public class InfoCard extends Card {
 		date = (TextView) view.findViewById(R.id.textViewDate);
 		text = (TextView) view.findViewById(R.id.textViewContent);
 		date.setText(dateContent +"");
-		if(content.length()> 40){
-			content = content.substring(0, 40);
+		if(content.length()> 38){
+			content = content.substring(0, 38)+"...";
 		}
 		
 		if (content != null) {

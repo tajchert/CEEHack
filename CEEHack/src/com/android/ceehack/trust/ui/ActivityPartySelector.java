@@ -41,7 +41,8 @@ public class ActivityPartySelector extends Activity {
 
 		// Find the ListView resource.
 		mainListView = (ListView) findViewById(R.id.mainListView);
-		String[] planets = new String[] { "Platforma Obywatelska", "Prawo i Sprawiedliwość" };
+		String[] planets = new String[] { "Platforma Obywatelska", "Prawo i Sprawiedliwość", "Polskie Stronnictwo Ludowe", 
+				"Sojusz Lewicy Demokratycznej", "Solidarna Polska", "Polska Razem", "Socjaldemokracja Polska", "Unia Pracy" };
 		ArrayList<String> planetList = new ArrayList<String>();
 		planetList.addAll(Arrays.asList(planets));
 		listAdapter = new ArrayAdapter<String>(this,
@@ -57,9 +58,6 @@ public class ActivityPartySelector extends Activity {
 					ActivityPartySelector.this.startActivity(myIntentParty);
 					break;
 				case 1:
-					myIntentParty = new Intent(ActivityPartySelector.this, ActivityParty.class);
-					//myIntent.putExtra("key", value); //Optional parameters
-					ActivityPartySelector.this.startActivity(myIntentParty);
 					break;
 				case 2:
 					break;
