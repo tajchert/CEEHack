@@ -20,7 +20,7 @@
 <resources>
 
     <!-- Card -->
-    <dimen name="card_base_empty_height">96dp</dimen>
+    <dimen name="card_base_empty_height">10dp</dimen>
     <dimen name="card_background_default_radius">2dip</dimen>
 
     <!-- Main -->

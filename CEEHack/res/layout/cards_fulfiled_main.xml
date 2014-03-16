@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <TextView
+        android:id="@+id/textViewQuestion"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="6dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_toLeftOf="@+id/imageViewYes"
+        android:text="@string/isFulfilled"
+        android:textStyle="bold"
+        android:textSize="20sp" />
+
+    <ImageView
+        android:id="@+id/imageViewNo"
+        android:layout_width="60dp"
+        android:layout_height="40dp"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:background="#fff" />
+    <ImageView
+        android:id="@+id/imageViewYes"
+        android:layout_width="60dp"
+        android:layout_height="40dp"
+        android:layout_toLeftOf="@+id/imageViewNo"
+        android:layout_alignParentTop="true"
+        android:background="#000" />
+
+    <TextView
+        android:id="@+id/textViewYes"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/imageViewYes"
+        android:layout_alignLeft="@+id/imageViewYes"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="6dp"
+        android:layout_alignRight="@+id/imageViewYes"
+        android:text="Tak"
+        android:gravity="center"
+        android:textColor="#fff"
+        android:textSize="20sp" />
+    <TextView
+        android:id="@+id/textViewNo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/imageViewNo"
+        android:layout_alignLeft="@+id/imageViewNo"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="6dp"
+        android:layout_alignRight="@+id/imageViewNo"
+        android:text="Nie"
+        android:gravity="center"
+        android:textColor="#fff"
+        android:textSize="20sp" />
+    
+
+</RelativeLayout>

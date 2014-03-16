@@ -6,17 +6,13 @@ import android.app.Activity;
 import android.app.Fragment;
 import android.app.FragmentTransaction;
 import android.os.Bundle;
-import android.view.LayoutInflater;
 import android.view.Menu;
 import android.view.MenuItem;
-import android.view.View;
-import android.view.ViewGroup;
-import android.widget.EditText;
 import android.widget.FrameLayout;
 
-import com.android.ceehack.trust.cardfragments.CardsGraphFragment;
+import com.android.ceehack.trust.cardfragments.CardsDetailFragment;
 
-public class ActivityParty extends Activity {
+public class ActivityDetail extends Activity {
 	private static final int CONTENT_VIEW_ID = 10101010;
 
 	@Override
@@ -29,9 +25,9 @@ public class ActivityParty extends Activity {
 
 		if (savedInstanceState == null) {
 			// Fragment newFragment = new DebugExampleTwoFragment();
-			Fragment charFragment = new CardsGraphFragment();
+			Fragment detailFragment = new CardsDetailFragment();
 			FragmentTransaction ft = getFragmentManager().beginTransaction();
-			ft.add(CONTENT_VIEW_ID, charFragment).commit();
+			ft.add(CONTENT_VIEW_ID, detailFragment).commit();
 		}
 
 		ActionBar actionBar = getActionBar();
@@ -41,20 +37,8 @@ public class ActivityParty extends Activity {
 		actionBar.setDisplayHomeAsUpEnabled(true);
 	}
 
-	public static class DebugExampleTwoFragment extends Fragment {
-		@Override
-		public View onCreateView(LayoutInflater inflater, ViewGroup container,
-				Bundle savedInstanceState) {
-			EditText v = new EditText(getActivity());
-			v.setText("Hello Fragment HI!");
-			return v;
-		}
-	}
-
 	public boolean onOptionsItemSelected(int featureId, MenuItem item) {
-
 		int itemId = item.getItemId();
-
 		if (itemId == android.R.id.home) {
 			super.onBackPressed();
 		}

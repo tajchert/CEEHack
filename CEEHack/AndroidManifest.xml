@@ -19,8 +19,8 @@
         </activity>
         <activity
             android:name="com.android.ceehack.trust.ActivityParty"
-            android:label="@string/title_activity_activity_party" >
-            
+            android:label="@string/title_activity_activity_party"
+            android:parentActivityName="com.android.ceehack.trust.ui.MainSelectorActivity" >
         </activity>
         <activity
             android:name="com.android.ceehack.trust.ui.MainSelectorActivity"
@@ -30,6 +30,11 @@
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+        </activity>
+        <activity
+            android:name="com.android.ceehack.trust.ActivityDetail"
+            android:label="@string/title_activity_activity_detail"
+            android:parentActivityName="com.android.ceehack.trust.ui.ActivityParty" >
         </activity>
     </application>
 

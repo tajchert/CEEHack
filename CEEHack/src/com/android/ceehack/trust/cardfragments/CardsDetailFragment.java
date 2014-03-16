@@ -19,16 +19,17 @@ import android.widget.LinearLayout;
 
 import com.android.ceehack.trust.R;
 import com.android.ceehack.trust.cards.ChartBarCards;
+import com.android.ceehack.trust.cards.FulfilledCard;
+import com.android.ceehack.trust.cards.InfoCards;
+import com.android.ceehack.trust.cards.ProofCard;
 
 
-public class CardsFragment extends Fragment {
-	public CardsFragment() {
+public class CardsDetailFragment extends Fragment {
+	public CardsDetailFragment() {
 	}
 	@Override
 	public View onCreateView(LayoutInflater inflater, ViewGroup container,Bundle savedInstanceState) {
-		return inflater.inflate(R.layout.cards_fragment_chart, container,
-				false);
-		
+		return inflater.inflate(R.layout.cards_fragment_info, container,false);
 	}
 
 	@Override
@@ -38,7 +39,7 @@ public class CardsFragment extends Fragment {
 		actionBar.setBackgroundDrawable(new ColorDrawable(Color.rgb(7, 152, 227)));
 
 		LinearLayout ly = (LinearLayout) getActivity().findViewById(R.id.mainLay);
-		ly.setBackgroundColor(Color.BLACK);
+		ly.setBackgroundColor(Color.parseColor("#232323"));
         
 		initCards();
 	}
@@ -47,8 +48,15 @@ public class CardsFragment extends Fragment {
 
 		// Init an array of Cards
 		ArrayList<Card> cardsChart = new ArrayList<Card>();
+		Card card = init_info_card();
+		cardsChart.add(card);
+		card = init_fulfilled_card();
+		cardsChart.add(card);
+		card = init_proof_card();
+		cardsChart.add(card);
+		
 		for (int i = 0; i < 5; i++) {
-			Card card = init_info_card();
+			card = init_chart_card();
 			cardsChart.add(card);
 		}
 		CardArrayAdapter mCardArrayAdapterGrades = new CardArrayAdapter(getActivity(), cardsChart);
@@ -58,8 +66,7 @@ public class CardsFragment extends Fragment {
 			listView.setAdapter(mCardArrayAdapterGrades);
 		}
 	}
-
-	private Card init_info_card() {
+	private Card init_chart_card() {
 		//ChartPieCard card = new ChartPieCard(getActivity());
 		
 		ChartBarCards card = new ChartBarCards(getActivity());
@@ -69,4 +76,38 @@ public class CardsFragment extends Fragment {
 		card.setBackgroundResource(getResources().getDrawable(R.drawable.card_back));
 		return card;
 	}
+	private Card init_info_card() {
+		//ChartPieCard card = new ChartPieCard(getActivity());
+		
+		InfoCards card = new InfoCards(getActivity());
+		
+		CardExpand expand = new CardExpand(getActivity());
+		card.addCardExpand(expand);
+		card.setBackgroundResource(getResources().getDrawable(R.drawable.card_back));
+		return card;
+	}
+	private Card init_fulfilled_card() {
+		//ChartPieCard card = new ChartPieCard(getActivity());
+		
+		FulfilledCard card = new FulfilledCard(getActivity());
+		
+		CardExpand expand = new CardExpand(getActivity());
+		card.addCardExpand(expand);
+		card.setBackgroundResource(getResources().getDrawable(R.drawable.card_back));
+		return card;
+	}
+	private Card init_proof_card() {
+		//ChartPieCard card = new ChartPieCard(getActivity());
+		
+		ProofCard card = new ProofCard(getActivity());
+		
+		CardExpand expand = new CardExpand(getActivity());
+		card.addCardExpand(expand);
+		card.setBackgroundResource(getResources().getDrawable(R.drawable.card_back));
+		return card;
+	}
+	
+	
+	
+	
 }
