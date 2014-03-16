@@ -1,40 +1,40 @@
 [
   {
-    "brief":    "3000 mld zł na Program Inteligentnego Rozwoju",
+    "brief":    "300 mld zł na Program Inteligentnego Rozwoju",
     "full":     "Wynegocjujemy ponad 300 mld złotych w budżecie UE na lata 2014–2020 na nasz program inteligentnego rozwoju, który wesprzemy kolejnymi 100 mld złotych środków własnych.",
-    "status":   "done",
+    "status":   "fulfilled",
     "due_date": "18.11.2015",
-    "justification":     "",
+    "justification":     "W lutym tego roku polski rząd wynegocjował w Brukseli 72,9 mld euro w ramach funduszu spójności. Obietnica została więc dotrzymana i to z nawiązką – biorąc pod uwagę ówczesny kurs euro, nasz kraj otrzyma w okresie 2014-2020 aż 303,6 mld zł. Do tego dojdzie 28,5 mld euro (118,8 mld zł) w ramach wspólnej polityki rolnej. Sukces tym większy, że nowy budżet UE będzie znacznie bardziej okrojony niż ten z obecnej perspektywy finansowej na lata 2007-2013.\nRządowi udało się także obronić także korzystne zasady wydawania unijnych pieniędzy, na których zależało przede wszystkim samorządom:\n- podatek VAT w projektach dofinansowanych z Funduszy Europejskich będzie kosztem kwalifikowalnym, co oznacza utrzymanie możliwości jego refundacji,\n- poziom dofinansowania unijnego wyniesie nawet 85 proc. dla regionów mniej rozwiniętych oraz 80 proc. dla Mazowsza.",
     "justification_url": ""
   },
   {
     "brief":    "Zwiększenie płac sfery budżetowej",
     "full":     "Płace sfery budżetowej, zamrożone ze względu na kryzys, zaczną ponownie rosnąć. Podobnie jak konsekwentnie zwiększyliśmy płace nauczycieli, będziemy sukcesywnie podnosić wynagrodzenia innych ważnych społecznie grup zawodowych, zaczynając od nauczycieli akademickich i policjantów.",
-    "status":   "unknown",
+    "status":   "fulfilled",
     "due_date": "18.11.2015",
-    "justification":     "",
+    "justification":     "Podwyżki uposażeń w kwocie 300 zł brutto od 1 lipca 2012 r. otrzymali funkcjonariusze policji i żołnierze, a od października 2012 r. funkcjonariusze Państwowej Straży Pożarnej, Biura Ochrony Rządu oraz Straży Granicznej.",
     "justification_url": ""
   },
   {
     "brief":    "Wsparcie dla wydobycia gazu łupkowego",
     "full":     "Do 2013 roku wprowadzimy rozwiązania gwarantujące Polsce wysokie przychody z wydobycia gazu łupkowego, które przeznaczymy na bezpieczeństwo przyszłych emerytur.",
-    "status":   "unknown",
+    "status":   "fulfilled",
     "due_date": "31.12.2013",
-    "justification":     "",
+    "justification":     "Wciąż nie ma przepisów, które regulowałyby kwestię opodatkowania wydobycia gazu łupkowego oraz proces koncesyjny i poszukiwawczo-wydobywczy. Projekty ustawy węglowodorowej oraz Prawa górniczego i geologicznego znajdują na etapie legislacyjnym w rządzie. Resorty środowiska i skarbu na razie ścierają się o kształt przepisów i ostatecznie nie wiadomo ani kiedy, ani w jakim kształcie wejdzie nowe prawo. To właśnie obie ustawy miał wprowadzić rozwiązania, zapewniające wpływy z wydobycia, które zasilą tzw. Fundusz Pokoleń. Na razie projektu przepisów kilkukrotnie zmieniały treść. Z ostatnich zapisów projektów wynika, że Narodowy Operator Kopalin Energetycznych (państwowa spółka, która będzie udziałowcem każdej koncesji i będzie partycypować w zyskach z wydobycia) ma przekazywać do Funduszu 80 proc. zysków. ",
     "justification_url": ""
   },
   {
     "brief":    "1000 Świetlików - lokalnych centr kultury",
     "full":     "Na podobieństwo 1800 Orlików wybudujemy 1000 Świetlików – centrów kultury i bibliotek gminnych, które będą wspierać kreatywność i budować umiejętność pracy zespołowej.",
-    "status":   "unknown",
+    "status":   "broken",
     "due_date": "18.11.2015",
-    "justification":     "",
-    "justification_url": ""
+    "justification":     "Obietnica nie została spełniona z powodu braku Funduszy. "Ze względu na trudną sytuację budżetu państwa wynikającą z międzynarodowych zobowiązań kraju (Polska objęta jest procedurą nadmiernego deficytu, co wymaga obniżenia w sposób trwały i wiarygodny deficytu sektora finansów publicznych) oraz zobowiązania budżetu państwa w 2010 i 2011 roku (walka ze skutkami powodzi w 2010 roku), nie było możliwe zaplanowanie środków na program wieloletni i utrzymanie obiektów. Cele, które zostały w nim ujęte, przede wszystkim: przeciwdziałanie marginalizacji społecznej dzieci i młodzieży oraz wyrównywanie ich szans edukacyjnych są realizowane poprzez Program Rozwoju Obszarów Wiejskich na lata 2007-2013 i zostały zaplanowane do realizacji w następcy programu Kapitał Ludzki na lata 2014-2020\"",
+    "justification_url": "http://sejm.gov.pl/Sejm7.nsf/InterpelacjaTresc.xsp?key=1BE55353"
   },
   {
     "brief":    "Fundusze na kształcenie dla seniorów",
     "full":     "W ciągu kadencji zwiększymy wydatki na Uniwersytety Trzeciego Wieku i grupowe zajęcia zdrowotne dla seniorów.",
-    "status":   "unknown",
+    "status":   "fulfilled",
     "due_date": "18.11.2015",
     "justification":     "",
     "justification_url": ""
