@@ -36,77 +36,77 @@
     "full":     "W ciągu kadencji zwiększymy wydatki na Uniwersytety Trzeciego Wieku i grupowe zajęcia zdrowotne dla seniorów.",
     "status":   "fulfilled",
     "due_date": "18.11.2015",
-    "justification":     "",
+    "justification":     "Choć nie ma oddzielnego programu ministerialnego, który by zajmował się tylko Uniwersytetami Trzeciego Wieku, to część grantów z Rządowego Programu na rzecz Aktywności Społecznej Osób Starszych idzie właśnie na ten cel. W trakcie tej kadencji kwoty przeznaczane na ten program wzrosły i obecnie wynoszą 40 mln zł rocznie. UTW finansują także samorządy, tak więc przy odrobinie dobrej woli można uznać, że obietnica została spełniona.",
     "justification_url": ""
   },
   {
     "brief":    "Zwiększenie ulgi na trzecie i kolejne dziecko",
     "full":     "W Polsce rodzi się coraz mniej dzieci. Żeby temu zaradzić, radykalnie zwiększymy ulgę rodzinną na trzecie i kolejne dziecko.",
-    "status":   "unknown",
+    "status":   "fulfilled",
     "due_date": "18.11.2015",
-    "justification":     "",
-    "justification_url": ""
+    "justification":     "Ulga prorodzinna została zwiększona o 50 proc. na trzecie dziecko i o 100 proc. na czwarte i każde kolejne dziecko. Oznacza to podwyższenie w tych przypadkach rocznej kwoty odliczenia odpowiednio do 1668,06 zł i 2224,08 zł (ulga na dwoje pierwszych dzieci pozostaje na dotychczasowym poziomie i wynosi 1112,04 zł). Wyższą ulgę podatnicy zastosują po raz pierwszy w rozliczeniu PIT za 2013 rok, a więc w zeznaniach podatkowych składanych do 30 kwietnia 2014 r. Zmiany wprowadziła ustawa z 24 października 2012 r. o zmianie ustawy o podatku dochodowym od osób fizycznych (Dz.U. z 2012 r., poz. 1278).",
+    "justification_url": "http://isap.sejm.gov.pl/DetailsServlet?id=WDU20120001278"
   },
   {
     "brief":    "Centra Nauki",
     "full":     "W ramach programu „Koperniki” w każdym województwie do 2020 roku stworzymy „Centra Nauki”, których zadaniem, podobnie jak to się ma w przypadku udanego projektu stołecznego, będzie inspirowanie młodzieży do nauki i innowacyjności.",
-    "status":   "unknown",
+    "status":   "broken",
     "due_date": "31.12.2020",
-    "justification":     "",
+    "justification":     "Jeszcze w marcu 2012 r. minister nauki i szkolnictwa wyższego Barbara Kudrycka zapowiadała, że regionalne Koperniki powstaną w nowej, unijnej perspektywie finansowej. W tej kwestii wiele się nie zmieniło; resort nauki wciąż czeka na ustalenia dotyczące sposobu podziału środków w ramach pieniędzy, jakie Polska otrzyma z Brukseli w latach 2014-2020. W związku z tym uznajemy, że prace nad obietnicą zostały wstrzymane – do czasu, kiedy wyjaśni się kwestia podziału unijnych środków.",
     "justification_url": ""
   },
   {
     "brief":    "Likwidacja formularzy PIT",
     "full":     "Zlikwidujemy formularze podatkowe PIT.",
-    "status":   "unknown",
+    "status":   "broken",
     "due_date": "18.11.2015",
-    "justification":     "",
-    "justification_url": ""
+    "justification":     "Numerem NIP obecnie posługują się tylko przedsiębiorcy. Dla osób fizycznych nieprowadzących działalności gospodarczej i niebędących zarejestrowanymi podatnikami VAT identyfikatorem podatkowym jest PESEL. Zmiany wprowadziła ustawa z 29 lipca 2011 r. o zmianie ustawy o zasadach ewidencji i identyfikacji podatników o płatników oraz niektórych innych ustaw (Dz.U. nr 171, poz. 1016). Tę zmianę wprowadził sejm VI kadencji.",
+    "justification_url": "http://isap.sejm.gov.pl/DetailsServlet?id=WDU20111711016"
   },
   {
     "brief":    "Obniżenie VAT do 22%",
     "full":     "Obniżymy zasadniczą stawkę VAT do 22% w 2014 roku, kiedy światowy kryzys gospodarczy powinien ustąpić fazie ożywienia.",
-    "status":   "unknown",
+    "status":   "broken",
     "due_date": "18.11.2015",
-    "justification":     "",
+    "justification":     "Rząd zapowiedział, że od 1 stycznia 2014 r. stawki VAT się nie zmienią. Dalej będą stosowane stawki 8 i 23 proc. Wiceminister finansów Maciej Grabowski tłumaczył, że pozostawienie po 2013 r. wyższych stawek VAT jest niezbędnym warunkiem stabilności makroekonomicznej i długofalowego wzrostu gospodarczego. ",
     "justification_url": ""
   },
   {
     "brief":    "Ulgi dla oszczędzających na emeryturę",
     "full":     "Zwiększymy ulgi podatkowe dla oszczędzających na emeryturę, by motywować skłonność do długookresowego oszczędzania.",
-    "status":   "unknown",
+    "status":   "fulfilled",
     "due_date": "18.11.2015",
-    "justification":     "",
+    "justification":     "Wprowadzona została tzw. ulga podatkowa na IKZE (Indywidualne Konto Zabezpieczenia Emerytalnego). Zakładając takie konto można odliczyć od rocznego dochodu podlegającego opodatkowaniu PIT kwoty wpłacone na to konto. Limit wpłat na IKZE uprawniający do ulgi zależy od wysokości kwoty stanowiącej podstawę wymiaru składki na ubezpieczenie emerytalne, ustalonej dla oszczędzającego za rok poprzedni (maksymalnie 4 proc. wynagrodzenia brutto). Maksymalna wpłata na IKZE wynosi w 2013 r. 4 231,20 zł. Przy wypłacie z konta podatnik musi zapłacić podatek dochodowy obliczany na zasadach ogólnych według skali podatkowej (obecnie 18 proc. lub 32 proc.). ",
     "justification_url": ""
   },
   {
     "brief":    "Szerokopasmowy Internet w każdej gminie",
     "full":     "Zapewnimy dostęp do szerokopasmowego Internetu w każdej gminie.",
-    "status":   "unknown",
+    "status":   "fulfilled",
     "due_date": "18.11.2015",
-    "justification":     "",
+    "justification":     "Na 57,5 tysiąca wszystkich miejscowości w Polsce w blisko 42 tysiącach wciąż mniej niż 30 procent mieszkańców ma dostęp do internetu szerokopasmowego.Według ostatniego podsumowania Agendy Cyfrowej tylko Rumunia ma gorsze wyniki zasięgu nowoczesnego internetu stacjonarnego. Jest wprawdzie szansa na osiągnięcie celów: dopiero w tym roku udało się województwom ogłosić i wybrać oferty w przetargach na budowę sieci. Ale oprócz sieci szkieletowych trzeba tez budować te tzw. ostatniej mili a z tymi mniejszymi inwestycjami jest gorzej. ",
     "justification_url": ""
   },
   {
     "brief":    "E-podręczniki w szkołach",
     "full":     "Stopniowo do 2015 roku wprowadzimy do szkół e-podręcznik.",
-    "status":   "unknown",
+    "status":   "fulfilled",
     "due_date": "31.12.2015",
-    "justification":     "",
+    "justification":     "Choć zarówno sam pomysł jak i jego realizacja wywołują spore kontrowersje to jest realizowany.  Branża wydawnicza ostrzega, że bezpłatne e-podręczniki grożą jej sporymi stratami, a przetargi na ich wykonanie trzeba było powtarzać, niemniej jednak pomysłu nie zarzucono. Pierwsze efekty pracy przy tworzeniu e-podręczników mają być dostępne już pod koniec tego roku.",
     "justification_url": ""
   },
   {
     "brief":    "Konkurencja dla NFZ",
     "full":     "Damy Polakom prawo wyboru, komu przekażą swoją składkę zdrowotną, wprowadzając konkurencję dla NFZ.",
-    "status":   "unknown",
+    "status":   "broken",
     "due_date": "18.11.2015",
-    "justification":     "",
+    "justification":     "Decentralizacja NFZ miała być faktem 1 stycznia 2013 roku. Centrala funduszu miała przestać istnieć, a osobowość prawną miały uzyskać jego oddziały wojewódzkie. W 2014 roku na rynku usług zdrowotnych mieli pojawić się inni płatnicy niż NFZ. Składka zdrowotna trafiałaby nie tylko do publicznego funduszu, ale także do prywatnych ubezpieczycieli. Ministerstwo Zdrowia przygotowało projekt założeń przewidujących decentralizację NFZ, ale bardzo szybko schowało go do szuflady. Projekt został skrytykowany przez partnerów społecznych podczas jego wstępnych konsultacji. Likwidacja centrali funduszu nie budziła emocji, za to za bardzo kontrowersyjne zostało uznane inne rozwiązanie, które znalazło się w założeniach do tej samej ustawy. Chodziło o pomysł stworzenia map potrzeb zdrowotnych przez wojewodów. Placówki medyczne, które nie zostałyby w nich uwzględnione, straciłyby kontrakt. Zarówno pracodawcy, jak samorządy krytykowały ministra zdrowia za to, że pozbawił stronę społeczną wpływu na tak ważne decyzje dotyczące przyszłości szpitali. Resort zdrowia zapewnia, ze z reformy się nie wycofał. Urzędnicy ministerialni cały czas poprawiają projekt. Ma być gotowy na początku przyszłego roku. Oznacza to, że reforma NFZ wejdzie w życie najwcześniej za rok.",
     "justification_url": ""
   },
   {
     "brief":    "Odnawialne umowy sezonowe",
     "full":     "Wprowadzimy do kodeksu pracy odnawialne umowy sezonowe dla pracowników, co zwiększy stabilność zatrudnienia wśród młodych.",
-    "status":   "unknown",
+    "status":   "fulfilled",
     "due_date": "18.11.2015",
     "justification":     "",
     "justification_url": ""
@@ -114,9 +114,9 @@
   {
     "brief":    "Elektroniczne dokumenty dla kierowców",
     "full":     "Zlikwidujemy obowiązek noszenia przez kierowcę przy sobie dowodu rejestracyjnego swojego pojazdu i prawa jazdy, które policja i inne służby będą mogły skontrolować, łącząc się elektronicznie z odpowiednim urzędem.",
-    "status":   "unknown",
+    "status":   "broken",
     "due_date": "18.11.2015",
-    "justification":     "",
+    "justification":     "Niestety to wygodne dla kierowców rozwiązanie w dalszym ciągu jest pieśnią przyszłości. Na razie kierowanie pojazdem bez wymaganych dokumentów na drodze publicznej, w strefie zamieszkania lub strefie ruchu, stanowi wykroczenie opisane w art. 95 kodeksu wykroczeń. Kara grzywny może wynosić maksymalnie 250 zł.",
     "justification_url": ""
   },
   {
