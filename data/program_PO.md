@@ -180,6 +180,95 @@ Zadaniem	 priorytetowym	 jest	 wynegocjowa-• nie	 ambitnego budżetu Unii Euro
 
 Jesteśmy	 przekonani,	 że	 Polska	 będzie	 nadal • odgrywać	kluczową	rolę	w	kształtowaniu	nowe-go	oblicza	Unii	Europejskiej.	Weszliśmy	do	gro-na	państw,	które	wpływają	na	ostateczny	kształt decyzji	podejmowanych	w	UE,	i	będziemy	tę	po-zycję	 skutecznie	 ugruntowywać.	 Jest	 to	 szcze-gólne	 istotne,	 ponieważ	 najbliższe	 cztery	 lata będą	kluczowe	dla	rozwoju	Wspólnoty.	Po	peł-nej	implementacji	postanowień	traktatu	lizboń-skiego	ostatecznie	ugruntuje	się	instytucjonalny kształt	 Unii,	 zbudowane	 zostaną	 zręby	 wspól-nego	zarządzania	gospodarką,	rozstrzygnie	się kształt	nowego	budżetu	do	roku	2020	oraz	do-pełni	 się	 budowa	 jednolitego	 rynku.	 Aby	 brać aktywny	udział	w	kształtowaniu	każdego	z	tych procesów,	konieczna	jest	spójna	wizja	przyszło-ści	integracji,	skuteczne	zabieganie	o	realizację naszych	 interesów	 we	 wszystkich	 unijnych	 in-stytucjach,	ale	nade	wszystko	kompetencja.
 
+Stopniowo doprowadzimy do pełnego otwar-•cia przed polskimi przedsiębiorcami rynku li-czącego 500 mln konsumentów.	 Szczególnie zależy	 nam	 na	 dokończeniu	 budowy	 jednoli-tego	 rynku	 w	 obszarze	 swobody	 świadczenia usług,	jak	również	rozszerzania	jednolitego	ryn-ku	 na	 nowe	 obszary,	 takie	 jak	 choćby	 handel w	 Internecie.	 Będziemy	 jednym	 z	 głównych krajów,	które	określą	nowe	zasady	zarządzania europejską	 gospodarką.	 Zadbamy,	 aby	 zarzą-dzanie	to	pogodziło	innowacyjność	i	rynek	bez barier	z	solidarnością	i	zrównoważonym	rozwo-jem	poszczególnych	regionów	Unii.
+
+Będziemy rzecznikiem rozszerzania Unii•– przede	 wszystkim	 o	 kraje	 Półwyspu	 Bałkań-skiego,	 a	 w	 dalszej	 perspektywie	 czasowej również	o	inne	państwa	europejskie,	które	speł-nią	wszystkie	konieczne	wymogi	akcesyjne.	To w	czasie	polskiej	Prezydencji	w	Radzie	UE	zo-stanie	sfinalizowany	proces	wchodzenia	do	Unii Chorwacji.
+
+Polska pozostanie liderem w promowaniu•i wdrażaniu programu Partnerstwa Wschod-niego,	które	przybliża	kraje	aspirujące	do	rangi państw	o	standardach	demokratycznych	do	Unii Europejskiej.	Dlatego	nadal	będziemy	wspierać europejskie	ambicje	krajów	sąsiedztwa,	takich jak	 Ukraina,	 Mołdawia	 czy	 państwa	 Kaukazu Południowego.
+
+Naszym celem pozostanie promowanie de-•mokratycznych wartości za pomocą demo-kratycznych metod.	 Polska,	 w	 miarę	 swoich możliwości,	 w	 ramach	 europejskiej	 solidarno-ści	pozostanie	aktywna	na	polu	mechanizmów stabilizacyjnych:	finansowych	i	militarnych.	Jed-nym	z	najbardziej	palących	wyzwań	są	epoko-we	przemiany	w	świecie	arabskim.	Polska	ma w	dziedzinie	transformacji	ustrojowej	spore	do-świadczenie,	dlatego	będziemy	się	nim	dzielić	ze wszystkimi	innymi,	którzy	sobie	tego	zażyczą. 
+
+W Polsce rodzi się coraz mniej dzieci, co po-•woduje starzenie się społeczeństwa i ograni-cza szanse rozwojowe kraju.	Dlatego	będziemy wspierać	dzietność	przez	radykalne	zwiększenie ulgi	rodzinnej	na	trzecie	i	kolejne	dzieci	od	2014 roku,	kiedy	nie	będziemy	już	objęci	procedurą nadmiernego	deficytu.
+
+Zmienimy zasady finansowania kosztów szko-•ły rodzenia, porodu,	zwłaszcza	dla	kobiet,	które są	w	ciąży	po	raz	pierwszy.	Podobnie	państwopomoże pokryć koszty znieczulenia okołopo-rodowego czy porodu rodzinnego.
+
+Będziemy nadal tworzyć miejsca dla dzieci•w żłobkach i przedszkolach	(więcej	na	ten	te-mat	w	rozdziale	o	edukacji). 
+
+W	wielu	przedszkolach	publicznych	wciąż	bra-• kuje	 miejsc	 dla	 dzieci.	 Oznacza	 to,	 że	 rodzice muszą	 szukać	 znacznie	 droższej	 alternatywy w	 postaci	 przedszkoli	 prywatnych.	 Wysokośćdotacji na dziecko będzie taka sama w przed-szkolach publicznych i niepublicznych.
+
+Dla	wielu	rodziców	godziny	otwarcia	przedszko-• li	są	trudne	do	pogodzenia	z	pracą	zawodową. Bardzo	dużo	problemów	sprawia	również	prze-rwa	wakacyjna.	W	związku	z	tym	wprowadzimy zapis	prawny,	który	nałoży na przedszkola obo-wiązek funkcjonowania w godzinach od 6.00do 18.00, dwanaście miesięcy w roku.
+
+Na każdej dużej uczelni powstanie punkt•przedszkolny.	Studenci,	którzy	zostają	rodzica-mi	w	trakcie	studiów,	lub	zatrudnieni	na	uczelni młodzi	naukowcy	otrzymają	możliwość	skorzy-stania	z	takiego	udogodnienia.
+
+Będziemy	wspólnie	z	organizacjami	społeczny-• mi	prowadzić kampanie na rzecz przeciwdzia-łania otyłości i promować zdrowe żywienie.
+
+Chcemy	wdrożyć	programy	aktywizacji	rezerw • na	rynku	pracy,	aby	zwiększać	poziom	zatrud-nienia	 i	 ograniczać	 bezrobocie	 poprzez	 zwią-zanie osób niepełnosprawnych z otwartymrynkiem pracy, umożliwienie wcześniejszego startu młodych osób na rynku pracy, podnie-sienie aktywności zawodowej kobiet w wieku25–50 lat.
+
+Zaproponujemy wprowadzenie do kodeksu•pracy odnawialnych umów sezonowych dlapracowników. W	okresie	obowiązywania	umo-wy	pracownikowi	przysługiwałoby	wynagrodze-nie,	natomiast	nie	otrzymywałby	wynagrodzenia w	przypadku	nieświadczenia	pracy	z	przyczyn	le-żących	po	stronie	pracodawcy.	Takie	rozwiąza-nie	zwolni	pracodawców	z	ponoszenia	wysokich kosztów	zatrudnienia,	a	pracownikom	zapewni perspektywę	stabilizacji	zatrudnienia.
+
+Proponujemy	 określenie	 maksymalnej	 liczby • bezpłatnych	praktyk	odbywanych	u	tego	same-go	pracodawcy	przez	osoby	kierowane	z	urzę-dów	pracy.	Chcemy, by już drugi staż odbywałsię odpłatnie. W	przypadku,	gdy	pracodawca	nie będzie	spełniał	tego	wymogu,	urząd	pracy	nie będzie	do	niego	kierował	kolejnych	stażystów. W	ten	sposób	chcemy	wyeliminować	zjawisko „wiecznych	praktyk”,	po	których	nawet	najlep-si	stażyści	nie	mają	szans	na	stałe	lub	czasowe zatrudnienie.
+
+Dla rozwoju kraju i rynku pracy musimy nadal•prowadzić aktywną politykę wobec seniorów. Zwiększymy	dostęp	osób	starszych	do	edukacji i	będziemy	je	zachęcać	do	uczenia	się	przez	całe życie.	 Będziemy	 systematycznie	 podnosić	 po-ziom	ich	aktywności	zawodowej	i	społecznej.
+
+W czasie kadencji radykalnie podniesiemy na-•kłady na aktywizację seniorów.	W	2012	roku wzrosną	one	z	około	10	mln	złotych	do	60	mln złotych,	w	2013	roku	do	85	mln	złotych,	a	w	2014 roku	do	110	mln	złotych.	Razem	z	samorządami będziemy	 wspierać	 powstawanie	 Uniwersyte-tów	Trzeciego	Wieku.	Wprzęgniemy	w	ten	plan istniejącą	infrastrukturę	–	ośrodki	kultury	i	bi-blioteki,	a	w	przyszłości	Świetliki.
+
+W 2012 roku ruszy pilotażowy program obej-•mujący pięć województw „Czwartek seniora”.Przez	jeden	dzień	w	miesiącu	ludzie	starsi	będą mieli	dostęp	do	publicznych	instytucji	kultury	za „symboliczną	złotówkę”.	Program	będzie	reali-zowany	przy	współudziale	polskich	artystów	– również	młodego	pokolenia.
+
+Zagwarantujemy	 bezpieczeństwo	 emerytalne, • także	wykorzystując	dochody	państwa	z	gazu	łup-kowego	do	zasilenia	funduszy	emerytalnych.
+
+Zreformujemy system wsparcia dla osób nie-•zdolnych do samodzielnej egzystencji. Udzie-limy	skutecznej	pomocy	rodzinom	pragnącym opiekować	 się	 swoimi	 niesamodzielnymi bliskimi.
+
+W czasie kadencji radykalnie podniesiemy na-•kłady na aktywizację seniorów.	W	2012	roku wzrosną	one	z	około	10	mln	złotych	do	60	mln złotych,	w	2013	roku	do	85	mln	złotych,	a	w	2014 roku	do	110	mln	złotych.	Razem	z	samorządami będziemy	 wspierać	 powstawanie	 Uniwersyte-tów	Trzeciego	Wieku.	Wprzęgniemy	w	ten	plan istniejącą	infrastrukturę	–	ośrodki	kultury	i	bi-blioteki,	a	w	przyszłości	Świetliki.
+
+W 2012 roku ruszy pilotażowy program obej-•mujący pięć województw „Czwartek seniora”.Przez	jeden	dzień	w	miesiącu	ludzie	starsi	będą mieli	dostęp	do	publicznych	instytucji	kultury	za „symboliczną	złotówkę”.	Program	będzie	reali-zowany	przy	współudziale	polskich	artystów	– również	młodego	pokolenia.
+
+Zagwarantujemy	 bezpieczeństwo	 emerytalne, • także	wykorzystując	dochody	państwa	z	gazu	łup-kowego	do	zasilenia	funduszy	emerytalnych.
+
+Zreformujemy system wsparcia dla osób nie-•zdolnych do samodzielnej egzystencji. Udzie-limy	skutecznej	pomocy	rodzinom	pragnącym opiekować	 się	 swoimi	 niesamodzielnymi bliskimi
+
+Priorytetem	naszych	działań	będzie	bezpośred-• nia	 pomoc	 osobom	 niepełnosprawnym.	 Do-prowadzimy do zwiększenia środków PFRONna usuwanie barier architektonicznych	 oraz inwestycji	 ułatwiających	 funkcjonowanie	 oso-bom	ze	schorzeniami	wzroku	i	słuchu.	Standar-dem	w	tym	zakresie	będzie	docelowa	realizacja wszystkich	uzasadnionych	społecznie	i	finanso-wo	wniosków.
+
+Zwiększymy	zakres	pomocy	rzeczowej	kierowa-• nej	do	osób	niepełnosprawnych.	Naszym	celem będzie	 tu	 przede	 wszystkim	 zwiększenie do-stępu do efektywnej rehabilitacji	 oraz	 usług pozwalających	 np.	 na	 nabycie	 umiejętności koniecznych	dla	wsparcia	procesu	rehabilitacji osoby	niepełnosprawnej	przez	członków	jej	ro-dziny.	 Część	 nowo	 przyznawanych	 świadczeń pieniężnych	 zostanie	 ukierunkowana	 bezpo-średnio	na	wsparcie	rzeczowe	mające	na	celu jak	 najszybsze	 odzyskanie	 zdolności	 do	 pracy i	powrót	do	zatrudnienia
+
+Od 2013 roku damy Polakom prawo wyboru,•komu przekażą swoją składkę,	wprowadzając możliwość	 powstania	 konkurencyjnych	 wobec NFZ	 funduszy	 zdrowotnych	 kontraktujących usługi	 medyczne	 dla	 swoich	 pacjentów.	 Taki innowacyjny	krok	jest	możliwy	dzięki	temu,	że wprowadzamy	już	konkurencyjne	zasady	funk-cjonowania	zakładów	opieki	zdrowotnej	i	szpi-tali.	Konkurowanie	o	składkę	Polaków	stworzy motywację	dla	NFZ	i	innych	publicznych	i	pry-watnych	funduszy	do	szukania	świadczeniodaw-ców	 najwyższej	 jakości	 usług,	 gwarantujących krótkie	terminy	i	autentyczną	troskę	o	pacjen-ta.	Systemy	opieki	zdrowotnej	oparte	na	kon-kurencji	 płatników	 są	 uważane	 za	 najbardziej innowacyjne	i	 efektywne.	System,	jaki	planuje-my	wprowadzić,	będzie	oparty	o	powszechność dostępu	 do	 służby	 zdrowia	 i	 będzie	 zawierał mechanizmy	 zapobiegające	 jakiejkolwiek	 dys-kryminacji	pacjentów	ze	względu	na	wiek,	płeć czy	stan	portfela.
+
+W	2012	roku • środki przeznaczone na leczeniewzrosną o kolejne 3,5 mld złotych,	do	poziomu 61,5	mld	złotych.
+
+Już	 za	 kilka	 miesięcy	 (styczeń	 2012) • pacjentbędzie miał prawo dochodzenia roszczeń zaniepożądane skutki działań medycznych z po-minięciem żmudnej i długotrwałej drogi sądo-wej. Czas	 dochodzenia	 roszczeń	 powinien	 się skrócić	z	ponad	4	lat	do	10	miesięcy.
+
+W 2014 roku zakończymy prace nad pełną in-•formatyzacją ochrony zdrowia.	Wprowadzimy rachunkowość	w	szpitalach.	Dzięki	obecnie	reali-zowanym	projektom	informatycznym	i	uchwa-lonej	przez	nas	ustawie	o	systemie	informacji w	 ochronie	 zdrowia	 pacjent	 będzie	 mógł	 już wkrótce	korzystać	z	recepty	elektronicznej,	za-rejestrować	się	w	każdej	poradni	za	pośrednic-twem	Internetu	czy	uzyskać	dostęp	do	swoich danych	 medycznych	 za	 pośrednictwem	 inter-netowego	 konta	 pacjenta	 na	 podstawie	 elek-tronicznej	karty	pacjenta.	System	informacyjny zapewni	także	skuteczniejsze	metody	leczenia (e-poradniki	dla	lekarzy,	oparcie	się	na	dotych-czasowej	 historii	 choroby),	 zmniejszy	 obciąże-nia	 administracyjne	 i	 doprowadzi	 do	 redukcji nadużyć.
+
+Będziemy w dalszym ciągu obniżać dopłaty pa-•cjentów do leków.	Już	w	2012	roku	pacjenci	będą płacić	mniej	niż	30%	ceny	leku	refundowanego.
+
+Uchwalimy kompleksową ustawę regulującą•badania kliniczne.	Listy	prowadzonych	badań będą	 jawne,	 a	 kwalifikacja	 pacjentów,	 którzy chcą	 w	 nich	 uczestniczyć,	 będzie	 odbywać	 się na	jasnych	zasadach.	Zapewnimy	pełną	przej-rzystość	 i	 bezpieczeństwo	 badań	 klinicznych w	Polsce.
+
+Wydłużymy refundację zestawów infuzyjnych•do 26 roku życia,	co	umożliwi	młodzieży	po	18 roku	życia	korzystanie	z	pompy	insulinowej.	Tym samym	studiująca	młodzież	nie	będzie	musiała martwić	się	o	wysokie	koszty	leczenia	cukrzycy z	wykorzystaniem	pomp	insulinowych.
+
+Doprowadzimy	 do • uznania przez kraje UniiEuropejskiej kwalifikacji polskich pielęgnia-rek	bez	konieczności	odbywania	dodatkowych studiów.
+
+Wdrożymy• program „ORLIK+”,	będący	„następ-cą”	programu	„Moje	Boisko	–	Orlik	2012”.	Celem programu	będzie	budowa	obiektów	sportowych obejmujących	 zarówno	 boiska	 do	 gier	 zespo-łowych,	jak	i	urządzenia	do	uprawiania	innych dyscyplin	sportowych,	np.	lodowiska	czy	bieżnie lekkoatletyczne.
+
+Przeprowadzimy• program „Klub Sportowy”, którego	celem	będzie	wdrożenie	nowych	instru-mentów	prawnych	oraz	wsparcia	finansowego ze	strony	władz	publicznych,	służących	tworze-niu	nowych	klubów	sportowych.	Ze	względu	na wciąż	niską	liczbę	klubów	sportowych	w	stosun-ku	do	ogólnej	liczby	ludności	Polski,	tworzenie nowych	klubów	jest	warunkiem	koniecznym	dla rozwoju	sportu	w	naszym	kraju.
+
+Opracujemy	i	zrealizujemy• program „Wolonta-riat Sportowy”, którego	celembędzie	prowadze-nie	działań,	w	tym	m.in.	kampanii	społecznych oraz	 dofinansowanie	 przedsięwzięć	 organiza-cji	 pozarządowych,	 służących	 aktywizacji	 oraz wsparciu	osób	z	różnych	grup	wiekowych	i	spo-łecznych,	wykonujących	woluntarystyczną	pracę w	zakresie	działalności	podmiotów	sportowych oraz	organizacji	imprez.
+
+Wykorzystamy Turniej Finałowy UEFA EURO•2012 do wzmocnienia wizerunku Polski	za	gra-nicą	jako	nowoczesnego	i	kreatywnego	kraju,	ze stosunkowo	 młodym	 i	 dobrze	 wykształconym społeczeństwem.
+
+Skrócimy czas postępowań sądowych średnio•o jedną trzecią	za	pomocą	lepszego	zarządza-nia	sądami	oraz	informatyzacji.	Zmienimy	struk-turę	 organizacyjną	 sądów,	 a	 zasoby	 kadrowe i	finansowe	zostaną	efektywnie	wykorzystane. Sądami	pokierują	dyrektorzy	wybrani	spośród specjalistów	z	zakresu	zarządzania	instytucjami publicznymi,	finansów	publicznych,	prowadze-nia	inwestycji	i	gospodarowania	mieniem	Skar-bu	Państwa.	Prezesi	sądów	skoncentrują	się	na swoich	zasadniczych	obowiązkach:	kierowaniu działalnością	 orzeczniczą	 i	 pracą	 z	 sędziami. Wdrożony	 zostanie	 system	 oceny	 pracy	 sę-dziów,	połączony	z	indywidualnym	planem	roz-woju,	co	wpłynie	w	znaczący	sposób	na	wzrost jakości	ich	pracy.
+
+Ustanowimy na potrzeby postępowania sądo-•wego publiczne bazy danych zawodowych peł-nomocników.	Zapewni	to	możliwość	weryfikacji pełnomocników	zawodowych	w	automatyczny sposób.
+
+Zastąpimy tradycyjny bankowy tytuł egzeku-•cyjny tytułem elektronicznym.	W	ślad	za	tym zinformatyzujemy	 postępowanie	 o	 nadanie klauzuli	 wykonalności	 bankowemu	 tytułowi egzekucyjnemu.	 To	 pozwoli	 na	 przyspieszenie postępowania,	uproszczenie	procedur,	a	także ograniczenie	kosztów.
+
+Umożliwimy wierzycielowi wszczęcie egzekucji•drogą elektroniczną	w	innych	przypadkach	niż te,	w	których	wydano	nakaz	zapłaty	w	elektro-nicznym	 postępowaniu	 upominawczym.	 Moż-liwe	 będzie	 składanie	 drogą	 elektroniczną	 nie tylko	wniosków	o	wszczęcie	egzekucji,	ale	także innych	pism	i	wniosków.
+
+Zakończymy wdrażanie Systemu Dozoru Elek-•tronicznego	tak,	by	objął	7	500	skazanych	(w	wy-miarze	dziennym	i	miesięcznym).
+
+Uprościmy prawo upadłościowe• tak,	aby	postę-powania	skróciły	się	do	poziomu	średniej	OECD, a	likwidowane	przedsiębiorstwa	były	w	stanie szybko	się	odrodzić,	zachowując	wartość	mająt-ku	produkcyjnego	i	utrzymując	miejsca	pracy.
+
+Poszerzymy grupę osób, które mogą przystą-•pić do egzaminu zawodowego bez odbywaniaaplikacji	 (zwłaszcza	 poprzez	 skrócenie	 wyma-ganych	okresów).
+
+Rozszerzymy program „Praktycznej nauki pra-•wa”	m.in.	tworząc	Szkolne	Koła	Prawne,	których celem	 będzie	 przede	 wszystkim	 poszerzanie świadomości	 prawnej	 dzieci	 i	 młodzieży,
 
 
 
