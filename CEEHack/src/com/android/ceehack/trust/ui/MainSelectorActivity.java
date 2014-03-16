@@ -31,8 +31,7 @@ public class MainSelectorActivity extends Activity {
 		setContentView(R.layout.activity_main_selector);
 
 		ActionBar actionBar = getActionBar();
-		actionBar.setBackgroundDrawable(new ColorDrawable(Color
-				.rgb(7, 152, 227)));
+		actionBar.setBackgroundDrawable(new ColorDrawable(Color.rgb(7, 152, 227)));
 
 		LinearLayout ly = (LinearLayout) findViewById(R.id.mainLay);
 		ly.setBackgroundColor(Color.rgb(0, 88, 133));
