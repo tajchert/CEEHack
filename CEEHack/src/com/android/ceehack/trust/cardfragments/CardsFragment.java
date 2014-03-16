@@ -19,12 +19,10 @@ import android.widget.LinearLayout;
 
 import com.android.ceehack.trust.R;
 import com.android.ceehack.trust.cards.ChartBarCards;
-import com.android.ceehack.trust.cards.ChartPieCard;
-import com.android.ceehack.trust.cards.InfoCards;
 
 
-public class CardsGraphFragment extends Fragment {
-	public CardsGraphFragment() {
+public class CardsFragment extends Fragment {
+	public CardsFragment() {
 	}
 	@Override
 	public View onCreateView(LayoutInflater inflater, ViewGroup container,Bundle savedInstanceState) {
@@ -37,8 +35,7 @@ public class CardsGraphFragment extends Fragment {
 	public void onActivityCreated(Bundle savedInstanceState) {
 		super.onActivityCreated(savedInstanceState);
 		ActionBar actionBar = getActivity().getActionBar();
-		actionBar.setBackgroundDrawable(new ColorDrawable(Color
-				.rgb(7, 152, 227)));
+		actionBar.setBackgroundDrawable(new ColorDrawable(Color.rgb(7, 152, 227)));
 
 		LinearLayout ly = (LinearLayout) getActivity().findViewById(R.id.mainLay);
 		ly.setBackgroundColor(Color.BLACK);
@@ -50,10 +47,8 @@ public class CardsGraphFragment extends Fragment {
 
 		// Init an array of Cards
 		ArrayList<Card> cardsChart = new ArrayList<Card>();
-		Card card = init_chart_card();
-		cardsChart.add(card);
 		for (int i = 0; i < 5; i++) {
-			card = init_info_card();
+			Card card = init_info_card();
 			cardsChart.add(card);
 		}
 		CardArrayAdapter mCardArrayAdapterGrades = new CardArrayAdapter(getActivity(), cardsChart);
@@ -64,20 +59,10 @@ public class CardsGraphFragment extends Fragment {
 		}
 	}
 
-	private Card init_chart_card() {
-		//ChartPieCard card = new ChartPieCard(getActivity());
-		
-		ChartBarCards card = new ChartBarCards(getActivity());
-		
-		CardExpand expand = new CardExpand(getActivity());
-		card.addCardExpand(expand);
-		card.setBackgroundResource(getResources().getDrawable(R.drawable.card_back));
-		return card;
-	}
 	private Card init_info_card() {
 		//ChartPieCard card = new ChartPieCard(getActivity());
 		
-		InfoCards card = new InfoCards(getActivity());
+		ChartBarCards card = new ChartBarCards(getActivity());
 		
 		CardExpand expand = new CardExpand(getActivity());
 		card.addCardExpand(expand);
