@@ -54,13 +54,12 @@ public class InfoCard extends Card {
 
 	@Override
 	public void setupInnerViewElements(ViewGroup parent, View view) {
-
 		indicator = (ImageView) view.findViewById(R.id.imageViewColorIndicator);
 		date = (TextView) view.findViewById(R.id.textViewDate);
 		text = (TextView) view.findViewById(R.id.textViewContent);
 		date.setText(dateContent +"");
-		if(content.length()> 200){
-			content = content.substring(0, 200);
+		if(content.length()> 40){
+			content = content.substring(0, 40);
 		}
 		
 		if (content != null) {
