@@ -1,4 +1,4 @@
-### Platforma Obywatelska, [Program wyborczy 2011](http://platforma.org/media/dokumenty/Program_PO_100dpi.pdf)
+### [Platforma Obywatelska](http://platforma.org/), [Program wyborczy 2011](http://platforma.org/media/dokumenty/Program_PO_100dpi.pdf)
 
 1. Wynegocjujemy	ponad	300	mld	złotych	w	budżecie	UE	na	lata	2014–2020	na	nasz	program inteligentnego	rozwoju,	który	wesprzemy	ko-lejnymi	100	mld	złotych	środków	własnych.
 2. Płace	sfery	budżetowej,	zamrożone	ze	względu	na	kryzys,	zaczną	ponownie	rosnąć.	Podobnie	 jak	 konsekwentnie	 zwiększyliśmy	 płace nauczycieli,	 będziemy	 sukcesywnie	 podnosić wynagrodzenia	 innych	 ważnych	 społecznie grup	zawodowych,	zaczynając	od	nauczycieli akademickich	i	policjantów.
