@@ -1,10 +1,54 @@
-1. Wynegocjujemy	ponad	300	mld	złotych	w	bu-1.dżecie	UE	na	lata	2014–2020	na	nasz	program inteligentnego	rozwoju,	który	wesprzemy	ko-lejnymi	100	mld	złotych	środków	własnych.
-2. Płace	sfery	budżetowej,	zamrożone	ze	względu	na	kryzys,	zaczną	ponownie	rosnąć.	Podob-nie	 jak	 konsekwentnie	 zwiększyliśmy	 płace nauczycieli,	 będziemy	 sukcesywnie	 podnosić wynagrodzenia	 innych	 ważnych	 społecznie grup	zawodowych,	zaczynając	od	nauczycieli akademickich	i	policjantów. 
-3. Do	2013	roku	wprowadzimy	rozwiązania	gwa-3.rantujące	Polsce	wysokie	przychody	z	wydo-bycia	gazu	łupkowego,	które	przeznaczymy	na bezpieczeństwo	przyszłych	emerytur. 
-4. Na	podobieństwo	1800	Orlików	wybudujemy 4.1000	Świetlików	–	centrów	kultury	i	bibliotek gminnych,	które	będą	wspierać	kreatywność i	budować	umiejętność	pracy	zespołowej.
-5. W	ciągu	kadencji	zwiększymy	wydatki	na	Uni-5.wersytety	Trzeciego	Wieku	i	grupowe	zajęcia zdrowotne dla seniorów.W	 Polsce	 rodzi	 się	 coraz	 mniej	 dzieci.	 Żeby 6.temu	zaradzić,	radykalnie	zwiększymy	ulgę	ro-dzinną	na	trzecie	i	kolejne	dziecko. W	 ramach	 programu	 „Koperniki”	 w	 każdym 7.województwie	do	2020	roku	stworzymy	„Cen-tra	Nauki”,	których	zadaniem,	podobnie	jak	to się	ma	w	przypadku	udanego	projektu	stołecz-nego,	będzie	inspirowanie	młodzieży	do	nauki i	innowacyjności.
-# Zlikwidujemy formularze podatkowe PIT.8. Obniżymy	 zasadniczą	 stawkę	 VAT	 do	 22% 9.w	2014	roku,	kiedy	światowy	kryzys	gospodar-czy	powinien	ustąpić	fazie	ożywienia.Zwiększymy	ulgi	podatkowe	dla	oszczędzają-10. cych	na	emeryturę,	by	motywować	skłonność do	długookresowego	oszczędzania.Zapewnimy	dostęp	do	szerokopasmowego	In-11.ternetu	w	każdej	gminie.Stopniowo	 do	 2015	 roku	 wprowadzimy	 do 12.szkół	e-podręcznik.Damy	Polakom	prawo	wyboru,	komu	przeka-13.żą	 swoją	 składkę	 zdrowotną,	 wprowadzając konkurencję	dla	NFZ. Wprowadzimy	do	kodeksu	pracy	odnawialne 14.umowy	sezonowe	dla	pracowników,	co	zwięk-szy	stabilność	zatrudnienia	wśród	młodych.Zlikwidujemy	 obowiązek	 noszenia	 przez	 kie-15.rowcę	 przy	 sobie	 dowodu	 rejestracyjnego swojego	pojazdu	i	prawa	jazdy,	które	policja i	inne	służby	będą	mogły	skontrolować,	łącząc się	elektronicznie	z	odpowiednim	urzędem.Radykalnie	ograniczymy	dostęp	służb	specjal-16.nych	i	policyjnych	do	bilingów	obywateli	oraz zwiększymy	kontrolę	nad	wykorzystywaniem podsłuchów.
-# Skrócimy	termin	wydawania	pozwoleń	na	bu-17.dowę	z	około	300	do	100	dni,	a	liczbę	procedur z	ponad	30	do	15.	Skrócimy	termin	oczekiwa-nia	 przez	 obywatela	 na	 rozstrzygnięcie	 jego sprawy	w	sądzie	o	1/3.Będziemy	dążyć	do	zrównoważonego	budżetu 18. przed	końcem	kadencji.	Obniżymy	relacje	dłu-gu	do	PKB	do	48%	w	2015	roku	i	do	40%	w	2018 roku,	dzięki	czemu	będziemy	mieli	niższe	sto-py	procentowe	i	szybszy	wzrost	gospodarczy.Wzorem	 krajów	 najbardziej	 rozwiniętych 19.wprowadzimy	 przepisy	 gwarantujące	 kobie-tom	„równą	płacę	za	równą	pracę”,	eliminując dyskryminację	kobiet	w	miejscu	pracy.Najlepsi	maturzyści	już	od	pierwszego	roku	stu-20. diów	będą	otrzymywać	stypendia	naukowe. Przeznaczymy	miliard	złotych	ze	środków	unij-21.nych	na	Fundusz	Przedsiębiorczości	na	Wsi.
+### [Platforma Obywatelska](http://platforma.org/), [Program wyborczy 2011](http://platforma.org/media/dokumenty/Program_PO_100dpi.pdf)
+
+1. Wynegocjujemy ponad 300 mld złotych w budżecie UE na lata 2014–2020 na nasz program inteligentnego rozwoju, który wesprzemy kolejnymi 100 mld złotych środków własnych.
+
+  > http://mojepanstwo.pl/dane/sejm_glosowania.json?q=program+inteligentnego+rozwoju
+  > 
+  > JSON.parse(res).objects.map(function(el){return el.Dataobject.data.id;})
+  >
+  > ["1974", "1329", "4352", "1128", "740", "3562", "902", "2388", "2021", "1129", "653", "412", "2857", "4191", "4190", "2358", "2022", "2020", "520", "3172"]
+  
+2. Płace sfery budżetowej, zamrożone ze względu na kryzys, zaczną ponownie rosnąć. Podobnie jak konsekwentnie zwiększyliśmy płace nauczycieli, będziemy sukcesywnie podnosić wynagrodzenia innych ważnych społecznie grup zawodowych, zaczynając od nauczycieli akademickich i policjantów.
+
+3. Do 2013 roku wprowadzimy rozwiązania gwarantujące Polsce wysokie przychody z wydobycia gazu łupkowego, które przeznaczymy na bezpieczeństwo przyszłych emerytur. 
+
+4. Na podobieństwo 1800 Orlików wybudujemy 1000 Świetlików – centrów kultury i bibliotek gminnych, które będą wspierać kreatywność i budować umiejętność pracy zespołowej.
+
+5. W ciągu kadencji zwiększymy wydatki na Uniwersytety Trzeciego Wieku i grupowe zajęcia zdrowotne dla seniorów. 
+
+6. W Polsce rodzi się coraz mniej dzieci. Żeby temu zaradzić, radykalnie zwiększymy ulgę rodzinną na trzecie i kolejne dziecko. 
+
+7. W ramach programu „Koperniki” w każdym województwie do 2020 roku stworzymy „Centra Nauki”, których zadaniem, podobnie jak to się ma w przypadku udanego projektu stołecznego, będzie inspirowanie młodzieży do nauki i innowacyjności.
+
+8. Zlikwidujemy formularze podatkowe PIT.
+
+9. Obniżymy zasadniczą stawkę VAT do 22% w 2014 roku, kiedy światowy kryzys gospodarczy powinien ustąpić fazie ożywienia.
+
+10. Zwiększymy ulgi podatkowe dla oszczędzających na emeryturę, by motywować skłonność do długookresowego oszczędzania.
+
+11. Zapewnimy dostęp do szerokopasmowego Internetu w każdej gminie.
+
+12. Stopniowo do 2015 roku wprowadzimy do szkół e-podręcznik.
+
+13. Damy Polakom prawo wyboru, komu przekażą swoją składkę zdrowotną, wprowadzając konkurencję dla NFZ.
+
+14. Wprowadzimy do kodeksu pracy odnawialne umowy sezonowe dla pracowników, co zwiększy stabilność zatrudnienia wśród młodych.
+
+15. Zlikwidujemy obowiązek noszenia przez kierowcę przy sobie dowodu rejestracyjnego swojego pojazdu i prawa jazdy, które policja i inne służby będą mogły skontrolować, łącząc się elektronicznie z odpowiednim urzędem.
+
+16. Radykalnie ograniczymy dostęp służb specjalnych i policyjnych do bilingów obywateli oraz zwiększymy kontrolę nad wykorzystywaniem podsłuchów.
+
+17. Skrócimy termin wydawania pozwoleń na budowę z około 300 do 100 dni, a liczbę procedur z ponad 30 do 15. Skrócimy termin oczekiwaniaprzezobywatelanarozstrzygnięcie jego sprawy w sądzie o 1/3.
+
+18. Będziemy dążyć do zrównoważonego budżetu przed końcem kadencji. Obniżymy relacje długu do PKB do 48% w 2015 roku i do 40% w 2018 roku, dzięki czemu będziemy mieli niższe stopy procentowe i szybszy wzrost gospodarczy.
+
+19. Wzoremkrajównajbardziejrozwiniętych wprowadzimyprzepisygwarantującekobietom „równą płacę za równą pracę”, eliminując dyskryminację kobiet w miejscu pracy.
+
+20. Najlepsi maturzyści już od pierwszego roku studiów będą otrzymywać stypendia naukowe. 
+
+21. Przeznaczymy miliard złotych ze środków unijnych na Fundusz Przedsiębiorczości na Wsi.
+
+---
 
 Zerwiemy ze sztywnym podziałem na opiekę•nad dziećmi w wieku 0–3 lat i następnie edu-kację przedszkolną.	 Te	 dwa	 etapy	 będą	 zin-tegrowane	 w	 spójny	 system	 opieki	 i	 edukacji oraz	 uzupełnione	 o	 ofertę	 pomocy	 dla	 rodzi-ców	w	procesie	wychowania	dzieci	czy	diagnozy ewentualnych	deficytów
 
@@ -354,7 +398,4 @@ Zwiększymy ulgi podatkowe dla dobrowolnie•odkładających na emeryturę Polak
 Otworzymy zawody, które do tej pory pozo-•stawały zamknięte,	ponieważ	godzi	to	przede wszystkim	w	osoby	młode,	którym	najtrudniej jest	uzyskać	pierwszą	pracę.	Będziemy	się	przy tym	wzorować	na	takich	krajach,	jak	Szwecja	czy Finlandia,	w	których	liczba	zawodów	regulowa-nych	jestnajniższa	w	UE.
 
 Nadal będziemy intensywnie prywatyzowa-•li przedsiębiorstwa pozostające pod kontroląSkarbu Państwa.	Równocześnie	unowocześni- my	 zarządzanie	 udziałami	 Skarbu	 Państwa w	przedsiębiorstwach	o	kluczowym	znaczeniu dla	gospodarki	tak,	aby	odpowiadały	one	stan-dardom	sektora	prywatnego. 
-
-
-
 
