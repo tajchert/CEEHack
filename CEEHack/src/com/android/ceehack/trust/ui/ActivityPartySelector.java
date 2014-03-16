@@ -9,6 +9,7 @@ import android.content.Intent;
 import android.graphics.Color;
 import android.graphics.drawable.ColorDrawable;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.Menu;
 import android.view.View;
 import android.widget.AdapterView;
@@ -19,6 +20,7 @@ import android.widget.ListView;
 
 import com.android.ceehack.trust.ActivityParty;
 import com.android.ceehack.trust.R;
+import com.android.ceehack.trust.data.JsonParser;
 
 public class ActivityPartySelector extends Activity {
 	private ListView mainListView;
@@ -28,10 +30,12 @@ public class ActivityPartySelector extends Activity {
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main_selector);
-
+		
+		
+		
 		ActionBar actionBar = getActionBar();
 		actionBar.setBackgroundDrawable(new ColorDrawable(Color.rgb(7, 152, 227)));
-
+		
 		LinearLayout ly = (LinearLayout) findViewById(R.id.mainLay);
 		ly.setBackgroundColor(Color.rgb(0, 88, 133));
 

@@ -9,6 +9,7 @@ import android.content.Intent;
 import android.graphics.Color;
 import android.graphics.drawable.ColorDrawable;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.Menu;
 import android.view.View;
 import android.widget.AdapterView;
@@ -20,6 +21,7 @@ import android.widget.ListView;
 import com.android.ceehack.trust.ActivityDetail;
 import com.android.ceehack.trust.ActivityParty;
 import com.android.ceehack.trust.R;
+import com.android.ceehack.trust.data.JsonParser;
 
 public class MainSelectorActivity extends Activity {
 	private ListView mainListView;
@@ -29,7 +31,10 @@ public class MainSelectorActivity extends Activity {
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main_selector);
-
+		
+		JsonParser json = new JsonParser("https://raw.github.com/tajchert/CEEHack/master/data/promises/po.json");
+		json.fetchJSON();
+		
 		ActionBar actionBar = getActionBar();
 		actionBar.setBackgroundDrawable(new ColorDrawable(Color.rgb(7, 152, 227)));
 
@@ -38,8 +43,7 @@ public class MainSelectorActivity extends Activity {
 
 		// Find the ListView resource.
 		mainListView = (ListView) findViewById(R.id.mainListView);
-		String[] planets = new String[] { "Sejm", "Senat",
-				"Parlament Europejski" };
+		String[] planets = new String[] { "Sejm", "Senat", "Parlament Europejski" };
 		ArrayList<String> planetList = new ArrayList<String>();
 		planetList.addAll(Arrays.asList(planets));
 		listAdapter = new ArrayAdapter<String>(this,
