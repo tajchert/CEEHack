@@ -317,6 +317,43 @@ Utrzymamy pozycję Polski jako lidera w unijnej•polityce spójności. Zaplanuj
 
 Uporządkujemy i ograniczymy liczbę progra-•mów rozwoju,	w	tym	programów	wieloletnich. Proces	ten	będzie	polegał	na	przyporządkowa-niu	 obecnie	 realizowanych	 programów	 oraz innych	dokumentów	strategicznych	do	dziewię-ciu	 obowiązujących,	 zintegrowanych	 strategii rozwoju.	Dzięki	temu	zwiększymy	efektywność wydatkowania	 środków	 poprzez	 koncentrację publicznych	środków	finansowych	na	realizacji ograniczonej	liczby	priorytetów.
 
+Dokończymy realizację rządowego Programu•Budowy Dróg Krajowych na lata 2011–2015, w	tym	budowę	autostrad	A1,	A2,	A4	oraz	A8. Wzmocnimy	sieć	połączeń	dróg	ekspresowych i	obwodnic	miast. 
+
+Dokończymy modernizację kolei konwencjo-•nalnej.	Dostosujemy	sieci	kolejowe	do	prędkości 120	i	160	km/h,	tworząc	komercyjnie	dochodo-wą	 alternatywę	 dla	 osobowego	 i	 towarowego transportu	samochodowego.	W	ramach	progra-mu	 remontów	 zmodernizujemy	 200	 dworców kolejowych.
+
+Dokończymy restrukturyzację grupy PKP SA.•Spółki	 PKP	 Cargo,	 Telekomunikacja	 Kolejowa, PKP	 Energetyka,	 PKP	 Intercity,	 PKL	 zostaną sprywatyzowane.
+
+Chcemy, by Urząd Transportu Kolejowego peł-•nił rolę rzecznika praw pasażerów. Wzmoc-nimy	 jego	 rolę,	 szczególny	 nacisk	 kładąc	 na dostępność	 kolei	 dla	 wszystkich	 grup	 podróż-nych,	w	tym	osób	niepełnosprawnych,	starszych, kobiet	w	ciąży,	osób	podróżujących	z	dziećmi.
+
+Zmodernizujemy terminale pasażerskie na•lotniskach	 w	 celu	 zwiększania	 ich	 przepusto-wości.	Lotniska	zostaną	lepiej	skomunikowane z	drogami	i	liniami	kolejowymi.
+
+W	ramach	programów	budownictwa	mieszka-• niowego	chcemy	objąć	preferencyjnym	kredy-tem	większą	liczbę	Polek	i	Polaków.	Do końca2012 roku będziemy kontynuować zmodyfiko-wany program „Rodzina na swoim”. 
+
+Zaproponujemy nową formułę realizacji inwe-•stycji mieszkaniowych, w ramach której osobywynajmujące mieszkanie stopniowo spłacały-by koszt jego budowy, aż do nabycia pełnychpraw własności.	Program	ten	ma	objąć	osoby niemające	 zdolności	 kredytowej	 pozwalającej na	zakup	mieszkania	i	umożliwić	realizowanie inwestycji	mieszkaniowych	w	oparciu	o	najem lokalu.	W	szczególny	sposób	traktowane	będą	te osoby,	których	dochody	uniemożliwiają	w	inny sposób	zaspokojenie	potrzeb	mieszkaniowych na	rynku.	Do	nich	adresowane	będą	programy budownictwa	socjalnego	i	komunalnego	z	udzia-łem	budżetu	państwa	i	samorządów	oraz	bu-downictwo	społeczne.
+
+Będziemy dążyć do zrównoważonego budże-•tu w czasie następnej kadencji.	Zredukujemy zadłużenie	do	48%	PKB	z	obecnych	53%.	Podej-miemy	działania,	aby	dług	obniżył	się	do	40% PKB	 do	 roku	 2018.	 Dzięki	 takiej	 konsolidacji finansów	 publicznych	 spadną	 koszty	 obsługi długu	i	kredytowania	się	na	rynku	przez	sektor publiczny	i	prywatny.	Narodowy	Bank	Polski	bę-dzie	miał	przestrzeń	do	obniżania	stóp	procen-towych,	co	wspomoże	wzrost	gospodarczy.
+
+Aby	 utrzymać	 wiarygodność	 finansową	 Polski • i	 zapewnić	 finansowanie	 wszystkich	 potrzeb państwa	wobec	obywateli	w	sytuacji	potencjal-nego	powrotu	kryzysu	finansowego	na	świecie, utrzymamy naszą Elastyczną Linię Kredytowąw MFW	i	już	jesienią	zabezpieczymy	przyszło-roczne	finansowanie	państwa.
+
+Wdrożymy docelową regułę budżetową•,	która zwiąże	limit	wydawanych	środków	ze	średnio-okresowym	wzrostem	gospodarczym.
+
+Wprowadzimy w przyszłej kadencji tzw. ban-•kową opłatę ostrożnościową,	uiszczaną	przez instytucje	 prowadzące	 działalność	 bankową. Środki	te	będą	kierowane	do	Bankowego	Fun-duszu	Gwarancyjnego,	a	nie	do	budżetu	pań-stwa,	 i	 będą	 mogły	 być	 używane	 –	 zamiast środków	 podatnika	 –	 w	 przypadku	 potrzeby dokapitalizowania	któregoś	z	banków	na	skutek ewentualnego	przyszłego	kryzysu	finansowego. 
+
+Wzmocnimy polski sektor bankowy• m.in.	przez stworzenie	Rady	Ryzyka	Systemowego	pod	prze-wodnictwem	Prezesa	NBP,	na	wzór	Europejskiej Rady	ds.	Ryzyka	Systemowego	(ang.	EuropeanSystemic	 Risk	 Board),	 której	 przewodniczy Prezes	 Europejskiego	 Banku	 Centralnego,	 co w	większym	stopniu	zapewni	długoterminowe bezpieczeństwo	naszych	środków	w	bankach.
+
+Płace sfery budżetowej, zamrożone ze wzglę-•du na kryzys, zaczną ponownie rosnąć.	 Po-dobnie	jak	konsekwentnie	zwiększyliśmy	płace nauczycieli,	 będziemy	 sukcesywnie	 podnosić wynagrodzenia	innych	ważnych	społecznie	grup zawodowych,	zaczynając	od	nauczycieli	akade-mickich	i	policjantów.
+
+Wzorem	krajów	najbardziej	rozwiniętych	wpro-• wadzimy	 przepisy gwarantujące kobietom„równą płacę za równą pracę”,	eliminując	dys-kryminację	kobiet	w	miejscu	pracy. 
+
+Wprowadzimy reformę emerytur munduro-•wych.	Zrobimy	to	z	poszanowaniem	praw	na-bytych,	 co	 oznacza,	 że	 nowe	 zasady	 nie	 będą dotyczyły	 osób	 obecnie	 pracujących	 w	 tych służbach.
+
+Zwiększymy efektywność zarządzania aktywa-•mi OFE.	Dla	osób	zbliżających	się	do	emerytury wprowadzimy	bezpieczne	fundusze,	jednocze-śnie	 dla	 osób	 młodych	 pozostawimy	 fundu-sze	bardziej	efektywne,	aby	w	pełni	mogły	one skorzystać	na	wzrostach	giełdowych	w	długim okresie. 
+
+Zwiększymy ulgi podatkowe dla dobrowolnie•odkładających na emeryturę Polaków	do	6% dochodu,	 by	 motywować	 ich	 do	 oszczędzania i	wzmacniać	bezpieczeństwo	emerytalne. 
+
+Otworzymy zawody, które do tej pory pozo-•stawały zamknięte,	ponieważ	godzi	to	przede wszystkim	w	osoby	młode,	którym	najtrudniej jest	uzyskać	pierwszą	pracę.	Będziemy	się	przy tym	wzorować	na	takich	krajach,	jak	Szwecja	czy Finlandia,	w	których	liczba	zawodów	regulowa-nych	jestnajniższa	w	UE.
+
+Nadal będziemy intensywnie prywatyzowa-•li przedsiębiorstwa pozostające pod kontroląSkarbu Państwa.	Równocześnie	unowocześni- my	 zarządzanie	 udziałami	 Skarbu	 Państwa w	przedsiębiorstwach	o	kluczowym	znaczeniu dla	gospodarki	tak,	aby	odpowiadały	one	stan-dardom	sektora	prywatnego. 
 
 
 
