@@ -9,6 +9,7 @@ import java.util.ArrayList;
 
 import android.app.ActionBar;
 import android.app.Fragment;
+import android.content.Intent;
 import android.graphics.Color;
 import android.graphics.drawable.ColorDrawable;
 import android.os.Bundle;
@@ -17,15 +18,20 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.LinearLayout;
 
+import com.android.ceehack.trust.Application;
 import com.android.ceehack.trust.R;
 import com.android.ceehack.trust.cards.ChartBarCards;
 import com.android.ceehack.trust.cards.DetailPartyChart;
 import com.android.ceehack.trust.cards.FulfilledCard;
-import com.android.ceehack.trust.cards.InfoCards;
+import com.android.ceehack.trust.cards.InfoCard;
+import com.android.ceehack.trust.cards.InfoLongCard;
 import com.android.ceehack.trust.cards.ProofCard;
+import com.android.ceehack.trust.data.JsonObjResult;
 
 
 public class CardsDetailFragment extends Fragment {
+	int number;
+	JsonObjResult tmp;
 	public CardsDetailFragment() {
 	}
 	@Override
@@ -42,6 +48,9 @@ public class CardsDetailFragment extends Fragment {
 		LinearLayout ly = (LinearLayout) getActivity().findViewById(R.id.mainLay);
 		ly.setBackgroundColor(Color.parseColor("#232323"));
         
+		Intent myIntent = getActivity().getIntent(); // gets the previously created intent
+		number = myIntent.getIntExtra("number", 0);
+		tmp = Application.listaPostow.get(number);
 		initCards();
 	}
 
@@ -49,7 +58,7 @@ public class CardsDetailFragment extends Fragment {
 
 		// Init an array of Cards
 		ArrayList<Card> cardsChart = new ArrayList<Card>();
-		Card card = init_info_card();
+		Card card = init_info_card(tmp.getFull(), tmp.getStatus(), tmp.getDue_date());
 		cardsChart.add(card);
 		card = init_fulfilled_card();
 		cardsChart.add(card);
@@ -57,7 +66,6 @@ public class CardsDetailFragment extends Fragment {
 		cardsChart.add(card);
 		card = init_chart_detail_card();
 		cardsChart.add(card);
-		
 		
 		/*for (int i = 0; i < 5; i++) {
 			card = init_chart_card();
@@ -80,11 +88,14 @@ public class CardsDetailFragment extends Fragment {
 		card.setBackgroundResource(getResources().getDrawable(R.drawable.card_back));
 		return card;
 	}
-	private Card init_info_card() {
+	private Card init_info_card(String content, String type, String date) {
 		//ChartPieCard card = new ChartPieCard(getActivity());
 		
-		InfoCards card = new InfoCards(getActivity());
-		
+		InfoLongCard card = new InfoLongCard(getActivity());
+		card.content = content;
+		card.type = type;
+		card.num = number;
+		card.dateContent = date;
 		CardExpand expand = new CardExpand(getActivity());
 		card.addCardExpand(expand);
 		card.setBackgroundResource(getResources().getDrawable(R.drawable.card_back));

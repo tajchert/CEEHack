@@ -2,7 +2,7 @@
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/mainWrapper"
     android:layout_width="match_parent"
-    android:layout_height="80dp" >
+    android:layout_height="150dp" >
 
     <RelativeLayout
         android:id="@+id/mainHold"
@@ -15,10 +15,10 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_alignParentLeft="true"
-            android:layout_toLeftOf="@+id/imageViewColorIndicator" >
+            android:layout_toLeftOf="@+id/imageViewColorIndicatorLong" >
 
             <TextView
-                android:id="@+id/textViewDate"
+                android:id="@+id/textViewDateLong"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_alignParentLeft="true"
@@ -29,20 +29,20 @@
                 android:textStyle="bold" />
 
             <TextView
-                android:id="@+id/textViewContent"
+                android:id="@+id/textViewContentLong"
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"
-                android:layout_alignLeft="@+id/textViewDate"
-                android:layout_below="@+id/textViewDate"
+                android:layout_alignLeft="@+id/textViewDateLong"
+                android:layout_below="@+id/textViewDateLong"
                 android:text="Lorem ipsum.."
                 android:textAppearance="?android:attr/textAppearanceMedium"
                 android:textSize="16sp" />
         </RelativeLayout>
 
         <ImageView
-            android:id="@+id/imageViewColorIndicator"
+            android:id="@+id/imageViewColorIndicatorLong"
             android:layout_width="15dp"
-            android:layout_height="80dp"
+            android:layout_height="150dp"
             android:layout_alignParentBottom="true"
             android:layout_alignParentRight="true"
             android:layout_alignParentTop="true"

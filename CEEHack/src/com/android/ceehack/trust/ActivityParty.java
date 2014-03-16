@@ -14,7 +14,7 @@ import android.view.ViewGroup;
 import android.widget.EditText;
 import android.widget.FrameLayout;
 
-import com.android.ceehack.trust.cardfragments.CardsGraphFragment;
+import com.android.ceehack.trust.cardfragments.CardsPartyFragment;
 
 public class ActivityParty extends Activity {
 	private static final int CONTENT_VIEW_ID = 10101010;
@@ -29,7 +29,7 @@ public class ActivityParty extends Activity {
 
 		if (savedInstanceState == null) {
 			// Fragment newFragment = new DebugExampleTwoFragment();
-			Fragment charFragment = new CardsGraphFragment();
+			Fragment charFragment = new CardsPartyFragment();
 			FragmentTransaction ft = getFragmentManager().beginTransaction();
 			ft.add(CONTENT_VIEW_ID, charFragment).commit();
 		}

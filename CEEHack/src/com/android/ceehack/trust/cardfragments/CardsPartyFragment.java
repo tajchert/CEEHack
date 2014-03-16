@@ -17,14 +17,16 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.LinearLayout;
 
+import com.android.ceehack.trust.Application;
 import com.android.ceehack.trust.R;
 import com.android.ceehack.trust.cards.ChartBarCards;
 import com.android.ceehack.trust.cards.ChartPieCard;
-import com.android.ceehack.trust.cards.InfoCards;
+import com.android.ceehack.trust.cards.InfoCard;
+import com.android.ceehack.trust.data.JsonObjResult;
 
 
-public class CardsGraphFragment extends Fragment {
-	public CardsGraphFragment() {
+public class CardsPartyFragment extends Fragment {
+	public CardsPartyFragment() {
 	}
 	@Override
 	public View onCreateView(LayoutInflater inflater, ViewGroup container,Bundle savedInstanceState) {
@@ -37,8 +39,7 @@ public class CardsGraphFragment extends Fragment {
 	public void onActivityCreated(Bundle savedInstanceState) {
 		super.onActivityCreated(savedInstanceState);
 		ActionBar actionBar = getActivity().getActionBar();
-		actionBar.setBackgroundDrawable(new ColorDrawable(Color
-				.rgb(7, 152, 227)));
+		actionBar.setBackgroundDrawable(new ColorDrawable(Color.rgb(7, 152, 227)));
 
 		LinearLayout ly = (LinearLayout) getActivity().findViewById(R.id.mainLay);
 		ly.setBackgroundColor(Color.parseColor("#232323"));
@@ -52,9 +53,10 @@ public class CardsGraphFragment extends Fragment {
 		ArrayList<Card> cardsChart = new ArrayList<Card>();
 		Card card = init_chart_card();
 		cardsChart.add(card);
-		
-		for (int i = 0; i < 5; i++) {
-			card = init_info_card();
+		JsonObjResult tmp;
+		for (int i = 0; i < Application.listaPostow.size(); i++) {
+			tmp = Application.listaPostow.get(i);
+			card = init_info_card(tmp.getBrief(), tmp.getStatus(), i, tmp.getDue_date());
 			cardsChart.add(card);
 		}
 		CardArrayAdapter mCardArrayAdapterGrades = new CardArrayAdapter(getActivity(), cardsChart);
@@ -75,11 +77,14 @@ public class CardsGraphFragment extends Fragment {
 		card.setBackgroundResource(getResources().getDrawable(R.drawable.card_back));
 		return card;
 	}
-	private Card init_info_card() {
+	private Card init_info_card(String content, String type, int number, String date) {
 		//ChartPieCard card = new ChartPieCard(getActivity());
 		
-		InfoCards card = new InfoCards(getActivity());
-		
+		InfoCard card = new InfoCard(getActivity());
+		card.content = content;
+		card.type = type;
+		card.num = number;
+		card.dateContent = date;
 		CardExpand expand = new CardExpand(getActivity());
 		card.addCardExpand(expand);
 		card.setBackgroundResource(getResources().getDrawable(R.drawable.card_back));

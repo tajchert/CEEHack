@@ -15,49 +15,64 @@ import android.widget.TextView;
 import com.android.ceehack.trust.ActivityDetail;
 import com.android.ceehack.trust.R;
 
-public class InfoCards extends Card {
+public class InfoCard extends Card {
 	private SimpleDateFormat sdf = new SimpleDateFormat("dd.MM.yyyy",
 			java.util.Locale.getDefault());
 	protected ImageView indicator;
 	protected TextView date;
 	protected TextView text;
 	private Context context;
-	
-	public InfoCards(Context context) {
+	public String type = "fulfilled";
+	public int num = 0;
+	public String content  = "";
+	public String dateContent;
+
+	public InfoCard(Context context) {
 		this(context, R.layout.cards_info_main);
-		
+
 	}
 
-	public InfoCards(Context context, int innerLayout) {
+	public InfoCard(Context context, int innerLayout) {
 		super(context, innerLayout);
 		this.context = context;
 		init();
 	}
 
 	private void init() {
-		
+
 		// No Header
 
 		setOnClickListener(new OnCardClickListener() {
-            @Override
-            public void onClick(Card card, View view) {
-            	Intent myIntentParty = new Intent(context, ActivityDetail.class);
-        		//myIntent.putExtra("key", value); //Optional parameters
-            	context.startActivity(myIntentParty);
-            }
-        });
+			@Override
+			public void onClick(Card card, View view) {
+				Intent myIntentParty = new Intent(context, ActivityDetail.class);
+				myIntentParty.putExtra("number", num); //Optional parameters
+				context.startActivity(myIntentParty);
+			}
+		});
 	}
 
 	@Override
 	public void setupInnerViewElements(ViewGroup parent, View view) {
-		
+
 		indicator = (ImageView) view.findViewById(R.id.imageViewColorIndicator);
 		date = (TextView) view.findViewById(R.id.textViewDate);
 		text = (TextView) view.findViewById(R.id.textViewContent);
+		date.setText(dateContent +"");
+		if(content.length()> 200){
+			content = content.substring(0, 200);
+		}
 		
-		if(indicator != null){
-			indicator.setBackgroundColor(Color.parseColor("#30B643"));
-			//indicator.setBackgroundColor(Color.parseColor("#EF4604"));
+		if (content != null) {
+			text.setText(content);
+		}
+
+		if (indicator != null) {
+			if (type.equals("fulfilled")) {
+				indicator.setBackgroundColor(Color.parseColor("#30B643"));
+			} else if (type.equals("broken")) {
+				indicator.setBackgroundColor(Color.parseColor("#EF4604"));
+			}
 		}
 
 	}
