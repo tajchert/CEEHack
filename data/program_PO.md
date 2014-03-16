@@ -54,5 +54,111 @@ Chcemy	 ułatwić	 studentom	 znalezienie	 pracy • oraz	tanich	mieszkań	do	wy
 
 Wspólnie z pracodawcami założymy fundację•na rzecz staży w wiodących firmach działają-cych w Polsce dla studentów,	także	tych	kształ-cących	się	na	kierunkach	humanistycznych,	aby ułatwić	im	zdobycie	praktycznej	wiedzy	i	wejście na rynek pracy.
 
+Będziemy	 wspierać	 uczelnie	 w	 weryfikowaniu • kierunków	 studiów	 pod	 kątem	 ich	 przełoże-nia na zawodowy i naukowy sukces absolwen-tów. Zwiększymy nacisk na projektową pracęstudenta.
+
+Powołamy specjalny fundusz konkursowy•„Generacja Przyszłości”,	finansujący	udział	wy-bitnie	 uzdolnionej	 młodzieży	 w	 prestiżowych, międzynarodowych	konkursach.
+
+Każdego	 roku • 100 najwybitniejszych studen-tów w Polsce otrzyma „Diamentowy Grant” narealizację	badań	naukowych.
+
+Od	roku	akademickiego	2011/2012	we	wszyst-• kich	uczelniach	studenci będą oceniać wykła-dowców,	a	oceny	te	będą	brane	pod	uwagę	jako jeden	z	elementów	okresowej	oceny	wykładow-cy.	Od	1	stycznia	2012	roku	studenci	będą	mie-li	wgląd	do	recenzji	swoich	prac	dyplomowych i	magisterskich,	a	obrona,	na	życzenie	studen-tów,	będzie	mogła	mieć	charakter	publiczny.
+
+Będziemy	 kontynuować	 wdrażanie	 reformy • szkolnictwa	 wyższego.	 Wyłonimy piętnaścieKrajowych Naukowych Ośrodków Wiodących, które	dzięki	najlepszej	kadrze	naukowej	i	stu-dentom	będą	prowadzić	prace	naukowo-dydak-tyczne	na	najwyższym,	światowym	poziomie.
+
+Już	od	2012	roku	zacznie	funkcjonować	zapisa-• na	w	budżecie	państwa	dotacja projakościowa dla uczelni, w sumie 230 mln złotych.	Pienią-dze	te	trafią	do	piętnastu	Krajowych	Naukowych Ośrodków	 Wiodących,	 uczelni	 niepublicznych realizujących	 studia	 doktoranckie	 oraz	 uczel-ni	 prowadzących	 25	 wyróżnionych	 kierunków studiów.
+
+Od	2013	roku,	przez	kolejne	trzy	lata, • przepro-wadzimy znaczące podwyżki wynagrodzeń ka-dry akademickiej.
+
+Systematycznie będziemy zwiększać budżety•dwóch	 niezależnych	 agencji	 finansujących	 ba-dania naukowe – Narodowego Centrum Naukioraz Narodowego Centrum Badań i Rozwoju.W	2015	roku	każda	z	nich	będzie	dysponowa-ła	sumą	co	najmniej	1,5	mld	złotych	na	granty naukowe	dla	konsorcjów	naukowo-przemysło-wych	i	naukowców.
+
+W	2012	roku • założymy Polski Fundusz Innowa-cyjności na rzecz Badań i Rozwoju	w	przedsię-biorstwach,	finansowany	z	pracującego	majątku Skarbu	 Państwa.	 Fundusz	 będzie	 skierowany do	 innowacyjnych	 mikro-,	 małych	 i	 średnich przedsiębiorstw.
+
+Zwiększymy zainteresowanie zarówno na-•ukowców, jak i biznesu (mikro-, małegoi średniego) wzajemną współpracą w celuwytwarzania innowacyjnych dóbr i usług.Chcemy	 umożliwić	 finansowanie	 ze	 środków budżetowych	 początkowej	 fazy	 działalności badawczo-rozwojowej podejmowanej w sek-torze	 prywatnym,	 aby	 systematycznie	 zwięk-szać	 jego	 zaangażowanie	 w	 finansowanie	 tej działalności.
+
+Zintegrujemy program staży podyplomowych•z programem studiów. Będziemy	zachęcać	za-równo	pracodawców,	jak	i	kadrę	akademicką	do zacieśniania	 współpracy	 także	 poprzez	 zama-wianie	 kierunków	 kształcenia	 przez	 przemysł. Konieczne	jest	też	ciągłe	poprawianie	efektyw-ności	uczelnianych	Centrów	Transferu	Techno-logii	oraz	Klastrów	Innowacyjności	i	Inkubatorów Przedsiębiorczości.
+
+Chcemy	 stworzyć	 model	 promocji	 innowacyj-• nej	przedsiębiorczości,	zwiększając	zachęty	dla „start	up-ów”,	przeznaczając	na	ten	cel	granty, dzięki	którym	młodzi	mikroprzedsiębiorcy	będą w	stanie	zamawiać	projekty	badawcze	i	wdrażać innowacyjne	rozwiązania.	W	tym	celu	stworzy-my Akademickie Inkubatory Innowacyjności.W	ramach	programu	będziemy	wspierać	uczel-nie	wyższe	w	tworzeniu	i	rozwoju	już	istniejących Akademickich	Inkubatorów	Przedsiębiorczości. Będą	one	wspierały	studentów	w	rozpoczęciu działalności	gospodarczej	opartej	na	nowoczes-nych	technologiach,	które	zostaną	wytworzone w	trakcie	programu.	Studenci	będą	mieli	możli-wość	m.in.	przeniesienia	kosztów	ubezpieczeń społecznych	oraz	kosztów	księgowo-prawnych na	inkubator,	wsparcia	kadry	naukowej	uczelni i	niezależnych	ekspertów,	uczestnictwa	w	szkole-niach	z	zakresu	np.	prawa	patentowego,	dostę-pu do infrastruktury biurowej oraz do Internetu.15–20%	udziałów	w	przedsiębiorstwie	i	jego	zy-skach	(m.in.	prawa	autorskie	do	patentów)	bę-dzie	miał	inkubator.
+
+Droga	od	pomysłu	do	przemysłu	musi	być	coraz • krótsza. Konieczne jest wprowadzenie systemuzachęt	materialnych	dla	każdego	indywidualne-go	naukowca,	a	także	studenta	w	celu	 rozwoju kreatywności	naukowej	na	uczelniach	i	w	jed-nostkach	naukowych.	Dlatego	podatek od prawautorskich do wynalazku zostanie zamrożonyaż do czasu uzyskania dochodów ze sprzedażyproduktu. Wprowadzimy	także	zachęty	dla	na-ukowców,	takie	jak	specjalne	dodatki	zadaniowe lub	redukcja	pensum,	sprzyjające	angażowaniu się	 w	 rozwój	 przedsiębiorczości	 akademickiej i	innowacyjności.
+
+Będziemy kontynuować program „TOP 500•Innovators”,	służący	polskim	pionierom	 inno-wacyjności	do	odbywania	staży	za	granicą.	Do 2015	roku	prawie	500	polskich	naukowców	weź-mie	udział	w	programie	rocznych	pobytów	sta-żowych	na	najbardziej	prestiżowych	uczelniach świata	(m.in.	Harvard,	Stanford,	MIT).
+
+Otworzymy punkt doradztwa dla naukowców,•wynalazców i przedsiębiorców w NarodowymCentrum Badań i Rozwoju.	 Pomożemy	 im w	uzyskaniu	finansowania	na	projekty.	Skróci-my	też	procedurę	uzyskania	zarówno	europej-skiego,	jak	i	polskiego	patentu.
+
+Ogłosimy program „Granty na Start” dla jed-•nostek, które potrzebują dofinansowania narozpoczęcie prac w nowo wybudowanych labo-ratoriach.	W	ramach	konkursu	będą	dystrybu-owane	specjalne	granty	na	rozruch	działalności nowych	jednostek	naukowych.
+
+Zapewnimy	 możliwość • komercjalizacji usługi produktów wytworzonych na bazie laborato-riów wybudowanych za fundusze unijne.
+
+Otworzymy punkt doradztwa dla naukowców,•wynalazców i przedsiębiorców w NarodowymCentrum Badań i Rozwoju.	 Pomożemy	 im w	uzyskaniu	finansowania	na	projekty.	Skróci-my	też	procedurę	uzyskania	zarówno	europej-skiego,	jak	i	polskiego	patentu.
+
+Ogłosimy program „Granty na Start” dla jed-•nostek, które potrzebują dofinansowania narozpoczęcie prac w nowo wybudowanych labo-ratoriach.	W	ramach	konkursu	będą	dystrybu-owane	specjalne	granty	na	rozruch	działalności nowych	jednostek	naukowych.
+
+Zapewnimy	 możliwość • komercjalizacji usługi produktów wytworzonych na bazie laborato-riów wybudowanych za fundusze unijne.
+
+Będziemy	zabiegać	w	KE	i	krajach	członkowskich • UE o zlokalizowanie w Polsce laboratoriumdużej infrastruktury badawczej o znaczeniuponadnarodowym,	w	ramach	Europejskiej	Prze-strzeni	Badawczej	(ERA).
+
+Infrastruktura badawcza wpisana do Europej-•skiej Mapy Drogowej w ramach EuropejskiejPrzestrzeni Badawczej będzie mogła uzyskaćstatus „Laboratoriów Narodowych”	 z	 możli-wością	korzystania	z	nich	przez	wszystkich	za-interesowanych	naukowców	w	kraju	i	regionie. Jednym	z	nich	stanie	się	np.	synchrotron	na	Uni-wersytecie	Jagiellońskim.
+
+W	ramach	nowego	budżetu	UE	na	lata	2014– • –2020	uruchomimy nowy, dedykowany naucei innowacyjności program operacyjny finanso-wany z funduszy unijnych i budżetu państwa,służący	finansowaniu	infrastruktury	badawczej, badań	i	współpracy	międzynarodowej	polskich naukowców.
+
+Wykonamy zapisy „Paktu dla kultury”•, w	którym	zobowiązaliśmy	się	do	podwyższenia finansowania	kultury	z	budżetu	państwa	do	co najmniej	 1%	 wszystkich	 wydatków	 budżeto-wych,	 poczynając	 od	 roku	 2012	 (bez	 środków europejskich	i	samorządowych).
+
+W	 latach	 2011–2015	 razem	 z	 samorządami • przeznaczymy 375 mln złotych na rozbudowęinfrastruktury bibliotecznej, budowę nowychbibliotek, wyposażenie już istniejących biblio-tek w dostęp do szerokopasmowego Interne-tu. Sprzęgniemy	 ten	 program	 z	 ideą	 budowy Świetlików.
+
+Poprawimy	 warunki	 przechowywania	 zbiorów • ważnych	 dla	 dziedzictwa	 narodowego.	 Stoimy przed	szansą	na	ocalenie	dorobku	kulturalnego zapisanego	na	nietrwałych	nośnikach,	dlatego naszym priorytetem będzie dalsza cyfryzacjaarchiwów i zbiorów bibliotecznych.
+
+Zapewnimy powszechny dostęp do Internetu•do 2015 roku.	Zrobimy	to	w	oparciu	o	przyjętą w	2010	roku	ustawę	o	wspieraniu	rozwoju	usług i	 sieci	 szerokopasmowych	 w	 telekomunikacji, ułatwiającą	 procesy	 inwestycyjne.	 W	 najbliż-szych	latach	dokończymy	inwestycje	publiczne w	 infrastrukturę	 szerokopasmową	 w	 ramach projektu	Sieci	Szerokopasmowej	Polski	Wschod-niej.	 Na	 terenach	 słabo	 zaludnionych	 zapew-nimy	 dostęp	 do	 Internetu	 bezprzewodowego, wykorzystując	wolne	lub	zwalniane	przez	woj-sko	częstotliwości.	Dla	przyspieszenia	działania uruchomimy	systemowy	projekt	wsparcia	jed-nostek	 samorządu	 terytorialnego	 w	 budowie infrastruktury	teleinformatycznej	(na	podstawie ustawy	 szerokopasmowej).	 W	 ciągu	 trzech	 lat zostanie wybudowana lub zmodernizowana in-frastruktura	zapewniająca	przyłączenie	co	naj-mniej	1,2	mln	nowych	łączy	szerokopasmowych. Dla	 powodzenia	 tego	 projektu	 wprowadzone zostaną	także	rozwiązania	obok	już	istniejących, które	pozwolą	na	pełniejsze	wykorzystanie	in-frastruktury	 operatorów	 sieci	 wodociągowej, kanalizacyjnej	i	energetycznej.
+
+Do 2015 roku zintegrujemy systemy informa-•tyczne administracji, aby	urzędy	mogły	się	ze sobą	 komunikować	 na	 bieżąco,	 oszczędzając obywatelom	 biegania	 po	 urzędach	 (szczegóły w	dziale	poświęconym	deregulacji).
+
+We	współpracy	z	organizacjami	pozarządowymi • przygotujemy	i	zrealizujemy	w	ośrodkach	kul-tury,	 bibliotekach	 i	 Uniwersytetach	 Trzeciego Wieku	projekt mający na celu likwidację wy-kluczenia cyfrowego osób dorosłych, w tymseniorów.
+
+Wdrożymy w Polsce naziemną telewizję•cyfrową.	 Zrealizujemy	 Europejską	 Agendę Cyfrową	 poprzez	 rozwój	 szybkich	 i	 ultraszyb-kich	 sieci	 szerokopasmowych	 w	 technologii światłowodowej.
+
+Będziemy podejmować kolejne zadania zwią-•zane z cyfryzacją treści analogowych.	 Dzięki technologiom	cyfrowym	powstanie	nowy	obieg kultury	i	informacji.	Zmienią	się	zasady	dostępu do	zasobów,	które	uzyskają	charakter	cyfrowy. Większa	będzie	dostępność	kultury	i	dziedzictwa narodowego,	 poprawiony	 zostanie	 dostęp	 do wiedzy	i	edukacji,	a	tempo	wymiany	informacji przyczyni	się	do	poprawy	jakości	badań	nauko-wych.	Zadaniem	na	następną	kadencję	będzie digitalizacja	wspólnego	dziedzictwa	kulturowe-go	i	wsparcie	procesów	archiwizacji.
+
+Będziemy	 kontynuować	 prace	 nad	 zmianami • prawnymi	umożliwiającymi	pełny i otwarty do-stęp do informacji publicznych	w	celu	ich	po-nownego	 wykorzystania	 przez	 obywateli	 oraz innowacyjnych	 przedsiębiorców.	 Opracowu-jemy ujednolicony system elektronicznegoBiuletynu Informacji Publicznej.	Chcemy,	aby wszystkie	informacje	publiczne	znajdowały	się na jednej stronie.
+
+Zmniejszymy	 bariery	 regulacyjne	 utrudniające • sprzedaż towarów i świadczenie usług drogąelektroniczną.
+
+Wprowadzamy do administracji publicznej•elektroniczne metody komunikacji państwo-- obywatel,	zapewniając	większe	zaangażowanie obywateli	w	proces	rządzenia	oraz	zwiększając przejrzystość	procesu	stanowienia	prawa
+
+Rozpoczniemy proces wzmacniania instytucjo-•nalnego i finansowego organizacji pozarządo-wych.	W	tej	chwili	środki	publiczne	i	pieniądze pochodzące	z	Unii	Europejskiej	stanowią	pod-stawowe	 źródło	 dochodów	 tych	 organizacji. Upraszczając	zasady	zlecania	zadań	publicznych przez	administrację	samorządową	i	centralną, musimy	tworzyć	warunki	do	budowania	nieza-leżności	tych	organizacji.	W	tym	celu	rozpocznie-my przygotowania do uruchomienia funduszysłużących budowie kapitałów żelaznych orga-nizacji – stowarzyszeń i fundacji. Pierwszy krokw	tym	kierunku	już	został	uczyniony	w	ustawie o	dotacji	dla	Fundacji	Auschwitz	Birkenau.
+
+Uprościmy zasady sprawozdawczości dla•organizacji pozarządowych dysponującychniewielkimi budżetami. To pozwoli na uzyski-wanie	 statusu	 formalnej	 organizacji	 niewiel-kim	grupom	społecznym.	Zmiany	te	będą	szły w	 parze	 z	 programem	 edukacji	 obywatelskiej w	szkołach.
+
+Wprowadzimy do szkół podstawowych pro-•gram edukacji obywatelskiej.	Stanie	się	to	już w	 roku	 szkolnym	 2012/2013.	 Program	 będzie służył	kształceniu	kompetencji	niezbędnych	do rozumienia	 funkcjonowania	 nowoczesnej,	 za-awansowanej demokracji oraz wzmocnieniapostaw	obywatelskich.
+
+Wprowadzimy do szkół powszechne projekty•społeczne,	 w	 ramach	 których	 uczniowie	 będą mogli	realizować	zadania	ważne	dla	lokalnych społeczności,	w	których	żyją	oni	i	ich	rodzice.
+
+Rozwiniemy nowoczesne metody komunikowa-• nia	się	administracji	publicznej	z	obywatelami, wprowadzimy konsultacje elektroniczne orazobowiązek publikowania wyników głosowań,np.	w	radach	gmin,	udostępnimy	zbiory	danych publicznych,	 będziemy	 wspierać	 powstawanie portali	 monitorujących	 aktywność	 przedstawi-cieli	–	radnych,	posłów,	służb	miejskich.
+
+Podejmiemy działania na rzecz zwiększania•udziału obywateli w wyborach	powszechnych poprzez prowadzenie polityki informacyjneji	 projektów	 profrekwencyjnych,	 m.in.	 przez Państwową	 Komisję	 Wyborczą,	 której	 zadania zostałyby	rozszerzone	o	działania	informacyjne i promocyjne.
+
+Zaproponujemy• ograniczenie wydatków par-tii politycznych na reklamę i przeznaczymyje	 w	 większej	 skali	 na	 działania	 programowe i merytoryczne.
+
+Ograniczymy immunitet parlamentarny•,	 aby zmniejszyć	 dystans	 między	 obywatelami	 a	 ich reprezentantami.
+
+Dokończymy budowę gazoportu w Świnoujś-•ciu,	będziemy	kontynuować	program	energetyki jądrowej	oraz	rozbudowę	magazynów	gazowych i	sieci	przesyłowych.	Do	2015	roku	całkowita	po-jemność	magazynów	gazowych	wzrośnie	z	obec-nego	1,66	mld	m³	do	ponad	3	mld	m³,	a	długość gazociągów	zwiększy	się	o	1	tys.	km.
+
+Powołamy	rządowego	koordynatora	do	spraw • gazu	łupkowego,	którego	zadaniem	będzie	jak najszybsze	doprowadzenie	do	komercyjnej	eks-ploatacji	złóż	w	Polsce.	Uchwalimy	mechanizm przekazywania dochodów państwa z wydoby-cia gazu łupkowego na bezpieczeństwo przy-szłych emerytur.
+
+Zreformujemy	sektor	energetyczny	na	trzy	spo-• soby.	Po	pierwsze,	zwiększenie	efektywności.	Po drugie,	dywersyfikacja	źródeł	i	przesyłu	energii i	 paliw.	 Po	 trzecie,	 rozwój	 energooszczędnych i	niskoemisyjnych	technologii.
+
+Oprócz	budowy	połączenia	gazowego	z	Czecha-• mi	w	okolicach	Cieszyna	i	Niemcami	w	Lasowie zmodernizujemy połączenie ze Słowacją i zbu-dujemy nowe połączenia z Litwą.	Do	2015	roku podwoimy	nasze	możliwości	importowe,	a	eks-portowe	potroimy.
+
+Stawiając	 na	 rozwój	 innowacyjnej	 energety-• ki,	 rozwój	 elektrowni	 gazowych	 i	 jądrowych, zadbamy jednocześnie o stan środowiska naturalnego i	 wypełnienie	 przyjętych	 przez Unię	Europejską	zobowiązań	klimatycznych.
+
+Będziemy zabiegać o analogiczne finansowa-•nie odnawialnych źródeł energii w perspekty-wie finansowej UE na lata 2014–2020.	Chcemy wspierać	energetykę	rozproszoną:	małe	źródła wiatrowe,	fotowoltaikę,	pompy	ciepła,	urządze-nia	magazynujące	energię,	w	tym	także	samo-chody	elektryczne.
+
+Będziemy	kontynuować	badania	nad	możliwo-• ścią	podziemnego	zgazowania	węgla	oraz	tzw. wychwytu	i	magazynowania	CO2.
+
+W	ramach	reformy	polskiej	armii	wprowadzili-• śmy	nowe	rozwiązania	dotyczące	zakwaterowa-nia	żołnierzy.	Każdy żołnierz ma wybór: albozamieszka w garnizonie, albo w wynajętymmieszkaniu. Jeśli	wybiera	drugą	opcję,	otrzymu-je	świadczenie	mieszkaniowe.	Rząd	wprowadził także	nowe	rozwiązania	dotyczące	pomocy	dla żołnierzy	zawodowych	rannych	w	czasie	służby (którzy	 przeszli	 do	 cywila	 ze	 względu	 na	 stan zdrowia),	m.in.	w	postaci	zapomóg.
+
+Wydłużyliśmy możliwy okres szkolenia• żołnie-rza	zawodowego	z	1,5	roku	do	3	lat.
+
+
+
+
+
 
 
