@@ -268,7 +268,54 @@ Uprościmy prawo upadłościowe• tak,	aby	postę-powania	skróciły	się	do	po
 
 Poszerzymy grupę osób, które mogą przystą-•pić do egzaminu zawodowego bez odbywaniaaplikacji	 (zwłaszcza	 poprzez	 skrócenie	 wyma-ganych	okresów).
 
-Rozszerzymy program „Praktycznej nauki pra-•wa”	m.in.	tworząc	Szkolne	Koła	Prawne,	których celem	 będzie	 przede	 wszystkim	 poszerzanie świadomości	 prawnej	 dzieci	 i	 młodzieży,
+Rozszerzymy program „Praktycznej nauki pra-•wa”	m.in.	tworząc	Szkolne	Koła	Prawne,	których celem	 będzie	 przede	 wszystkim	 poszerzanie świadomości	 prawnej	 dzieci	 i	 młodzieży, zapoznanie	 ich	 z	 zasadami	 porządku	 praw-nego	 oraz	 przekazanie	 im	 praktycznej	 wiedzy prawniczej.
+
+Wprowadzimy	przepisy,	zgodnie	z	którymi	nie-• którzy	 przebywający w zakładach karnych(osadzeni	 za	 nieuiszczenie	 kary	 finansowej) będą nieodpłatnie odpracowywali swoją karępracą,	będą	to	np.	prace	związane	z	zabezpie-czeniem	przed	powodzią	czy	sprzątanie	lasów.
+
+Radykalnie	 ograniczymy	 dostęp	 służb	 specjal-• nych	i	policyjnych	do	billingów	obywateli	oraz zwiększymy	 kontrolę	 nad	 wykorzystywaniem podsłuchów. 
+
+Dobre prawo•– projekty	ustaw	będą	procedo-wane	 wyłącznie	 po	 przejściu	 rygorystycznego badania	ich	przydatności	dla	obywateli	i	przed-siębiorców,	co	ukróci	gonitwę	legislacyjną	w	ad-ministracji	rządowej.
+
+Dyrektywy	 unijne	 będą	 mogły	 być	 przeno-• szone	do	polskiego	prawa	wyłącznie	w	wersji minimum,	zgodnie	z	zasadą	„UE i ani prze-cinka więcej”.
+
+Projekty	ustaw	będą	musiały	–	obowiązkowo • –	uwzględniać	przegląd	najlepszych	praktyk krajów	najbardziej	zaawansowanych.	Każdaustawa będzie zawierała zapis o obowiąz-ku przeglądu jej efektów przez	parlament po	maksymalnie	trzech	latach	obowiązywa-nia,	tak	aby	można	było	porównać	założenia ze	skutkami. 
+
+Powołamy	biuro	interwencyjne	(• pogotowieantybiurokratyczne)	 pod	 kierownictwem pełnomocnika	 Prezesa	 Rady	 Ministrów, które	 będzie	 zbierało	 skargi	 obywateli	 na absurdy	 biurokratyczne	 i	 na	 bieżąco	 inter-weniowało	 w	 urzędach	 i	 instytucjach,	 wy-muszając	 uproszczenie	 i	 przyspieszenie załatwiania	spraw. 
+Deregulacja•– w	sposób	kompleksowy	będzie-my	upraszczać	i	likwidować	krępujące	i	zbędne przepisy	tak,	aby	poszerzać	wolność	gospodar-czą	i	obywatelską.	Skoncentrujemy	się	na	tych obszarach,	które	mają	największy	wpływ	na	go-spodarkę	i	życie	ludzi,	np.: 
+
+Skrócimy termin uzyskania pozwolenia na•budowę	do	100	dni	(z	około	300)	i	zmniejszy-my	liczbę	procedur	z	30	do	15.
+
+Uwolnimy połowę regulowanych zawodów•i stworzymy jednolite zasady działania samorządów zawodowych,	 włącznie	 ze swobodą	 stowarzyszania	 się	 i	 tworzenia stowarzyszeń. 
+
+Zmniejszymy liczbę procedur wymaganych•przy rejestracji firmy	 poprzez	 integrację systemów	 informatycznych	 administracji publicznej.
+
+Przystąpimy do gruntownego przeglądu•instytucji kontrolnych w państwie,	 aby zredukować	 ich	 liczbę	 wyłącznie	 do	 tych niezbędnych.
+
+Zlikwidujemy odrębną procedurę gospo-•darczą w postępowaniu sądowym.	 Spory między	przedsiębiorcami	będą	rozpatrywa-ne	w	takim	samym	trybie,	jak	spory	między innymi	obywatelami,	co	znacznie	przyspieszy ich	rozstrzyganie.	Pomimo	likwidacji	postę-powania	w	sprawach	gospodarczych	zamie-rzamy	zachować	tzw.	sądy	gospodarcze	jako wyspecjalizowane	w	obszarze	rozstrzygania spraw	wydziały	sądów	powszechnych.
+
+E-administracja•– połączymy	 urzędy	 w	 infor-matyczną	 sieć,	 aby	 zaoszczędzić	 obywatelom i	 przedsiębiorcom	 wizyt	 w	 urzędach	 i	 upro-ścić	 ich	 kontakty	 z	 administracją.	 Na	 przykład umożliwimy	odbiór	paszportów	i	innych	doku-mentów	osobistych	w	dowolnym	urzędzie	Pol-ski	lub	za	poręczeniem	pocztowym.
+
+Wprowadzimy system, który umożliwi•podróżowanie samochodem bez doku-mentów.	 Policjant	 zatrzymując	 do	 kontroli kierowcę,	będzie	w	radiowozie	dysponował mobilnym	 urządzeniem,	 które	 łącząc	 się z	 centralnymi	 serwerami	 będzie	 w	 sta-nie	 przekazać,	 na	 podstawie	 wybranej	 in-formacji	 (np.	 PESEL),	 dane	 o	 kierowcy	 lub samochodzie.
+
+Od	2013	roku • wprowadzimy elektronicznydowód osobisty	 (pl.ID).	 Dzięki	 bezpłatne-mu	 podpisowi	 elektronicznemu	 zapisane-mu	w	dowodzie	kontakt	z	urzędami	będzie o	wiele	prostszy.
+
+Stworzymy	system,	dzięki	któremu• paszportbędzie można odebrać w dowolnym miej-scu w kraju lub otrzymać go bezpośrednio,pocztą do domu.
+
+Konsultacje społeczne• –	zgodnie	z	naszą	filo-zofią	 wyzwalania	 kreatywności	 i	 współpracy zaprosimy	 wszystkich	 do	 interaktywnego	 opi-niowania	projektów	i	pomysłów	rządu	od	naj-wcześniejszego	 etapu.	 Wykorzystamy	 Internet i	portale	społecznościowe	do	aktywnej	modera-cji	dyskusji	nad	projektami	rządowymi	i	poselski-mi.	Wprowadzimy	obowiązek	analizy	propozycji płynących	od	obywateli	przez	rządowe	centrum analityczne. 
+
+Oprócz działań deregulacyjnych opracujemy•reformę centrum administracyjnego państwa, by	zwiększyć	efektywność	władzy	wykonawczej przez	jej	konsolidację	i	większe	ukierunkowanie na	myślenie	strategiczne.	Chcemy,	aby	rządowa administracja	centralna	w	większym	stopniu	wy-korzystywała	wiedzę,	aktywność	społeczną	oraz posiadane	zasoby	materialne.	Zaproponowane zmiany	powinny	także	przyczynić	się	do	rozwo-ju	nowych	technologii	w	administracji	ułatwiają-cych	kontakt	na	linii	urząd-obywatel.
+
+W	2014	roku • obniżymy zasadniczą stawkę VATdo	poprzedniego	poziomu. 
+
+W	ślad	za	likwidacją	NIP • zniesiemy deklaracjęPIT,	zdejmując	tym	samym	z	Polaków	uciążliwy obowiązek	składania	rocznych	zeznań	podatko-wych.	Już	niedługo	urząd	skarbowy	poinformuje każdego	z	nas,	ile	i	z	jakiego	tytułu	zapłaciliśmy w	ciągu	roku	podatku,	z	jakich	ulg	możemy	sko-rzystać,	a	także	ile	zamierza	nam	zwrócić	nad-płaconego	podatku	lub	ile	powinniśmy	na	jego konto	dopłacić.	Możliwy	będzie	także	podgląd swojego	konta	online	i	analiza	prognozy	w	po-łowie	roku.
+
+W	 dalszym	 ciągu	 będziemy	 konsekwent-• nie	 upraszczać	 przepisy	 dotyczące	 płacenia podatków.
+
+Stworzymy	 oficjalny	 portal	 internetowy	 Mini-• sterstwa	Finansów	prezentujący	pełne	i	aktual-ne	informacje	dotyczące	interpretacji	przepisów podatkowych.
+
+Utrzymamy pozycję Polski jako lidera w unijnej•polityce spójności. Zaplanujemy	wykorzystanie kolejnej	 perspektywy	 finansowej,	 starając	 się wygospodarować	 środki	 także	 na	 inteligentny rozwój,	innowacje	i	projekty	wspomagające	sek-tor	prywatny	w	budowaniu	gospodarki	opartej na	wiedzy.
+
+Uporządkujemy i ograniczymy liczbę progra-•mów rozwoju,	w	tym	programów	wieloletnich. Proces	ten	będzie	polegał	na	przyporządkowa-niu	 obecnie	 realizowanych	 programów	 oraz innych	dokumentów	strategicznych	do	dziewię-ciu	 obowiązujących,	 zintegrowanych	 strategii rozwoju.	Dzięki	temu	zwiększymy	efektywność wydatkowania	 środków	 poprzez	 koncentrację publicznych	środków	finansowych	na	realizacji ograniczonej	liczby	priorytetów.
 
 
 
