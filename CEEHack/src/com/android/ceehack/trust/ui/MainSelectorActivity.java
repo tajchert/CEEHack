@@ -17,6 +17,7 @@ import android.widget.ArrayAdapter;
 import android.widget.LinearLayout;
 import android.widget.ListView;
 
+import com.android.ceehack.trust.ActivityDetail;
 import com.android.ceehack.trust.ActivityParty;
 import com.android.ceehack.trust.R;
 
@@ -51,12 +52,14 @@ public class MainSelectorActivity extends Activity {
 				String value = (String) adapter.getItemAtPosition(position);
 				switch (position) {
 				case 0:
-					Intent myIntent = new Intent(MainSelectorActivity.this, ActivityParty.class);
+					Intent myIntentDetail = new Intent(MainSelectorActivity.this, ActivityDetail.class);
 					//myIntent.putExtra("key", value); //Optional parameters
-					MainSelectorActivity.this.startActivity(myIntent);
+					MainSelectorActivity.this.startActivity(myIntentDetail);
 					break;
 				case 1:
-
+					Intent myIntentParty = new Intent(MainSelectorActivity.this, ActivityParty.class);
+					//myIntent.putExtra("key", value); //Optional parameters
+					MainSelectorActivity.this.startActivity(myIntentParty);
 					break;
 				case 2:
 					break;

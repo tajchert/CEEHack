@@ -41,7 +41,7 @@ public class CardsGraphFragment extends Fragment {
 				.rgb(7, 152, 227)));
 
 		LinearLayout ly = (LinearLayout) getActivity().findViewById(R.id.mainLay);
-		ly.setBackgroundColor(Color.BLACK);
+		ly.setBackgroundColor(Color.parseColor("#232323"));
         
 		initCards();
 	}
@@ -52,6 +52,7 @@ public class CardsGraphFragment extends Fragment {
 		ArrayList<Card> cardsChart = new ArrayList<Card>();
 		Card card = init_chart_card();
 		cardsChart.add(card);
+		
 		for (int i = 0; i < 5; i++) {
 			card = init_info_card();
 			cardsChart.add(card);

@@ -9,5 +9,10 @@
     <string name="party_obietnice">Obietnice wyborcze</string>
     <string name="title_activity_main_activity_test">MainActivityTest</string>
     <string name="title_activity_main_selector">MainSelectorActivity</string>
+    <string name="isFulfilled">Wypełniono obietnicę?</string>
+    <string name="addproof">Dodaj dowód</string>
+    <string name="proof">Dowód</string>
+    <string name="title_activity_activity_detail">ActivityDetail</string>
+    <string name="hello_world">Hello world!</string>
 
 </resources>
