@@ -3,7 +3,9 @@
 1. Wynegocjujemy ponad 300 mld złotych w budżecie UE na lata 2014–2020 na nasz program inteligentnego rozwoju, który wesprzemy kolejnymi 100 mld złotych środków własnych.
 
   > http://mojepanstwo.pl/dane/sejm_glosowania.json?q=program+inteligentnego+rozwoju
+  > 
   > JSON.parse(res).objects.map(function(el){return el.Dataobject.data.id;})
+  >
   > ["1974", "1329", "4352", "1128", "740", "3562", "902", "2388", "2021", "1129", "653", "412", "2857", "4191", "4190", "2358", "2022", "2020", "520", "3172"]
   
 2. Płace sfery budżetowej, zamrożone ze względu na kryzys, zaczną ponownie rosnąć. Podobnie jak konsekwentnie zwiększyliśmy płace nauczycieli, będziemy sukcesywnie podnosić wynagrodzenia innych ważnych społecznie grup zawodowych, zaczynając od nauczycieli akademickich i policjantów.
