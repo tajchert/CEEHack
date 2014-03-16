@@ -122,9 +122,9 @@
   {
     "brief":    "Ograniczenie dostępu służb do bilingów",
     "full":     "Radykalnie ograniczymy dostęp służb specjalnych i policyjnych do bilingów obywateli oraz zwiększymy kontrolę nad wykorzystywaniem podsłuchów.",
-    "status":   "unknown",
+    "status":   "broken",
     "due_date": "18.11.2015",
-    "justification":     "",
+    "justification":     "Zagadnienia związane z dostępem policji do danych telekomunikacyjnych (w tym do wykazów połączeń, tzw. bilingów) reguluje art. 20c ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. Z 2011 r. Nr 287, poz. 1687, z późn. zm.). Przepis ten nie był zmieniany od opublikowania programu PO, czyli od września 2011 r.\nIstotne zmiany w zakresie nadzoru prokuratorskiego oraz sądowego nad kontrolą operacyjną, prowadzoną przez uprawnione służby, zostały wprowadzone ustawą z dnia 4 lutego 2011 r. o zmianie ustawy – Kodeks postępowania karnego oraz niektórych innych ustaw (Dz. U. Nr 53, poz. 273). To było jednak przez ogłoszeniem programu wyborczego PO z roku 2011.",
     "justification_url": ""
   },
   {
@@ -136,35 +136,27 @@
     "justification_url": ""
   },
   {
-    "brief":    "Relacja długu do PKB: 48%",
-    "full":     "Będziemy dążyć do zrównoważonego budżetu przed końcem kadencji. Obniżymy relacje długu do PKB do 48% w 2015 roku i do 40% w 2018 roku, dzięki czemu będziemy mieli niższe stopy procentowe i szybszy wzrost gospodarczy.",
-    "status":   "unknown",
+    "brief":    "Relacja długu do PKB: 47%",
+    "full":     "Zakładamy i temu podporządkujemy także nasze prace, że dług publiczny spadnie w 2012 r. do 52 procent i będzie się systematycznie obniżać do 47 procent na koniec 2015 r. Według definicji krajowej długu.",
+    "status":   "broken",
     "due_date": "31.12.2015",
-    "justification":     "",
-    "justification_url": ""
-  },
-  {
-    "brief":    "Relacja długu do PKB: 40%",
-    "full":     "Będziemy dążyć do zrównoważonego budżetu przed końcem kadencji. Obniżymy relacje długu do PKB do 48% w 2015 roku i do 40% w 2018 roku, dzięki czemu będziemy mieli niższe stopy procentowe i szybszy wzrost gospodarczy.",
-    "status":   "unknown",
-    "due_date": "31.12.2018",
-    "justification":     "",
+    "justification":     "Deficyt finansów publicznych w 2012 r. wyniósł 3,9 proc. PKB. Co prawda rządowi udało się utrzymać w limicie deficytu budżetowego (deficyt wyniósł 30,4 mld zł), ale głównie dzięki rekordowo wysokiej wpłacie z zysku Narodowego Banku Polskiego (ponad 8 mld zł). Według unijnego prawa taka wpłata to transfer w ramach podsektora instytucji centralnych, nie jest dochodem i deficytu nie pomniejsza. Skutek? Procedura nadmiernego deficytu nie tylko nie została zdjęta w zapowiadanym przez premiera terminie, ale Komisja Europejska wydłużyła o kolejne dwa lata termin, do którego Polska ma czas na zejście z deficytem do wymaganych 3 proc. PKB.",
     "justification_url": ""
   },
   {
     "brief":    "Równa płaca za równą pracę",
     "full":     "Wzorem krajów najbardziej rozwiniętych wprowadzimy przepisy gwarantujące kobietom „równą płacę za równą pracę”, eliminując dyskryminację kobiet w miejscu pracy.",
-    "status":   "unknown",
+    "status":   "broken",
     "due_date": "18.11.2015",
-    "justification":     "",
+    "justification":     "Pełnomocnik ds. równego  traktowania, gdy obejmowała swoją funkcję zapowiadała, że będzie chciała działać na rzecz wprowadzenia parytetów w zakresie obecności kobiet we władzach spółek i wynagrodzeń. Na początek w instytucjach państwowych i spółkach z udziałem państwa miały być wprowadzone instrumenty poprawiające pozycję kobiet. Na zapowiedziach się skończyło. Były tez plany wymuszenia na pracodawcach sporządzania raportów zawierających informację o różnicach w zarobkach między mężczyznami i kobietami. W tym wypadku także skończyło się na zapowiedziach. ",
     "justification_url": ""
   },
   {
     "brief":    "Stypendia naukowe dla najlepszych maturzystów",
     "full":     "Najlepsi maturzyści już od pierwszego roku studiów będą otrzymywać stypendia naukowe.",
-    "status":   "unknown",
+    "status":   "broken",
     "due_date": "18.11.2015",
-    "justification":     "",
+    "justification":     "Wprowadzenie stypendiów naukowych dla studentów pierwszego roku było wskazywane od dawna jako jedna z bolączek systemu wsparcia studentów. Ponieważ przyznawane ono jest za wyniki w nauce – a tych wyników w postaci stopni za zaliczone przedmioty uniwersyteckie pierwszoroczny student jeszcze nie ma – zdolni, młodzi ludzie, mogli otrzymać wsparcie tylko pod postacią stypendium socjalnego.\nTaka możliwość pojawia się w przygotowanej przez resort nowelizacji prawa o szkolnictwie wyższym. O stypendium rektora, wprowadzone na miejsce zlikwidowanych stypendiów za wyniki w nauce i w sporcie, będą mogli ubiegać się już świeżo upieczeni studenci. Resort proponuje, aby podstawą do tego były wyniki matury, jednak ostateczny kształt tego rozwiązania może jeszcze ulec zmianie. Parlament Studentów ze swojej strony proponował, aby brać również pod uwagę udział w olimpiadach przedmiotowych – rozwiązanie, które miałoby pomóc oddzielić bardzo dobrych maturzystów od uczniów naprawdę wybitnych.\nNiestety, pomimo obietnic zmian nie udało się wprowadzić w roku akademickim 2012/2013. Jeśli dobrze pójdzie, najwcześniejszym terminem będzie rok 2014/2015, a więc dwa lata później.",
     "justification_url": ""
   },
   {
@@ -172,7 +164,7 @@
     "full":     "Przeznaczymy miliard złotych ze środków unijnych na Fundusz Przedsiębiorczości na Wsi.",
     "status":   "unknown",
     "due_date": "18.11.2015",
-    "justification":     "",
+    "justification":     "Ani w Ministerstwie Rolnictwa, ani w Ministerstwie Finansów nie słyszano o takim projekcie. Oczywiście są unijne Programy Rozwoju Obszarów Wiejskich, ale one funkcjonowały jeszcze przed złożeniem tej obietnicy.",
     "justification_url": ""
   }
 ]

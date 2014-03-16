@@ -55,36 +55,59 @@ Uzasadnienie: Choć zarówno sam pomysł jak i jego realizacja wywołują spore 
 Status: Złamana
 Uzasadnienie: Decentralizacja NFZ miała być faktem 1 stycznia 2013 roku. Centrala funduszu miała przestać istnieć, a osobowość prawną miały uzyskać jego oddziały wojewódzkie. W 2014 roku na rynku usług zdrowotnych mieli pojawić się inni płatnicy niż NFZ. Składka zdrowotna trafiałaby nie tylko do publicznego funduszu, ale także do prywatnych ubezpieczycieli. Ministerstwo Zdrowia przygotowało projekt założeń przewidujących decentralizację NFZ, ale bardzo szybko schowało go do szuflady. Projekt został skrytykowany przez partnerów społecznych podczas jego wstępnych konsultacji. Likwidacja centrali funduszu nie budziła emocji, za to za bardzo kontrowersyjne zostało uznane inne rozwiązanie, które znalazło się w założeniach do tej samej ustawy. Chodziło o pomysł stworzenia map potrzeb zdrowotnych przez wojewodów. Placówki medyczne, które nie zostałyby w nich uwzględnione, straciłyby kontrakt. Zarówno pracodawcy, jak samorządy krytykowały ministra zdrowia za to, że pozbawił stronę społeczną wpływu na tak ważne decyzje dotyczące przyszłości szpitali. Resort zdrowia zapewnia, ze z reformy się nie wycofał. Urzędnicy ministerialni cały czas poprawiają projekt. Ma być gotowy na początku przyszłego roku. Oznacza to, że reforma NFZ wejdzie w życie najwcześniej za rok.
 14. Wprowadzimy do kodeksu pracy odnawialne umowy sezonowe dla pracowników, co zwiększy stabilność zatrudnienia wśród młodych.
+
 Status: Zrealizowana
+
 Uzasadnienie: 
+
 15. Zlikwidujemy obowiązek noszenia przez kierowcę przy sobie dowodu rejestracyjnego swojego pojazdu i prawa jazdy, które policja i inne służby będą mogły skontrolować, łącząc się elektronicznie z odpowiednim urzędem.
-Status: Złamana
-Uzasadnienie: Niestety to wygodne dla kierowców rozwiązanie w dalszym ciągu jest pieśnią przyszłości. Na razie kierowanie pojazdem bez wymaganych dokumentów na drodze publicznej, w strefie zamieszkania lub strefie ruchu, stanowi wykroczenie opisane w art. 95 kodeksu wykroczeń. Kara grzywny może wynosić maksymalnie 250 zł.
-Już kilka lat temu odpowiedzialny za informatyzację wiceminister Piotr Kołodziejczyk obiecywał, że Polacy w ogóle nie będą musieli wozić ze sobą prawa jazdy. Według jego zapewnień – składanych np. czytelnikom DGP w maju ub.r. – to wygodne rozwiązanie miało obowiązywać już w czerwcu 2012 r.
-Tak się jednak nie stało ani wtedy, ani teraz. Najprawdopodobniej wdrożenie tego udogodnienia hamują problemy występujące w Centralnej Ewidencji Pojazdów i Kierowców (CEPiK). A to tam można byłoby zweryfikować, czy kontrolowany kierowca bez prawa jazdy przy sobie, posiada uprawnienia. W zeszłym roku Ministerstwo Spraw Wewnętrznych przyznało, że system ten – mimo iż w od lat rozbudowywany – jest już przestarzały i awaryjny. Podjęto więc decyzję o jego kompletnej przebudowie.
-W dodatku pojawiły się opinie, że takie rozwiązanie byłoby niezgodne z Konwencją Wiedeńską o ruchu drogowym. – Zgodnie z nią kierowca musi mieć przy sobie dokumenty – twierdzi jeden z rozmówców DGP orientujący się w temacie.
+
+  > Status: Złamana
+  > 
+  > Uzasadnienie: Niestety to wygodne dla kierowców rozwiązanie w dalszym ciągu jest pieśnią przyszłości. Na razie kierowanie pojazdem bez wymaganych dokumentów na drodze publicznej, w strefie zamieszkania lub strefie ruchu, stanowi wykroczenie opisane w art. 95 kodeksu wykroczeń. Kara grzywny może wynosić maksymalnie 250 zł.
+  > Już kilka lat temu odpowiedzialny za informatyzację wiceminister Piotr Kołodziejczyk obiecywał, że Polacy w ogóle nie będą musieli wozić ze sobą prawa jazdy. Według jego zapewnień – składanych np. czytelnikom DGP w maju ub.r. – to wygodne rozwiązanie miało obowiązywać już w czerwcu 2012 r.
+  > Tak się jednak nie stało ani wtedy, ani teraz. Najprawdopodobniej wdrożenie tego udogodnienia hamują problemy występujące w Centralnej Ewidencji Pojazdów i Kierowców (CEPiK). A to tam można byłoby zweryfikować, czy kontrolowany kierowca bez prawa jazdy przy sobie, posiada uprawnienia. W zeszłym roku Ministerstwo Spraw Wewnętrznych przyznało, że system ten – mimo iż w od lat rozbudowywany – jest już przestarzały i awaryjny. Podjęto więc decyzję o jego kompletnej przebudowie.
+  > W dodatku pojawiły się opinie, że takie rozwiązanie byłoby niezgodne z Konwencją Wiedeńską o ruchu drogowym. – Zgodnie z nią kierowca musi mieć przy sobie dokumenty – twierdzi jeden z rozmówców DGP orientujący się w temacie.
+
 16. Radykalnie ograniczymy dostęp służb specjalnych i policyjnych do bilingów obywateli oraz zwiększymy kontrolę nad wykorzystywaniem podsłuchów.
-Status: Złamana
-Uzasadnienie: Radykalnie ograniczymy dostęp służb specjalnych i policyjnych do bilingów obywateli oraz zwiększymy kontrolę nad wykorzystywaniem podsłuchów. Wysłane do MSW 03/10
-Zagadnienia związane z dostępem policji do danych telekomunikacyjnych (w tym do wykazów połączeń, tzw. bilingów) reguluje art. 20c ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. Z 2011 r. Nr 287, poz. 1687, z późn. zm.). Przepis ten nie był zmieniany od opublikowania programu PO, czyli od września 2011 r.
-Istotne zmiany w zakresie nadzoru prokuratorskiego oraz sądowego nad kontrolą operacyjną, prowadzoną przez uprawnione służby, zostały wprowadzone ustawą z dnia 4 lutego 2011 r. o zmianie ustawy – Kodeks postępowania karnego oraz niektórych innych ustaw (Dz. U. Nr 53, poz. 273). To było jednak przez ogłoszeniem programu wyborczego PO z roku 2011.
+
+  > Status: Złamana
+  > 
+  > Uzasadnienie: Zagadnienia związane z dostępem policji do danych telekomunikacyjnych (w tym do wykazów połączeń, tzw. bilingów) reguluje art. 20c ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. Z 2011 r. Nr 287, poz. 1687, z późn. zm.). Przepis ten nie był zmieniany od opublikowania programu PO, czyli od września 2011 r.
+  > Istotne zmiany w zakresie nadzoru prokuratorskiego oraz sądowego nad kontrolą operacyjną, prowadzoną przez uprawnione służby, zostały wprowadzone ustawą z dnia 4 lutego 2011 r. o zmianie ustawy – Kodeks postępowania karnego oraz niektórych innych ustaw (Dz. U. Nr 53, poz. 273). To było jednak przez ogłoszeniem programu wyborczego PO z roku 2011.
+
 17. Skrócimy termin wydawania pozwoleń na budowę z około 300 do 100 dni, a liczbę procedur z ponad 30 do 15. Skrócimy termin oczekiwania przez obywatela na rozstrzygnięcie jego sprawy w sądzie o 1/3.
-Status: Nieznany
-Uzasadnienie: 
+
+  > Status: Nieznany
+  > 
+  > Uzasadnienie: 
+
 18. Zakładamy i temu podporządkujemy także nasze prace, że dług publiczny spadnie w 2012 r. do 52 procent i będzie się systematycznie obniżać do 47 procent na koniec 2015 r. Według definicji krajowej długu.
-Status: Niezrealizowana
-Uzasadnienie: Deficyt finansów publicznych w 2012 r. wyniósł 3,9 proc. PKB. Co prawda rządowi udało się utrzymać w limicie deficytu budżetowego (deficyt wyniósł 30,4 mld zł), ale głównie dzięki rekordowo wysokiej wpłacie z zysku Narodowego Banku Polskiego (ponad 8 mld zł). Według unijnego prawa taka wpłata to transfer w ramach podsektora instytucji centralnych, nie jest dochodem i deficytu nie pomniejsza. Skutek? Procedura nadmiernego deficytu nie tylko nie została zdjęta w zapowiadanym przez premiera terminie, ale Komisja Europejska wydłużyła o kolejne dwa lata termin, do którego Polska ma czas na zejście z deficytem do wymaganych 3 proc. PKB.
+
+  > Status: Niezrealizowana
+  > 
+  > Uzasadnienie: Deficyt finansów publicznych w 2012 r. wyniósł 3,9 proc. PKB. Co prawda rządowi udało się utrzymać w limicie deficytu budżetowego (deficyt wyniósł 30,4 mld zł), ale głównie dzięki rekordowo wysokiej wpłacie z zysku Narodowego Banku Polskiego (ponad 8 mld zł). Według unijnego prawa taka wpłata to transfer w ramach podsektora instytucji centralnych, nie jest dochodem i deficytu nie pomniejsza. Skutek? Procedura nadmiernego deficytu nie tylko nie została zdjęta w zapowiadanym przez premiera terminie, ale Komisja Europejska wydłużyła o kolejne dwa lata termin, do którego Polska ma czas na zejście z deficytem do wymaganych 3 proc. PKB.
+
 19. Wzorem krajów najbardziej rozwiniętych wprowadzimy przepisy gwarantujące kobietom „równą płacę za równą pracę”, eliminując dyskryminację kobiet w miejscu pracy.
-Status: Złamana
-Uzasadnienie: Pełnomocnik ds. równego  traktowania, gdy obejmowała swoją funkcję zapowiadała, że będzie chciała działać na rzecz wprowadzenia parytetów w zakresie obecności kobiet we władzach spółek i wynagrodzeń. Na początek w instytucjach państwowych i spółkach z udziałem państwa miały być wprowadzone instrumenty poprawiające pozycję kobiet. Na zapowiedziach się skończyło. Były tez plany wymuszenia na pracodawcach sporządzania raportów zawierających informację o różnicach w zarobkach między mężczyznami i kobietami. W tym wypadku także skończyło się na zapowiedziach. 
+
+  > Status: Złamana
+  >
+  > Uzasadnienie: Pełnomocnik ds. równego  traktowania, gdy obejmowała swoją funkcję zapowiadała, że będzie chciała działać na rzecz wprowadzenia parytetów w zakresie obecności kobiet we władzach spółek i wynagrodzeń. Na początek w instytucjach państwowych i spółkach z udziałem państwa miały być wprowadzone instrumenty poprawiające pozycję kobiet. Na zapowiedziach się skończyło. Były tez plany wymuszenia na pracodawcach sporządzania raportów zawierających informację o różnicach w zarobkach między mężczyznami i kobietami. W tym wypadku także skończyło się na zapowiedziach. 
+
 20. Najlepsi maturzyści już od pierwszego roku studiów będą otrzymywać stypendia naukowe. 
-Status: Złamana
-Uzasadnienie: Wprowadzenie stypendiów naukowych dla studentów pierwszego roku było wskazywane od dawna jako jedna z bolączek systemu wsparcia studentów. Ponieważ przyznawane ono jest za wyniki w nauce – a tych wyników w postaci stopni za zaliczone przedmioty uniwersyteckie pierwszoroczny student jeszcze nie ma – zdolni, młodzi ludzie, mogli otrzymać wsparcie tylko pod postacią stypendium socjalnego. 
-Taka możliwość pojawia się w przygotowanej przez resort nowelizacji prawa o szkolnictwie wyższym. O stypendium rektora, wprowadzone na miejsce zlikwidowanych stypendiów za wyniki w nauce i w sporcie, będą mogli ubiegać się już świeżo upieczeni studenci. Resort proponuje, aby podstawą do tego były wyniki matury, jednak ostateczny kształt tego rozwiązania może jeszcze ulec zmianie. Parlament Studentów ze swojej strony proponował, aby brać również pod uwagę udział w olimpiadach przedmiotowych – rozwiązanie, które miałoby pomóc oddzielić bardzo dobrych maturzystów od uczniów naprawdę wybitnych. 
-Niestety, pomimo obietnic zmian nie udało się wprowadzić w roku akademickim 2012/2013. Jeśli dobrze pójdzie, najwcześniejszym terminem będzie rok 2014/2015, a więc dwa lata później.
+
+  > Status: Złamana
+  >
+  > Uzasadnienie: Wprowadzenie stypendiów naukowych dla studentów pierwszego roku było wskazywane od dawna jako jedna z bolączek systemu wsparcia studentów. Ponieważ przyznawane ono jest za wyniki w nauce – a tych wyników w postaci stopni za zaliczone przedmioty uniwersyteckie pierwszoroczny student jeszcze nie ma – zdolni, młodzi ludzie, mogli otrzymać wsparcie tylko pod postacią stypendium socjalnego. 
+  > Taka możliwość pojawia się w przygotowanej przez resort nowelizacji prawa o szkolnictwie wyższym. O stypendium rektora, wprowadzone na miejsce zlikwidowanych stypendiów za wyniki w nauce i w sporcie, będą mogli ubiegać się już świeżo upieczeni studenci. Resort proponuje, aby podstawą do tego były wyniki matury, jednak ostateczny kształt tego rozwiązania może jeszcze ulec zmianie. Parlament Studentów ze swojej strony proponował, aby brać również pod uwagę udział w olimpiadach przedmiotowych – rozwiązanie, które miałoby pomóc oddzielić bardzo dobrych maturzystów od uczniów naprawdę wybitnych. 
+  > Niestety, pomimo obietnic zmian nie udało się wprowadzić w roku akademickim 2012/2013. Jeśli dobrze pójdzie, najwcześniejszym terminem będzie rok 2014/2015, a więc dwa lata później.
+
 21. Przeznaczymy miliard złotych ze środków unijnych na Fundusz Przedsiębiorczości na Wsi.
-Status: Nieznany
-Uzasadnienie: Ani w Ministerstwie Rolnictwa, ani w Ministerstwie Finansów nie słyszano o takim projekcie. Oczywiście są unijne Programy Rozwoju Obszarów Wiejskich, ale one funkcjonowały jeszcze przed złożeniem tej obietnicy.
+
+  > Status: Nieznany
+  >
+  > Uzasadnienie: Ani w Ministerstwie Rolnictwa, ani w Ministerstwie Finansów nie słyszano o takim projekcie. Oczywiście są unijne Programy Rozwoju Obszarów Wiejskich, ale one funkcjonowały jeszcze przed złożeniem tej obietnicy.
+  
 ---
 
 Zerwiemy ze sztywnym podziałem na opiekę•nad dziećmi w wieku 0–3 lat i następnie edu-kację przedszkolną.	 Te	 dwa	 etapy	 będą	 zin-tegrowane	 w	 spójny	 system	 opieki	 i	 edukacji oraz	 uzupełnione	 o	 ofertę	 pomocy	 dla	 rodzi-ców	w	procesie	wychowania	dzieci	czy	diagnozy ewentualnych	deficytów
