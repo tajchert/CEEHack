@@ -77,7 +77,7 @@
     "status":   "fulfilled",
     "due_date": "18.11.2015",
     "justification":     "Wprowadzona została tzw. ulga podatkowa na IKZE (Indywidualne Konto Zabezpieczenia Emerytalnego). Zakładając takie konto można odliczyć od rocznego dochodu podlegającego opodatkowaniu PIT kwoty wpłacone na to konto. Limit wpłat na IKZE uprawniający do ulgi zależy od wysokości kwoty stanowiącej podstawę wymiaru składki na ubezpieczenie emerytalne, ustalonej dla oszczędzającego za rok poprzedni (maksymalnie 4 proc. wynagrodzenia brutto). Maksymalna wpłata na IKZE wynosi w 2013 r. 4 231,20 zł. Przy wypłacie z konta podatnik musi zapłacić podatek dochodowy obliczany na zasadach ogólnych według skali podatkowej (obecnie 18 proc. lub 32 proc.). ",
-    "justification_url": ""
+    "justification_url": "http://isap.sejm.gov.pl/DetailsServlet?id=WDU20110750398"
   },
   {
     "brief":    "Szerokopasmowy Internet w każdej gminie",
@@ -85,7 +85,7 @@
     "status":   "fulfilled",
     "due_date": "18.11.2015",
     "justification":     "Na 57,5 tysiąca wszystkich miejscowości w Polsce w blisko 42 tysiącach wciąż mniej niż 30 procent mieszkańców ma dostęp do internetu szerokopasmowego.Według ostatniego podsumowania Agendy Cyfrowej tylko Rumunia ma gorsze wyniki zasięgu nowoczesnego internetu stacjonarnego. Jest wprawdzie szansa na osiągnięcie celów: dopiero w tym roku udało się województwom ogłosić i wybrać oferty w przetargach na budowę sieci. Ale oprócz sieci szkieletowych trzeba tez budować te tzw. ostatniej mili a z tymi mniejszymi inwestycjami jest gorzej. ",
-    "justification_url": ""
+    "justification_url": "https://ec.europa.eu/digital-agenda/en/scoreboard"
   },
   {
     "brief":    "E-podręczniki w szkołach",
@@ -93,7 +93,7 @@
     "status":   "fulfilled",
     "due_date": "31.12.2015",
     "justification":     "Choć zarówno sam pomysł jak i jego realizacja wywołują spore kontrowersje to jest realizowany.  Branża wydawnicza ostrzega, że bezpłatne e-podręczniki grożą jej sporymi stratami, a przetargi na ich wykonanie trzeba było powtarzać, niemniej jednak pomysłu nie zarzucono. Pierwsze efekty pracy przy tworzeniu e-podręczników mają być dostępne już pod koniec tego roku.",
-    "justification_url": ""
+    "justification_url": "http://www.youtube.com/watch?v=yIf5l-xwk8E"
   },
   {
     "brief":    "Konkurencja dla NFZ",
@@ -106,7 +106,7 @@
   {
     "brief":    "Odnawialne umowy sezonowe",
     "full":     "Wprowadzimy do kodeksu pracy odnawialne umowy sezonowe dla pracowników, co zwiększy stabilność zatrudnienia wśród młodych.",
-    "status":   "fulfilled",
+    "status":   "unknown",
     "due_date": "18.11.2015",
     "justification":     "",
     "justification_url": ""
