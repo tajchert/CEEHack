@@ -1,7 +1,12 @@
 ### [Platforma Obywatelska](http://platforma.org/), [Program wyborczy 2011](http://platforma.org/media/dokumenty/Program_PO_100dpi.pdf)
 
 1. Wynegocjujemy ponad 300 mld złotych w budżecie UE na lata 2014–2020 na nasz program inteligentnego rozwoju, który wesprzemy kolejnymi 100 mld złotych środków własnych.
-
+Status: Zrealizowane
+Uzasadnienie: W lutym tego roku polski rząd wynegocjował w Brukseli 72,9 mld euro w ramach funduszu spójności. Obietnica została więc dotrzymana i to z nawiązką – biorąc pod uwagę ówczesny kurs euro, nasz kraj otrzyma w okresie 2014-2020 aż 303,6 mld zł. Do tego dojdzie 28,5 mld euro (118,8 mld zł) w ramach wspólnej polityki rolnej. Sukces tym większy, że nowy budżet UE będzie znacznie bardziej okrojony niż ten z obecnej perspektywy finansowej na lata 2007-2013.
+Rządowi udało się także obronić także korzystne zasady wydawania unijnych pieniędzy, na których zależało przede wszystkim samorządom:
+- podatek VAT w projektach dofinansowanych z Funduszy Europejskich będzie kosztem kwalifikowalnym, co oznacza utrzymanie możliwości jego refundacji,
+- poziom dofinansowania unijnego wyniesie nawet 85 proc. dla regionów mniej rozwiniętych oraz 80 proc. dla Mazowsza.
+  
   > http://mojepanstwo.pl/dane/sejm_glosowania.json?q=program+inteligentnego+rozwoju
   > 
   > JSON.parse(res).objects.map(function(el){return el.Dataobject.data.id;})
@@ -9,45 +14,100 @@
   > ["1974", "1329", "4352", "1128", "740", "3562", "902", "2388", "2021", "1129", "653", "412", "2857", "4191", "4190", "2358", "2022", "2020", "520", "3172"]
   
 2. Płace sfery budżetowej, zamrożone ze względu na kryzys, zaczną ponownie rosnąć. Podobnie jak konsekwentnie zwiększyliśmy płace nauczycieli, będziemy sukcesywnie podnosić wynagrodzenia innych ważnych społecznie grup zawodowych, zaczynając od nauczycieli akademickich i policjantów.
-
+Status: Zrealizowana
+Uzasadnienie: Podwyżki uposażeń w kwocie 300 zł brutto od 1 lipca 2012 r. otrzymali funkcjonariusze policji i żołnierze, a od października 2012 r. funkcjonariusze Państwowej Straży Pożarnej, Biura Ochrony Rządu oraz Straży Granicznej.
 3. Do 2013 roku wprowadzimy rozwiązania gwarantujące Polsce wysokie przychody z wydobycia gazu łupkowego, które przeznaczymy na bezpieczeństwo przyszłych emerytur. 
-
+Status: Zrealizowana
+Uzasadnienie: Wciąż nie ma przepisów, które regulowałyby kwestię opodatkowania wydobycia gazu łupkowego oraz proces koncesyjny i poszukiwawczo-wydobywczy. Projekty ustawy węglowodorowej oraz Prawa górniczego i geologicznego znajdują na etapie legislacyjnym w rządzie. Resorty środowiska i skarbu na razie ścierają się o kształt przepisów i ostatecznie nie wiadomo ani kiedy, ani w jakim kształcie wejdzie nowe prawo. To właśnie obie ustawy miał wprowadzić rozwiązania, zapewniające wpływy z wydobycia, które zasilą tzw. Fundusz Pokoleń. Na razie projektu przepisów kilkukrotnie zmieniały treść. Z ostatnich zapisów projektów wynika, że Narodowy Operator Kopalin Energetycznych (państwowa spółka, która będzie udziałowcem każdej koncesji i będzie partycypować w zyskach z wydobycia) ma przekazywać do Funduszu 80 proc. zysków. 
 4. Na podobieństwo 1800 Orlików wybudujemy 1000 Świetlików – centrów kultury i bibliotek gminnych, które będą wspierać kreatywność i budować umiejętność pracy zespołowej.
-
+Status: Złamana
+Uzasadnienie: Obietnica nie została spełniona z powodu braku Funduszy. „Ze względu na trudną sytuację budżetu państwa wynikającą z międzynarodowych zobowiązań kraju (Polska objęta jest procedurą nadmiernego deficytu, co wymaga obniżenia w sposób trwały i wiarygodny deficytu sektora finansów publicznych) oraz zobowiązania budżetu państwa w 2010 i 2011 roku (walka ze skutkami powodzi w 2010 roku), nie było możliwe zaplanowanie środków na program wieloletni i utrzymanie obiektów. Cele, które zostały w nim ujęte, przede wszystkim: przeciwdziałanie marginalizacji społecznej dzieci i młodzieży oraz wyrównywanie ich szans edukacyjnych są realizowane poprzez Program Rozwoju Obszarów Wiejskich na lata 2007-2013 i zostały zaplanowane do realizacji w następcy programu Kapitał Ludzki na lata 2014-2020"
+http://sejm.gov.pl/Sejm7.nsf/InterpelacjaTresc.xsp?key=1BE55353
 5. W ciągu kadencji zwiększymy wydatki na Uniwersytety Trzeciego Wieku i grupowe zajęcia zdrowotne dla seniorów. 
-
+Status: Zrealizowana
+Uzasadnienie: Choć nie ma oddzielnego programu ministerialnego, który by zajmował się tylko Uniwersytetami Trzeciego Wieku, to część grantów z Rządowego Programu na rzecz Aktywności Społecznej Osób Starszych idzie właśnie na ten cel. W trakcie tej kadencji kwoty przeznaczane na ten program wzrosły i obecnie wynoszą 40 mln zł rocznie. UTW finansują także samorządy, tak więc przy odrobinie dobrej woli można uznać, że obietnica została spełniona.
 6. W Polsce rodzi się coraz mniej dzieci. Żeby temu zaradzić, radykalnie zwiększymy ulgę rodzinną na trzecie i kolejne dziecko. 
-
+Status: Zrealizowana
+Uzasadnienie: Ulga prorodzinna została zwiększona o 50 proc. na trzecie dziecko i o 100 proc. na czwarte i każde kolejne dziecko. Oznacza to podwyższenie w tych przypadkach rocznej kwoty odliczenia odpowiednio do 1668,06 zł i 2224,08 zł (ulga na dwoje pierwszych dzieci pozostaje na dotychczasowym poziomie i wynosi 1112,04 zł). Wyższą ulgę podatnicy zastosują po raz pierwszy w rozliczeniu PIT za 2013 rok, a więc w zeznaniach podatkowych składanych do 30 kwietnia 2014 r. Zmiany wprowadziła ustawa z 24 października 2012 r. o zmianie ustawy o podatku dochodowym od osób fizycznych (Dz.U. z 2012 r., poz. 1278).
+http://isap.sejm.gov.pl/DetailsServlet?id=WDU20120001278
 7. W ramach programu „Koperniki” w każdym województwie do 2020 roku stworzymy „Centra Nauki”, których zadaniem, podobnie jak to się ma w przypadku udanego projektu stołecznego, będzie inspirowanie młodzieży do nauki i innowacyjności.
-
+Status: Złamana
+Uzasadnienie: Jeszcze w marcu 2012 r. minister nauki i szkolnictwa wyższego Barbara Kudrycka zapowiadała, że regionalne Koperniki powstaną w nowej, unijnej perspektywie finansowej. W tej kwestii wiele się nie zmieniło; resort nauki wciąż czeka na ustalenia dotyczące sposobu podziału środków w ramach pieniędzy, jakie Polska otrzyma z Brukseli w latach 2014-2020. W związku z tym uznajemy, że prace nad obietnicą zostały wstrzymane – do czasu, kiedy wyjaśni się kwestia podziału unijnych środków.
 8. Zlikwidujemy formularze podatkowe PIT.
-
+Status: Złamana
+Uzasadnienie: Numerem NIP obecnie posługują się tylko przedsiębiorcy. Dla osób fizycznych nieprowadzących działalności gospodarczej i niebędących zarejestrowanymi podatnikami VAT identyfikatorem podatkowym jest PESEL. Zmiany wprowadziła ustawa z 29 lipca 2011 r. o zmianie ustawy o zasadach ewidencji i identyfikacji podatników o płatników oraz niektórych innych ustaw (Dz.U. nr 171, poz. 1016). Tę zmianę wprowadził sejm VI kadencji.
+Zeznania roczne PIT natomiast nie zostały zniesione. Ministerstwo Finansów w maju 2013 r. zapowiedziało, że szykuje zmianę podlegającą na tym, aby to pracownicy urzędów skarbowych rozliczali za podatników PIT-37. Wszystko odbywałoby się na platformie internetowej. Urząd skarbowy sporządzałby zeznanie na podstawie informacji o dochodach podatników, które otrzymywałby w formie elektronicznej od pracodawców i innych płatników potrącających zaliczki. Na razie konkretnych rozwiązań, a nawet założeń do projektu brak.
 9. Obniżymy zasadniczą stawkę VAT do 22% w 2014 roku, kiedy światowy kryzys gospodarczy powinien ustąpić fazie ożywienia.
-
+Status: Złamana
+Uzasadnienie: Rząd zapowiedział, że od 1 stycznia 2014 r. stawki VAT się nie zmienią. Dalej będą stosowane stawki 8 i 23 proc. Wiceminister finansów Maciej Grabowski tłumaczył, że pozostawienie po 2013 r. wyższych stawek VAT jest niezbędnym warunkiem stabilności makroekonomicznej i długofalowego wzrostu gospodarczego. 
+30 kwietnia 2013 r. rząd przyjął aktualizację Programu Konwergencji, z którego wynika, że w przyszłym roku stawki VAT będą wynosiły 23 i 8 proc. Automatyczny powrót do niższej, 22-proc. stawki podstawowej planowany jest dopiero od 2017 r.
 10. Zwiększymy ulgi podatkowe dla oszczędzających na emeryturę, by motywować skłonność do długookresowego oszczędzania.
-
+Status: Zrealizowane
+Uzasadnienie: Ulga prorodzinna została zwiększona o 50 proc. na trzecie dziecko i o 100 proc. na czwarte i każde kolejne dziecko. Oznacza to podwyższenie w tych przypadkach rocznej kwoty odliczenia odpowiednio do 1668,06 zł i 2224,08 zł (ulga na dwoje pierwszych dzieci pozostaje na dotychczasowym poziomie i wynosi 1112,04 zł). Wyższą ulgę podatnicy zastosują po raz pierwszy w rozliczeniu PIT za 2013 rok, a więc w zeznaniach podatkowych składanych do 30 kwietnia 2014 r. Zmiany wprowadziła ustawa z 24 października 2012 r. o zmianie ustawy o podatku dochodowym od osób fizycznych (Dz.U. z 2012 r., poz. 1278).
+http://isap.sejm.gov.pl/DetailsServlet?id=WDU20110750398
 11. Zapewnimy dostęp do szerokopasmowego Internetu w każdej gminie.
-
+Status: Zrealizowane
+Uzasadnienie: Na 57,5 tysiąca wszystkich miejscowości w Polsce w blisko 42 tysiącach wciąż mniej niż 30 procent mieszkańców ma dostęp do internetu szerokopasmowego.Według ostatniego podsumowania Agendy Cyfrowej tylko Rumunia ma gorsze wyniki zasięgu nowoczesnego internetu stacjonarnego. Jest wprawdzie szansa na osiągnięcie celów: dopiero w tym roku udało się województwom ogłosić i wybrać oferty w przetargach na budowę sieci. Ale oprócz sieci szkieletowych trzeba tez budować te tzw. ostatniej mili a z tymi mniejszymi inwestycjami jest gorzej. 
 12. Stopniowo do 2015 roku wprowadzimy do szkół e-podręcznik.
-
+Status: Zrealizowane
+Uzasadnienie: Choć zarówno sam pomysł jak i jego realizacja wywołują spore kontrowersje to jest realizowany.  Branża wydawnicza ostrzega, że bezpłatne e-podręczniki grożą jej sporymi stratami, a przetargi na ich wykonanie trzeba było powtarzać, niemniej jednak pomysłu nie zarzucono. Pierwsze efekty pracy przy tworzeniu e-podręczników mają być dostępne już pod koniec tego roku.
 13. Damy Polakom prawo wyboru, komu przekażą swoją składkę zdrowotną, wprowadzając konkurencję dla NFZ.
-
+Status: Złamana
+Uzasadnienie: Decentralizacja NFZ miała być faktem 1 stycznia 2013 roku. Centrala funduszu miała przestać istnieć, a osobowość prawną miały uzyskać jego oddziały wojewódzkie. W 2014 roku na rynku usług zdrowotnych mieli pojawić się inni płatnicy niż NFZ. Składka zdrowotna trafiałaby nie tylko do publicznego funduszu, ale także do prywatnych ubezpieczycieli. Ministerstwo Zdrowia przygotowało projekt założeń przewidujących decentralizację NFZ, ale bardzo szybko schowało go do szuflady. Projekt został skrytykowany przez partnerów społecznych podczas jego wstępnych konsultacji. Likwidacja centrali funduszu nie budziła emocji, za to za bardzo kontrowersyjne zostało uznane inne rozwiązanie, które znalazło się w założeniach do tej samej ustawy. Chodziło o pomysł stworzenia map potrzeb zdrowotnych przez wojewodów. Placówki medyczne, które nie zostałyby w nich uwzględnione, straciłyby kontrakt. Zarówno pracodawcy, jak samorządy krytykowały ministra zdrowia za to, że pozbawił stronę społeczną wpływu na tak ważne decyzje dotyczące przyszłości szpitali. Resort zdrowia zapewnia, ze z reformy się nie wycofał. Urzędnicy ministerialni cały czas poprawiają projekt. Ma być gotowy na początku przyszłego roku. Oznacza to, że reforma NFZ wejdzie w życie najwcześniej za rok.
 14. Wprowadzimy do kodeksu pracy odnawialne umowy sezonowe dla pracowników, co zwiększy stabilność zatrudnienia wśród młodych.
+
+Status: Zrealizowana
+
+Uzasadnienie: 
 
 15. Zlikwidujemy obowiązek noszenia przez kierowcę przy sobie dowodu rejestracyjnego swojego pojazdu i prawa jazdy, które policja i inne służby będą mogły skontrolować, łącząc się elektronicznie z odpowiednim urzędem.
 
+  > Status: Złamana
+  > 
+  > Uzasadnienie: Niestety to wygodne dla kierowców rozwiązanie w dalszym ciągu jest pieśnią przyszłości. Na razie kierowanie pojazdem bez wymaganych dokumentów na drodze publicznej, w strefie zamieszkania lub strefie ruchu, stanowi wykroczenie opisane w art. 95 kodeksu wykroczeń. Kara grzywny może wynosić maksymalnie 250 zł.
+  > Już kilka lat temu odpowiedzialny za informatyzację wiceminister Piotr Kołodziejczyk obiecywał, że Polacy w ogóle nie będą musieli wozić ze sobą prawa jazdy. Według jego zapewnień – składanych np. czytelnikom DGP w maju ub.r. – to wygodne rozwiązanie miało obowiązywać już w czerwcu 2012 r.
+  > Tak się jednak nie stało ani wtedy, ani teraz. Najprawdopodobniej wdrożenie tego udogodnienia hamują problemy występujące w Centralnej Ewidencji Pojazdów i Kierowców (CEPiK). A to tam można byłoby zweryfikować, czy kontrolowany kierowca bez prawa jazdy przy sobie, posiada uprawnienia. W zeszłym roku Ministerstwo Spraw Wewnętrznych przyznało, że system ten – mimo iż w od lat rozbudowywany – jest już przestarzały i awaryjny. Podjęto więc decyzję o jego kompletnej przebudowie.
+  > W dodatku pojawiły się opinie, że takie rozwiązanie byłoby niezgodne z Konwencją Wiedeńską o ruchu drogowym. – Zgodnie z nią kierowca musi mieć przy sobie dokumenty – twierdzi jeden z rozmówców DGP orientujący się w temacie.
+
 16. Radykalnie ograniczymy dostęp służb specjalnych i policyjnych do bilingów obywateli oraz zwiększymy kontrolę nad wykorzystywaniem podsłuchów.
 
-17. Skrócimy termin wydawania pozwoleń na budowę z około 300 do 100 dni, a liczbę procedur z ponad 30 do 15. Skrócimy termin oczekiwaniaprzezobywatelanarozstrzygnięcie jego sprawy w sądzie o 1/3.
+  > Status: Złamana
+  > 
+  > Uzasadnienie: Zagadnienia związane z dostępem policji do danych telekomunikacyjnych (w tym do wykazów połączeń, tzw. bilingów) reguluje art. 20c ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. Z 2011 r. Nr 287, poz. 1687, z późn. zm.). Przepis ten nie był zmieniany od opublikowania programu PO, czyli od września 2011 r.
+  > Istotne zmiany w zakresie nadzoru prokuratorskiego oraz sądowego nad kontrolą operacyjną, prowadzoną przez uprawnione służby, zostały wprowadzone ustawą z dnia 4 lutego 2011 r. o zmianie ustawy – Kodeks postępowania karnego oraz niektórych innych ustaw (Dz. U. Nr 53, poz. 273). To było jednak przez ogłoszeniem programu wyborczego PO z roku 2011.
 
-18. Będziemy dążyć do zrównoważonego budżetu przed końcem kadencji. Obniżymy relacje długu do PKB do 48% w 2015 roku i do 40% w 2018 roku, dzięki czemu będziemy mieli niższe stopy procentowe i szybszy wzrost gospodarczy.
+17. Skrócimy termin wydawania pozwoleń na budowę z około 300 do 100 dni, a liczbę procedur z ponad 30 do 15. Skrócimy termin oczekiwania przez obywatela na rozstrzygnięcie jego sprawy w sądzie o 1/3.
 
-19. Wzoremkrajównajbardziejrozwiniętych wprowadzimyprzepisygwarantującekobietom „równą płacę za równą pracę”, eliminując dyskryminację kobiet w miejscu pracy.
+  > Status: Nieznany
+  > 
+  > Uzasadnienie: 
+
+18. Zakładamy i temu podporządkujemy także nasze prace, że dług publiczny spadnie w 2012 r. do 52 procent i będzie się systematycznie obniżać do 47 procent na koniec 2015 r. Według definicji krajowej długu.
+
+  > Status: Niezrealizowana
+  > 
+  > Uzasadnienie: Deficyt finansów publicznych w 2012 r. wyniósł 3,9 proc. PKB. Co prawda rządowi udało się utrzymać w limicie deficytu budżetowego (deficyt wyniósł 30,4 mld zł), ale głównie dzięki rekordowo wysokiej wpłacie z zysku Narodowego Banku Polskiego (ponad 8 mld zł). Według unijnego prawa taka wpłata to transfer w ramach podsektora instytucji centralnych, nie jest dochodem i deficytu nie pomniejsza. Skutek? Procedura nadmiernego deficytu nie tylko nie została zdjęta w zapowiadanym przez premiera terminie, ale Komisja Europejska wydłużyła o kolejne dwa lata termin, do którego Polska ma czas na zejście z deficytem do wymaganych 3 proc. PKB.
+
+19. Wzorem krajów najbardziej rozwiniętych wprowadzimy przepisy gwarantujące kobietom „równą płacę za równą pracę”, eliminując dyskryminację kobiet w miejscu pracy.
+
+  > Status: Złamana
+  >
+  > Uzasadnienie: Pełnomocnik ds. równego  traktowania, gdy obejmowała swoją funkcję zapowiadała, że będzie chciała działać na rzecz wprowadzenia parytetów w zakresie obecności kobiet we władzach spółek i wynagrodzeń. Na początek w instytucjach państwowych i spółkach z udziałem państwa miały być wprowadzone instrumenty poprawiające pozycję kobiet. Na zapowiedziach się skończyło. Były tez plany wymuszenia na pracodawcach sporządzania raportów zawierających informację o różnicach w zarobkach między mężczyznami i kobietami. W tym wypadku także skończyło się na zapowiedziach. 
 
 20. Najlepsi maturzyści już od pierwszego roku studiów będą otrzymywać stypendia naukowe. 
 
+  > Status: Złamana
+  >
+  > Uzasadnienie: Wprowadzenie stypendiów naukowych dla studentów pierwszego roku było wskazywane od dawna jako jedna z bolączek systemu wsparcia studentów. Ponieważ przyznawane ono jest za wyniki w nauce – a tych wyników w postaci stopni za zaliczone przedmioty uniwersyteckie pierwszoroczny student jeszcze nie ma – zdolni, młodzi ludzie, mogli otrzymać wsparcie tylko pod postacią stypendium socjalnego. 
+  > Taka możliwość pojawia się w przygotowanej przez resort nowelizacji prawa o szkolnictwie wyższym. O stypendium rektora, wprowadzone na miejsce zlikwidowanych stypendiów za wyniki w nauce i w sporcie, będą mogli ubiegać się już świeżo upieczeni studenci. Resort proponuje, aby podstawą do tego były wyniki matury, jednak ostateczny kształt tego rozwiązania może jeszcze ulec zmianie. Parlament Studentów ze swojej strony proponował, aby brać również pod uwagę udział w olimpiadach przedmiotowych – rozwiązanie, które miałoby pomóc oddzielić bardzo dobrych maturzystów od uczniów naprawdę wybitnych. 
+  > Niestety, pomimo obietnic zmian nie udało się wprowadzić w roku akademickim 2012/2013. Jeśli dobrze pójdzie, najwcześniejszym terminem będzie rok 2014/2015, a więc dwa lata później.
+
 21. Przeznaczymy miliard złotych ze środków unijnych na Fundusz Przedsiębiorczości na Wsi.
 
+  > Status: Nieznany
+  >
+  > Uzasadnienie: Ani w Ministerstwie Rolnictwa, ani w Ministerstwie Finansów nie słyszano o takim projekcie. Oczywiście są unijne Programy Rozwoju Obszarów Wiejskich, ale one funkcjonowały jeszcze przed złożeniem tej obietnicy.
+  
 ---
 
 Zerwiemy ze sztywnym podziałem na opiekę•nad dziećmi w wieku 0–3 lat i następnie edu-kację przedszkolną.	 Te	 dwa	 etapy	 będą	 zin-tegrowane	 w	 spójny	 system	 opieki	 i	 edukacji oraz	 uzupełnione	 o	 ofertę	 pomocy	 dla	 rodzi-ców	w	procesie	wychowania	dzieci	czy	diagnozy ewentualnych	deficytów

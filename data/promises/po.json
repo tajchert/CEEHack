@@ -1,128 +1,170 @@
 [
   {
-    "brief":    "3000 mld zł na Program Inteligentnego Rozwoju",
+    "brief":    "300 mld zł na Program Inteligentnego Rozwoju",
     "full":     "Wynegocjujemy ponad 300 mld złotych w budżecie UE na lata 2014–2020 na nasz program inteligentnego rozwoju, który wesprzemy kolejnymi 100 mld złotych środków własnych.",
-    "status":   "done",
-    "due_date": "18.11.2015"
+    "status":   "fulfilled",
+    "due_date": "18.11.2015",
+    "justification":     "W lutym tego roku polski rząd wynegocjował w Brukseli 72,9 mld euro w ramach funduszu spójności. Obietnica została więc dotrzymana i to z nawiązką – biorąc pod uwagę ówczesny kurs euro, nasz kraj otrzyma w okresie 2014-2020 aż 303,6 mld zł. Do tego dojdzie 28,5 mld euro (118,8 mld zł) w ramach wspólnej polityki rolnej. Sukces tym większy, że nowy budżet UE będzie znacznie bardziej okrojony niż ten z obecnej perspektywy finansowej na lata 2007-2013.\nRządowi udało się także obronić także korzystne zasady wydawania unijnych pieniędzy, na których zależało przede wszystkim samorządom:\n- podatek VAT w projektach dofinansowanych z Funduszy Europejskich będzie kosztem kwalifikowalnym, co oznacza utrzymanie możliwości jego refundacji,\n- poziom dofinansowania unijnego wyniesie nawet 85 proc. dla regionów mniej rozwiniętych oraz 80 proc. dla Mazowsza.",
+    "justification_url": ""
   },
   {
     "brief":    "Zwiększenie płac sfery budżetowej",
     "full":     "Płace sfery budżetowej, zamrożone ze względu na kryzys, zaczną ponownie rosnąć. Podobnie jak konsekwentnie zwiększyliśmy płace nauczycieli, będziemy sukcesywnie podnosić wynagrodzenia innych ważnych społecznie grup zawodowych, zaczynając od nauczycieli akademickich i policjantów.",
-    "status":   "unknown",
-    "due_date": "18.11.2015"
+    "status":   "fulfilled",
+    "due_date": "18.11.2015",
+    "justification":     "Podwyżki uposażeń w kwocie 300 zł brutto od 1 lipca 2012 r. otrzymali funkcjonariusze policji i żołnierze, a od października 2012 r. funkcjonariusze Państwowej Straży Pożarnej, Biura Ochrony Rządu oraz Straży Granicznej.",
+    "justification_url": ""
   },
   {
     "brief":    "Wsparcie dla wydobycia gazu łupkowego",
     "full":     "Do 2013 roku wprowadzimy rozwiązania gwarantujące Polsce wysokie przychody z wydobycia gazu łupkowego, które przeznaczymy na bezpieczeństwo przyszłych emerytur.",
-    "status":   "unknown",
-    "due_date": "31.12.2013"
+    "status":   "fulfilled",
+    "due_date": "31.12.2013",
+    "justification":     "Wciąż nie ma przepisów, które regulowałyby kwestię opodatkowania wydobycia gazu łupkowego oraz proces koncesyjny i poszukiwawczo-wydobywczy. Projekty ustawy węglowodorowej oraz Prawa górniczego i geologicznego znajdują na etapie legislacyjnym w rządzie. Resorty środowiska i skarbu na razie ścierają się o kształt przepisów i ostatecznie nie wiadomo ani kiedy, ani w jakim kształcie wejdzie nowe prawo. To właśnie obie ustawy miał wprowadzić rozwiązania, zapewniające wpływy z wydobycia, które zasilą tzw. Fundusz Pokoleń. Na razie projektu przepisów kilkukrotnie zmieniały treść. Z ostatnich zapisów projektów wynika, że Narodowy Operator Kopalin Energetycznych (państwowa spółka, która będzie udziałowcem każdej koncesji i będzie partycypować w zyskach z wydobycia) ma przekazywać do Funduszu 80 proc. zysków. ",
+    "justification_url": ""
   },
   {
     "brief":    "1000 Świetlików - lokalnych centr kultury",
     "full":     "Na podobieństwo 1800 Orlików wybudujemy 1000 Świetlików – centrów kultury i bibliotek gminnych, które będą wspierać kreatywność i budować umiejętność pracy zespołowej.",
-    "status":   "unknown",
-    "due_date": "18.11.2015"
+    "status":   "broken",
+    "due_date": "18.11.2015",
+    "justification":     "Obietnica nie została spełniona z powodu braku Funduszy. \"Ze względu na trudną sytuację budżetu państwa wynikającą z międzynarodowych zobowiązań kraju (Polska objęta jest procedurą nadmiernego deficytu, co wymaga obniżenia w sposób trwały i wiarygodny deficytu sektora finansów publicznych) oraz zobowiązania budżetu państwa w 2010 i 2011 roku (walka ze skutkami powodzi w 2010 roku), nie było możliwe zaplanowanie środków na program wieloletni i utrzymanie obiektów. Cele, które zostały w nim ujęte, przede wszystkim: przeciwdziałanie marginalizacji społecznej dzieci i młodzieży oraz wyrównywanie ich szans edukacyjnych są realizowane poprzez Program Rozwoju Obszarów Wiejskich na lata 2007-2013 i zostały zaplanowane do realizacji w następcy programu Kapitał Ludzki na lata 2014-2020\"",
+    "justification_url": "http://sejm.gov.pl/Sejm7.nsf/InterpelacjaTresc.xsp?key=1BE55353"
   },
   {
     "brief":    "Fundusze na kształcenie dla seniorów",
     "full":     "W ciągu kadencji zwiększymy wydatki na Uniwersytety Trzeciego Wieku i grupowe zajęcia zdrowotne dla seniorów.",
-    "status":   "unknown",
-    "due_date": "18.11.2015"
+    "status":   "fulfilled",
+    "due_date": "18.11.2015",
+    "justification":     "Choć nie ma oddzielnego programu ministerialnego, który by zajmował się tylko Uniwersytetami Trzeciego Wieku, to część grantów z Rządowego Programu na rzecz Aktywności Społecznej Osób Starszych idzie właśnie na ten cel. W trakcie tej kadencji kwoty przeznaczane na ten program wzrosły i obecnie wynoszą 40 mln zł rocznie. UTW finansują także samorządy, tak więc przy odrobinie dobrej woli można uznać, że obietnica została spełniona.",
+    "justification_url": ""
   },
   {
     "brief":    "Zwiększenie ulgi na trzecie i kolejne dziecko",
     "full":     "W Polsce rodzi się coraz mniej dzieci. Żeby temu zaradzić, radykalnie zwiększymy ulgę rodzinną na trzecie i kolejne dziecko.",
-    "status":   "unknown",
-    "due_date": "18.11.2015"
+    "status":   "fulfilled",
+    "due_date": "18.11.2015",
+    "justification":     "Ulga prorodzinna została zwiększona o 50 proc. na trzecie dziecko i o 100 proc. na czwarte i każde kolejne dziecko. Oznacza to podwyższenie w tych przypadkach rocznej kwoty odliczenia odpowiednio do 1668,06 zł i 2224,08 zł (ulga na dwoje pierwszych dzieci pozostaje na dotychczasowym poziomie i wynosi 1112,04 zł). Wyższą ulgę podatnicy zastosują po raz pierwszy w rozliczeniu PIT za 2013 rok, a więc w zeznaniach podatkowych składanych do 30 kwietnia 2014 r. Zmiany wprowadziła ustawa z 24 października 2012 r. o zmianie ustawy o podatku dochodowym od osób fizycznych (Dz.U. z 2012 r., poz. 1278).",
+    "justification_url": "http://isap.sejm.gov.pl/DetailsServlet?id=WDU20120001278"
   },
   {
     "brief":    "Centra Nauki",
     "full":     "W ramach programu „Koperniki” w każdym województwie do 2020 roku stworzymy „Centra Nauki”, których zadaniem, podobnie jak to się ma w przypadku udanego projektu stołecznego, będzie inspirowanie młodzieży do nauki i innowacyjności.",
-    "status":   "unknown",
-    "due_date": "31.12.2020"
+    "status":   "broken",
+    "due_date": "31.12.2020",
+    "justification":     "Jeszcze w marcu 2012 r. minister nauki i szkolnictwa wyższego Barbara Kudrycka zapowiadała, że regionalne Koperniki powstaną w nowej, unijnej perspektywie finansowej. W tej kwestii wiele się nie zmieniło; resort nauki wciąż czeka na ustalenia dotyczące sposobu podziału środków w ramach pieniędzy, jakie Polska otrzyma z Brukseli w latach 2014-2020. W związku z tym uznajemy, że prace nad obietnicą zostały wstrzymane – do czasu, kiedy wyjaśni się kwestia podziału unijnych środków.",
+    "justification_url": ""
   },
   {
     "brief":    "Likwidacja formularzy PIT",
     "full":     "Zlikwidujemy formularze podatkowe PIT.",
-    "status":   "unknown",
-    "due_date": "18.11.2015"
+    "status":   "broken",
+    "due_date": "18.11.2015",
+    "justification":     "Numerem NIP obecnie posługują się tylko przedsiębiorcy. Dla osób fizycznych nieprowadzących działalności gospodarczej i niebędących zarejestrowanymi podatnikami VAT identyfikatorem podatkowym jest PESEL. Zmiany wprowadziła ustawa z 29 lipca 2011 r. o zmianie ustawy o zasadach ewidencji i identyfikacji podatników o płatników oraz niektórych innych ustaw (Dz.U. nr 171, poz. 1016). Tę zmianę wprowadził sejm VI kadencji.",
+    "justification_url": "http://isap.sejm.gov.pl/DetailsServlet?id=WDU20111711016"
   },
   {
     "brief":    "Obniżenie VAT do 22%",
     "full":     "Obniżymy zasadniczą stawkę VAT do 22% w 2014 roku, kiedy światowy kryzys gospodarczy powinien ustąpić fazie ożywienia.",
-    "status":   "unknown",
-    "due_date": "18.11.2015"
+    "status":   "broken",
+    "due_date": "18.11.2015",
+    "justification":     "Rząd zapowiedział, że od 1 stycznia 2014 r. stawki VAT się nie zmienią. Dalej będą stosowane stawki 8 i 23 proc. Wiceminister finansów Maciej Grabowski tłumaczył, że pozostawienie po 2013 r. wyższych stawek VAT jest niezbędnym warunkiem stabilności makroekonomicznej i długofalowego wzrostu gospodarczego. ",
+    "justification_url": ""
   },
   {
-    "brief":    "",
+    "brief":    "Ulgi dla oszczędzających na emeryturę",
     "full":     "Zwiększymy ulgi podatkowe dla oszczędzających na emeryturę, by motywować skłonność do długookresowego oszczędzania.",
-    "status":   "unknown",
-    "due_date": "18.11.2015"
+    "status":   "fulfilled",
+    "due_date": "18.11.2015",
+    "justification":     "Wprowadzona została tzw. ulga podatkowa na IKZE (Indywidualne Konto Zabezpieczenia Emerytalnego). Zakładając takie konto można odliczyć od rocznego dochodu podlegającego opodatkowaniu PIT kwoty wpłacone na to konto. Limit wpłat na IKZE uprawniający do ulgi zależy od wysokości kwoty stanowiącej podstawę wymiaru składki na ubezpieczenie emerytalne, ustalonej dla oszczędzającego za rok poprzedni (maksymalnie 4 proc. wynagrodzenia brutto). Maksymalna wpłata na IKZE wynosi w 2013 r. 4 231,20 zł. Przy wypłacie z konta podatnik musi zapłacić podatek dochodowy obliczany na zasadach ogólnych według skali podatkowej (obecnie 18 proc. lub 32 proc.). ",
+    "justification_url": "http://isap.sejm.gov.pl/DetailsServlet?id=WDU20110750398"
   },
   {
-    "brief":    "",
+    "brief":    "Szerokopasmowy Internet w każdej gminie",
     "full":     "Zapewnimy dostęp do szerokopasmowego Internetu w każdej gminie.",
-    "status":   "unknown",
-    "due_date": "18.11.2015"
+    "status":   "fulfilled",
+    "due_date": "18.11.2015",
+    "justification":     "Na 57,5 tysiąca wszystkich miejscowości w Polsce w blisko 42 tysiącach wciąż mniej niż 30 procent mieszkańców ma dostęp do internetu szerokopasmowego.Według ostatniego podsumowania Agendy Cyfrowej tylko Rumunia ma gorsze wyniki zasięgu nowoczesnego internetu stacjonarnego. Jest wprawdzie szansa na osiągnięcie celów: dopiero w tym roku udało się województwom ogłosić i wybrać oferty w przetargach na budowę sieci. Ale oprócz sieci szkieletowych trzeba tez budować te tzw. ostatniej mili a z tymi mniejszymi inwestycjami jest gorzej. ",
+    "justification_url": "https://ec.europa.eu/digital-agenda/en/scoreboard"
   },
   {
-    "brief":    "",
+    "brief":    "E-podręczniki w szkołach",
     "full":     "Stopniowo do 2015 roku wprowadzimy do szkół e-podręcznik.",
-    "status":   "unknown",
-    "due_date": "18.11.2015"
+    "status":   "fulfilled",
+    "due_date": "31.12.2015",
+    "justification":     "Choć zarówno sam pomysł jak i jego realizacja wywołują spore kontrowersje to jest realizowany.  Branża wydawnicza ostrzega, że bezpłatne e-podręczniki grożą jej sporymi stratami, a przetargi na ich wykonanie trzeba było powtarzać, niemniej jednak pomysłu nie zarzucono. Pierwsze efekty pracy przy tworzeniu e-podręczników mają być dostępne już pod koniec tego roku.",
+    "justification_url": "http://www.youtube.com/watch?v=yIf5l-xwk8E"
   },
   {
-    "brief":    "",
+    "brief":    "Konkurencja dla NFZ",
     "full":     "Damy Polakom prawo wyboru, komu przekażą swoją składkę zdrowotną, wprowadzając konkurencję dla NFZ.",
-    "status":   "unknown",
-    "due_date": "18.11.2015"
+    "status":   "broken",
+    "due_date": "18.11.2015",
+    "justification":     "Decentralizacja NFZ miała być faktem 1 stycznia 2013 roku. Centrala funduszu miała przestać istnieć, a osobowość prawną miały uzyskać jego oddziały wojewódzkie. W 2014 roku na rynku usług zdrowotnych mieli pojawić się inni płatnicy niż NFZ. Składka zdrowotna trafiałaby nie tylko do publicznego funduszu, ale także do prywatnych ubezpieczycieli. Ministerstwo Zdrowia przygotowało projekt założeń przewidujących decentralizację NFZ, ale bardzo szybko schowało go do szuflady. Projekt został skrytykowany przez partnerów społecznych podczas jego wstępnych konsultacji. Likwidacja centrali funduszu nie budziła emocji, za to za bardzo kontrowersyjne zostało uznane inne rozwiązanie, które znalazło się w założeniach do tej samej ustawy. Chodziło o pomysł stworzenia map potrzeb zdrowotnych przez wojewodów. Placówki medyczne, które nie zostałyby w nich uwzględnione, straciłyby kontrakt. Zarówno pracodawcy, jak samorządy krytykowały ministra zdrowia za to, że pozbawił stronę społeczną wpływu na tak ważne decyzje dotyczące przyszłości szpitali. Resort zdrowia zapewnia, ze z reformy się nie wycofał. Urzędnicy ministerialni cały czas poprawiają projekt. Ma być gotowy na początku przyszłego roku. Oznacza to, że reforma NFZ wejdzie w życie najwcześniej za rok.",
+    "justification_url": ""
   },
   {
-    "brief":    "",
+    "brief":    "Odnawialne umowy sezonowe",
     "full":     "Wprowadzimy do kodeksu pracy odnawialne umowy sezonowe dla pracowników, co zwiększy stabilność zatrudnienia wśród młodych.",
     "status":   "unknown",
-    "due_date": "18.11.2015"
+    "due_date": "18.11.2015",
+    "justification":     "",
+    "justification_url": ""
   },
   {
-    "brief":    "",
+    "brief":    "Elektroniczne dokumenty dla kierowców",
     "full":     "Zlikwidujemy obowiązek noszenia przez kierowcę przy sobie dowodu rejestracyjnego swojego pojazdu i prawa jazdy, które policja i inne służby będą mogły skontrolować, łącząc się elektronicznie z odpowiednim urzędem.",
-    "status":   "unknown",
-    "due_date": "18.11.2015"
+    "status":   "broken",
+    "due_date": "18.11.2015",
+    "justification":     "Niestety to wygodne dla kierowców rozwiązanie w dalszym ciągu jest pieśnią przyszłości. Na razie kierowanie pojazdem bez wymaganych dokumentów na drodze publicznej, w strefie zamieszkania lub strefie ruchu, stanowi wykroczenie opisane w art. 95 kodeksu wykroczeń. Kara grzywny może wynosić maksymalnie 250 zł.",
+    "justification_url": ""
   },
   {
-    "brief":    "",
+    "brief":    "Ograniczenie dostępu służb do bilingów",
     "full":     "Radykalnie ograniczymy dostęp służb specjalnych i policyjnych do bilingów obywateli oraz zwiększymy kontrolę nad wykorzystywaniem podsłuchów.",
-    "status":   "unknown",
-    "due_date": "18.11.2015"
+    "status":   "broken",
+    "due_date": "18.11.2015",
+    "justification":     "Zagadnienia związane z dostępem policji do danych telekomunikacyjnych (w tym do wykazów połączeń, tzw. bilingów) reguluje art. 20c ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. Z 2011 r. Nr 287, poz. 1687, z późn. zm.). Przepis ten nie był zmieniany od opublikowania programu PO, czyli od września 2011 r.\nIstotne zmiany w zakresie nadzoru prokuratorskiego oraz sądowego nad kontrolą operacyjną, prowadzoną przez uprawnione służby, zostały wprowadzone ustawą z dnia 4 lutego 2011 r. o zmianie ustawy – Kodeks postępowania karnego oraz niektórych innych ustaw (Dz. U. Nr 53, poz. 273). To było jednak przez ogłoszeniem programu wyborczego PO z roku 2011.",
+    "justification_url": ""
   },
   {
-    "brief":    "",
-    "full":     "Skrócimy termin wydawania pozwoleń na budowę z około 300 do 100 dni, a liczbę procedur z ponad 30 do 15. Skrócimy termin oczekiwaniaprzezobywatelanarozstrzygnięcie jego sprawy w sądzie o 1/3.",
+    "brief":    "Pozwolenia na budowę w 100 dni",
+    "full":     "Skrócimy termin wydawania pozwoleń na budowę z około 300 do 100 dni, a liczbę procedur z ponad 30 do 15. Skrócimy termin oczekiwania przez obywatela na rozstrzygnięcie jego sprawy w sądzie o 1/3.",
     "status":   "unknown",
-    "due_date": "18.11.2015"
+    "due_date": "18.11.2015",
+    "justification":     "",
+    "justification_url": ""
   },
   {
-    "brief":    "",
-    "full":     "Będziemy dążyć do zrównoważonego budżetu przed końcem kadencji. Obniżymy relacje długu do PKB do 48% w 2015 roku i do 40% w 2018 roku, dzięki czemu będziemy mieli niższe stopy procentowe i szybszy wzrost gospodarczy.",
-    "status":   "unknown",
-    "due_date": "18.11.2015"
+    "brief":    "Relacja długu do PKB: 52% w 2012 i 47% w 2015",
+    "full":     "Zakładamy i temu podporządkujemy także nasze prace, że dług publiczny spadnie w 2012 r. do 52 procent i będzie się systematycznie obniżać do 47 procent na koniec 2015 r. Według definicji krajowej długu.",
+    "status":   "broken",
+    "due_date": "31.12.2015",
+    "justification":     "Deficyt finansów publicznych w 2012 r. wyniósł 3,9 proc. PKB. Co prawda rządowi udało się utrzymać w limicie deficytu budżetowego (deficyt wyniósł 30,4 mld zł), ale głównie dzięki rekordowo wysokiej wpłacie z zysku Narodowego Banku Polskiego (ponad 8 mld zł). Według unijnego prawa taka wpłata to transfer w ramach podsektora instytucji centralnych, nie jest dochodem i deficytu nie pomniejsza. Skutek? Procedura nadmiernego deficytu nie tylko nie została zdjęta w zapowiadanym przez premiera terminie, ale Komisja Europejska wydłużyła o kolejne dwa lata termin, do którego Polska ma czas na zejście z deficytem do wymaganych 3 proc. PKB.",
+    "justification_url": ""
   },
   {
-    "brief":    "",
+    "brief":    "Równa płaca za równą pracę",
     "full":     "Wzorem krajów najbardziej rozwiniętych wprowadzimy przepisy gwarantujące kobietom „równą płacę za równą pracę”, eliminując dyskryminację kobiet w miejscu pracy.",
-    "status":   "unknown",
-    "due_date": "18.11.2015"
+    "status":   "broken",
+    "due_date": "18.11.2015",
+    "justification":     "Pełnomocnik ds. równego  traktowania, gdy obejmowała swoją funkcję zapowiadała, że będzie chciała działać na rzecz wprowadzenia parytetów w zakresie obecności kobiet we władzach spółek i wynagrodzeń. Na początek w instytucjach państwowych i spółkach z udziałem państwa miały być wprowadzone instrumenty poprawiające pozycję kobiet. Na zapowiedziach się skończyło. Były tez plany wymuszenia na pracodawcach sporządzania raportów zawierających informację o różnicach w zarobkach między mężczyznami i kobietami. W tym wypadku także skończyło się na zapowiedziach. ",
+    "justification_url": ""
   },
   {
-    "brief":    "",
+    "brief":    "Stypendia naukowe dla najlepszych maturzystów",
     "full":     "Najlepsi maturzyści już od pierwszego roku studiów będą otrzymywać stypendia naukowe.",
-    "status":   "unknown",
-    "due_date": "18.11.2015"
+    "status":   "broken",
+    "due_date": "18.11.2015",
+    "justification":     "Wprowadzenie stypendiów naukowych dla studentów pierwszego roku było wskazywane od dawna jako jedna z bolączek systemu wsparcia studentów. Ponieważ przyznawane ono jest za wyniki w nauce – a tych wyników w postaci stopni za zaliczone przedmioty uniwersyteckie pierwszoroczny student jeszcze nie ma – zdolni, młodzi ludzie, mogli otrzymać wsparcie tylko pod postacią stypendium socjalnego.\nTaka możliwość pojawia się w przygotowanej przez resort nowelizacji prawa o szkolnictwie wyższym. O stypendium rektora, wprowadzone na miejsce zlikwidowanych stypendiów za wyniki w nauce i w sporcie, będą mogli ubiegać się już świeżo upieczeni studenci. Resort proponuje, aby podstawą do tego były wyniki matury, jednak ostateczny kształt tego rozwiązania może jeszcze ulec zmianie. Parlament Studentów ze swojej strony proponował, aby brać również pod uwagę udział w olimpiadach przedmiotowych – rozwiązanie, które miałoby pomóc oddzielić bardzo dobrych maturzystów od uczniów naprawdę wybitnych.\nNiestety, pomimo obietnic zmian nie udało się wprowadzić w roku akademickim 2012/2013. Jeśli dobrze pójdzie, najwcześniejszym terminem będzie rok 2014/2015, a więc dwa lata później.",
+    "justification_url": ""
   },
   {
-    "brief":    "",
+    "brief":    "1 mld zł na Fundusz Przedsiębiorczości na Wsi",
     "full":     "Przeznaczymy miliard złotych ze środków unijnych na Fundusz Przedsiębiorczości na Wsi.",
     "status":   "unknown",
-    "due_date": "18.11.2015"
+    "due_date": "18.11.2015",
+    "justification":     "Ani w Ministerstwie Rolnictwa, ani w Ministerstwie Finansów nie słyszano o takim projekcie. Oczywiście są unijne Programy Rozwoju Obszarów Wiejskich, ale one funkcjonowały jeszcze przed złożeniem tej obietnicy.",
+    "justification_url": ""
   }
 ]
