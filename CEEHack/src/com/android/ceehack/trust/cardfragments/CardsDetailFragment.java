@@ -19,6 +19,7 @@ import android.widget.LinearLayout;
 
 import com.android.ceehack.trust.R;
 import com.android.ceehack.trust.cards.ChartBarCards;
+import com.android.ceehack.trust.cards.DetailPartyChart;
 import com.android.ceehack.trust.cards.FulfilledCard;
 import com.android.ceehack.trust.cards.InfoCards;
 import com.android.ceehack.trust.cards.ProofCard;
@@ -54,11 +55,14 @@ public class CardsDetailFragment extends Fragment {
 		cardsChart.add(card);
 		card = init_proof_card();
 		cardsChart.add(card);
+		card = init_chart_detail_card();
+		cardsChart.add(card);
 		
-		for (int i = 0; i < 5; i++) {
+		
+		/*for (int i = 0; i < 5; i++) {
 			card = init_chart_card();
 			cardsChart.add(card);
-		}
+		}*/
 		CardArrayAdapter mCardArrayAdapterGrades = new CardArrayAdapter(getActivity(), cardsChart);
 
 		CardListView listView = (CardListView) getActivity().findViewById(R.id.card_list);
@@ -106,7 +110,16 @@ public class CardsDetailFragment extends Fragment {
 		card.setBackgroundResource(getResources().getDrawable(R.drawable.card_back));
 		return card;
 	}
-	
+	private Card init_chart_detail_card() {
+		//ChartPieCard card = new ChartPieCard(getActivity());
+		
+		DetailPartyChart card = new DetailPartyChart(getActivity());
+		
+		CardExpand expand = new CardExpand(getActivity());
+		card.addCardExpand(expand);
+		card.setBackgroundResource(getResources().getDrawable(R.drawable.card_back));
+		return card;
+	}
 	
 	
 	

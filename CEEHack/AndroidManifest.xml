@@ -34,7 +34,7 @@
         <activity
             android:name="com.android.ceehack.trust.ActivityDetail"
             android:label="@string/title_activity_activity_detail"
-            android:parentActivityName="com.android.ceehack.trust.ui.ActivityParty" >
+            android:parentActivityName="com.android.ceehack.trust.ActivityParty" >
         </activity>
     </application>
 
