@@ -16,13 +16,11 @@ import android.widget.ImageView;
 import android.widget.TextView;
 
 import com.android.ceehack.trust.R;
-import com.echo.holographlibrary.BarGraph;
 
 public class ChartBarCards extends Card {
 	private SimpleDateFormat sdf = new SimpleDateFormat("dd.MM.yyyy",
 			java.util.Locale.getDefault());
 
-	protected BarGraph g;
 	
 	public ChartBarCards(Context context) {
 		this(context, R.layout.cards_chart_bar_main);

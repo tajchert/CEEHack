@@ -13,16 +13,15 @@ import android.graphics.RectF;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ImageView;
+import android.widget.RelativeLayout;
 import android.widget.TextView;
 
 import com.android.ceehack.trust.R;
-import com.echo.holographlibrary.BarGraph;
 
 public class DetailPartyChart extends Card {
 	private SimpleDateFormat sdf = new SimpleDateFormat("dd.MM.yyyy",
 			java.util.Locale.getDefault());
 
-	protected BarGraph g;
 	private final int pxHeight = 120;
 	private final int pxWidth = 400;
 	private Bitmap bm;
@@ -128,6 +127,8 @@ public class DetailPartyChart extends Card {
 
 		setBarChart(view, R.id.LowbarThree, mainGreen,
 				Color.parseColor("#30B643"));
+		RelativeLayout mainWrapp = (RelativeLayout) view.findViewById(R.id.mainWrapper);
+		mainWrapp.setBackgroundColor(Color.WHITE);
 
 	}
 

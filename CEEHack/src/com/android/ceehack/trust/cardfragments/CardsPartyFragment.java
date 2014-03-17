@@ -20,7 +20,6 @@ import android.widget.LinearLayout;
 import com.android.ceehack.trust.Application;
 import com.android.ceehack.trust.R;
 import com.android.ceehack.trust.cards.ChartBarCards;
-import com.android.ceehack.trust.cards.ChartPieCard;
 import com.android.ceehack.trust.cards.InfoCard;
 import com.android.ceehack.trust.data.JsonObjResult;
 
