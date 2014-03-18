@@ -1,7 +1,7 @@
 TinD
 ========
 ###Trust In Democracy
-![ScreenShot](../screenshots/screen1.png?raw=true "ScreenShot")![ScreenShot](../screenshots/screen2.png?raw=true "ScreenShot")![ScreenShot](../screenshots/screen3.png?raw=true "ScreenShot")![ScreenShot](../screenshots/screen4.png?raw=true "ScreenShot")![ScreenShot](../screenshots/screen5.png?raw=true "ScreenShot")
+![ScreenShot](/screenshots/screen1.png?raw=true "ScreenShot")![ScreenShot](/screenshots/screen2.png?raw=true "ScreenShot")![ScreenShot](/screenshots/screen3.png?raw=true "ScreenShot")![ScreenShot](/screenshots/screen4.png?raw=true "ScreenShot")![ScreenShot](/screenshots/screen5.png?raw=true "ScreenShot")
 
 Mobile app to show how politics and political parties fulfill their promises.
 App show their promises, and corresponding to it information (mostly voting) with information how they were voting and how was voting whole for example parliament. User decides if it shows that considered person or a party is fulfilling their promises, or it show that they don't. A user can also upload own proofs about some action or a promise.
