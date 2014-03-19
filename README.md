@@ -14,9 +14,9 @@ TinD was developed and awarded 2nd place on the [Central Open Data Hackathon](ht
 
 ###Team
 * Bartłomiej Matuszewski (idea)
-* Janusz Lenar (sejmometr.pl API)
-* Jakub Michoński (sejmometr.pl API)
-* Michał Tajchert (Android)
+* [Janusz Lenar](https://github.com/malleor) (sejmometr.pl API)
+* [Jakub Michoński](https://github.com/themoob) (sejmometr.pl API)
+* [Michał Tajchert](https://github.com/tajchert) (Android)
 * Dawid Cieślak (iOS)
 
 ###Screenshots Android
